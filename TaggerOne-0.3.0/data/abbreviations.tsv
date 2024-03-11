@@ -1,0 +1,4115 @@
+0021369	APC	adenomatous polyposis coli
+10021369	GSK-3beta	glycogen synthase kinase 3beta
+10051005	HNPCC	hereditary non-polyposis cancer syndrome
+10051007	AO	Age of onset
+10051007	APOE	Apolipoprotein E
+10051007	HD	Huntington disease
+10064668	CHH	cartilage-hair hypoplasia
+10071185	DPD	Dihydropyrimidine dehydrogenase
+10071193	BFLS	Borjeson-Forssman-Lehmann syndrome
+10071193	FHF2	factor homologous factor 2
+10077614	DDS	Denys-Drash syndrome
+10077614	WT	Wilms tumor
+10077614	ZF	zinc finger
+10077651	HH	Hereditary hemochromatosis
+10077651	IRE	iron responsive element
+10077651	TfR	transferrin receptor
+10078732	ALD	adrenoleukodystrophy
+10078732	MEPs	motor evoked potentials
+10078732	SEPs	somatosensory evoked potentials
+10083733	APC	adenomatous polyposis coli
+10083733	FAP	familial adenomatous polyposis
+10083733	PTT	protein truncation test
+10083733	RT-PCR	reverse transcription-polymerase chain reaction
+10083733	SSCP	single-strand conformation polymorphism
+10083733	mRNA	messenger RNA
+10083734	PCR	polymerase chain reaction
+10083734	SSCP	PCR/single-strand conformation polymorphism
+10085150	Tf	transferrin
+10085150	TfR	transferrin receptor
+10090880	FMF	Familial Mediterranean fever
+10090885	ALPS	Autoimmune lymphoproliferative syndrome
+10090890	GH	Genetic hemochromatosis
+10091617	PD	Parkinson's disease
+10091617	UKPDRG	United Kingdom Parkinson's Disease Research Group
+10094552	DBS	dried blood spot
+10094559	HGD	"homogentisate 1,2-dioxygenase"
+10094559	aku	Alkaptonuria
+10190331	EVA	Enlarged vestibular aqueduct
+10190819	ALD	adrenoleukodystrophy
+10192393	APC	adenomatous polyposis coli
+10192399	PDS	Pendred syndrome
+10193204	APTT	activated partial thromboplastin time
+10193204	ASA	acetylsalicylic acid
+10193204	EP	epinephrine
+10193204	FAN	fangchinoline
+10193204	PT	prothrombin time
+10193204	TET	Tetrandrine
+10193204	TT	thrombin time
+10194428	HH	Hereditary hemochromatosis
+10196381	ABC	ATP-binding cassette
+10196381	ALDP	adrenoleukodystrophy protein
+10196381	ALDRP	adrenoleukodystrophy-related protein
+10196381	X-ALD	X-linked adrenoleukodystrophy
+10200300	ALPS	autoimmune lymphoproliferative syndrome
+10205262	AKU	alkaptonuria
+10205262	HGO	"homogentisate 1,2 dioxygenase gene"
+10208645	CYP	cytochrome P450
+10208848	FD	Fabry disease
+10208848	GLA	alpha-galactosidase A gene
+10210128	PLP	proteolipid protein
+10213492	APC	adenomatous polyposis coli
+10213492	FAP	familial APC
+10219427	IDR	intradermoreactions
+10220405	BRCT	BRCA1 contains a carboxyl-terminal domain
+10323252	EDMD	Emery-Dreifuss muscular dystrophy
+10323740	VWS	Van der Woude syndrome
+10327032	5-FU	5-fluorouracil
+10330348	AT	ataxia-telangiectasia
+10330430	FHC	familial hypertrophic cardiomyopathy
+10330430	IDC	idiopathic dilated cardiomyopathy
+10342929	ACE	angiotensin-converting enzyme
+10353787	AGA	aspartylglucosaminidase
+10353787	AGU	Aspartylglucosaminuria
+10364518	OCRL	oculocerebrorenal syndrome of Lowe
+10364520	FMF	Familial Mediterranean fever
+10364521	FMRP	FMR1 gene product
+10364525	HPC	hereditary prostate cancer
+10364525	NPL	nonparametric linkage
+10365197	CIMD	cocaine-induced mood disorder
+10369860	VCFS/DGS	velo-cardio-facial syndrome/DiGeorge syndrome
+10369870	EGR2	early growth response 2 gene
+10369876	AVP	arginine vasopressin
+10369876	Leu	Leu-AVP
+10377440	GPI	glycosyl phosphatidylinositol
+10382909	EMD	Emery-Dreifuss muscular dystrophy
+10382910	EDMD	Emery-Dreifuss muscular dystrophy
+10401555	CNS	central nervous system
+10401555	ORL1	opioid receptor-like receptor 1
+10403837	PHA	phytohemagglutinin
+10408771	GALT	galactose-1-phosphate uridyl transferase
+10408776	PCR	polymerase chain reaction
+10408776	RCC	renal cell carcinoma
+10408776	SSCP	single-strand conformational polymorphism analysis
+10408776	VHL	von Hippel-Lindau
+10411929	CHS	Chediak-Higashi syndrome
+10411929	CTLA-4	Cytotoxic T lymphocyte-associated antigen 4
+10417279	PLP	proteolipoprotein
+10417279	PMD	Pelizaeus-Merzbacher Disease
+10417280	AS	Angelman syndrome
+10417280	PWS	Prader-Willi syndrome
+10417286	CL/P	cleft lip/palate
+10417286	CP	cleft palate
+10417286	VWS	van der Woude syndrome
+10425038	PCR	polymerase chain reaction
+10425038	SSCP	single-strand conformation polymorphism
+10429004	MHP	mild hyperphenylalaninemia
+10429004	MPKUCS	Maternal PKU Collaborative Study
+10429004	PAH	phenylalanine hydroxylase
+10429004	PKU	phenylketonuria
+10430841	CTX	cerebrotendinous xanthomatosis
+10430930	AS	Angelman syndrome
+10430930	PWS	Prader-Willi syndrome
+10434119	vWS	van der Woude syndrome
+10441343	MJD	Machado-Joseph disease
+10441571	CTS	C-terminal subdomain
+10441571	NTS	N-terminal subdomain
+10446987	COLIA1	collagen type Ialpha1
+10446987	DFSP	Dermatofibrosarcoma protuberans
+10446987	PDGF	platelet-derived growth factor
+10447259	WAS	Wiskott-Aldrich syndrome
+10447259	WASP	WAS protein
+10449429	DMD	Duchenne muscular dystrophy
+10449794	A-T	Ataxia-telangiectasia
+10449794	ROS	reactive oxygen species
+10462057	HBMP	human bone marrow progenitor
+10465113	DTDST	diastrophic dysplasia sulphate transporter gene
+10470088	FAP	familial adenomatous polyposis
+10470286	PCR-SSCP	Polymerase chain reaction-single-strand conformation polymorphism
+10472529	PAH	phenylalanine hydroxylase
+10480214	EDMD	Emery-Dreifuss muscular dystrophy
+10480348	ERG	electroretinogram
+10484765	3'-UTR	3'-untranslated region
+10484765	DMPK	DM protein kinase gene
+10487695	G395R	Gly395-->Arg
+10487710	AVP	arginine vasopressin
+10487710	AVP-NPII	AVP-neurophysin II
+10487710	FNDI	Familial neurohypophyseal diabetes insipidus
+10491763	HNF	hepatocyte nuclear factor
+10491763	II	non-insulin-dependent
+10500204	FRDA	Friedreich ataxia
+10519880	CTX	cerebrotendinous xanthomatosis
+10519880	PCR-SSCP	polymerase chain reaction-single strand conformation polymorphism
+10519880	RT-PCR	reverse transcription PCR
+10526274	GEM	gemcitabine
+10526274	NSCLC	nonsmall cell lung carcinoma
+10526274	VNB	vinorelbine
+10528243	FMF	familial Mediterranean fever
+10528860	PWS	Prader-Willi syndrome
+10541953	GH	growth hormone
+10541953	PWS	Prader-Willi syndrome
+10543403	FRDA	Friedreich ataxia
+10545613	5-azadC	5-azadeoxycytidine
+10554035	FISH	fluorescence in situ hybridization
+10554035	VHL	von Hippel-Lindau
+10556283	cPNETs	central primitive neuroectodermal tumors
+10556285	SCA3/MJD	Spinocerebellar ataxia type-3 or Machado-Joseph disease
+10556298	PWS	Prader-Willi syndrome
+10571943	DDS	Denys-Drash syndrome
+10571943	FS	Frasier syndrome
+10577908	FALDH	fatty aldehyde dehydrogenase
+10577908	SLS	Sjogren-Larsson syndrome
+10577908	SNPs	single-nucleotide polymorphisms
+10579464	MAP	methamphetamine
+10579464	PPI	prepulse inhibition
+10589394	LOD	limit of detection
+10589394	STR	short tandem repeat
+10589394	VWS	Van der Woude syndrome
+10590055	GP	glycoprotein
+10593994	CTSC	cathepsin C gene
+10593994	PLS	Papillon-Lefevre syndrome
+10594001	AKU	Alkaptonuria
+10594001	HGO	"homogentisate-1,2-dioxygenase gene"
+10598803	AAPC	attenuated adenomatous polyposis coli
+10602116	CT	computed tomography
+10607954	CT	computed tomography
+10612394	ATLD	ataxia-telangiectasia-like disorder
+10615125	FEO	Familial expansile osteolysis
+10615125	NF-kappaB	nuclear factor-kappaB
+10615125	PDB	Paget disease of bone
+10615125	RANK	receptor activator of nuclear factor-kappa B
+10618304	IVF	idiopathic ventricular fibrillation
+10618304	hbeta(1)	human beta(1)-subunit
+10636421	XLRS	X-linked retinoschisis
+10639175	ATM	"ataxia telangiectasia, mutated"
+10639175	CNS	central nervous system
+10639175	IR	ionizing radiation
+10661407	BG	Birbeck granules
+10661407	LC	Langerhans cells
+10662807	HMS	Haim-Munk syndrome
+10662807	PLS	Papillon-Lefevre syndrome
+10662807	PPK	palmoplantar keratoderma
+10672628	NADPH-d	nicotinamide adenine dinucleotide phosphate-diaphorase
+10672628	NO	Nitric oxide
+10672628	NOS	nitric-oxide synthase
+10677309	A-T	ataxia-telangiectasia
+10698963	G6PD	glucose 6-phosphate dehydrogenase
+10698963	aa	amino acid
+10704919	TAM	Tamoxifen
+10704919	alpha-T	alpha-tocopherol
+10704919	alpha-TAc	alpha-tocopherol acetate
+10706004	SBP	systolic blood pressure
+10709732	ALPS	Autoimmune lymphoproliferative syndrome
+10712201	AS	Angelman syndrome
+10712201	PWS	Prader-Willi syndrome
+10712209	ICPCG	International Consortium for Prostate Cancer Genetics
+10712225	HD	Huntington disease
+10713017	PPH	primary pulmonary hypertension
+10713017	SPH	secondary pulmonary hypertension
+10716718	A-T	ataxia-telangiectasia
+10721669	WD	Wilson disease
+10724160	WASP	Wiskott-Aldrich syndrome protein
+10732811	MJD	Machado-Joseph disease
+10732811	SCA3	spinocerebellar ataxia type 3
+10732816	EDMD	Emery-Dreifuss muscular dystrophy
+10735274	FRDA	Friedreich ataxia
+10736265	GK	Glycerol kinase
+10736265	IGT	Impaired glucose tolerance
+10737980	X-ALD	X-linked Adrenoleukodystrophy
+10737981	EBP	elastin binding protein
+10739826	OC	oral contraceptives
+10739826	VTE	venous thromboembolism
+10747931	HMG	high mobility group
+10766245	AT	ataxia-telangiectasia
+10766245	NBS	Nijmegen breakage syndrome
+10767313	FMR1	fragile X mental retardation-1
+10767313	FMRP	FMR1 protein
+10767326	ARA	Axenfeld-Rieger anomaly
+10767326	IOP	intraocular pressure
+10767339	YAC	yeast artificial chromosome
+10767343	DMPK	DM protein kinase
+10767347	FRDA	Friedreich ataxia
+10770468	ECG	electrocardiographic
+10777718	AJ	Ashkenazi Jewish
+10777718	GD	Gaucher disease
+10777718	LD	linkage disequilibrium
+10777718	STR	short tandem repeat
+107868	AS	ankylosing spondylitis
+10790204	VLCAD	Very long chain acyl-CoA dehydrogenase
+10797418	FISH	Fluorescence in situ hybridization
+10797418	PWS	Prader-Willi syndrome
+10798358	GLDC	glycine decarboxylase gene
+10798358	NKH	nonketotic hyperglycinemia
+10798358	PCR	polymerase chain reaction
+10802660	ES	embryonic stem
+10802660	IC	'imprinting centre'
+10802660	PWS	Prader-Willi syndrome
+10802669	A-T	ataxia-telangiectasia
+10802669	DSBs	double-strand breaks
+10802669	IR	ionizing radiation
+10802669	NBS	Nijmegen breakage syndrome
+10807793	FMF	Familial Mediterranean fever
+10807793	IFN	interferon
+10807793	IL	interleukin
+10814710	MPS IVA	Mucopolysaccharidosis IVA
+10817650	A-T	ataxia-telangiectasia
+10818206	Chr	Chromosome
+10818206	FMF	Familial Mediterranean fever
+10827108	PLP	proteolipid protein gene
+10827108	PMD	Pelizaeus-Merzbacher disease
+10830910	VHL	Von Hippel-Lindau
+10830915	FRDA	Friedreich ataxia
+10835440	BP	blood pressure
+10835440	DBP	diastolic BP
+10835440	INWEST	Intravenous Nimodipine West European Stroke Trial
+10835440	SBP	systolic BP
+10839544	A-T	Ataxia-telangiectasia
+10839544	NBS	Nijmegen breakage syndrome
+10861282	AS	Ankylosing spondylitis
+10861282	CYP2D6	cytochrome P450 2D6 gene
+10878391	WAS	Wiskott-Aldrich syndrome
+10878391	WASP	WAS protein
+10888879	AAV	adeno-associated virus
+10888879	ERGs	electroretinograms
+10891444	FGA	fibrinogen alpha
+10901305	CHEOPS	Children's Hospital of Eastern Ontario Pain Scale
+10911990	PSF	PTB associated splicing factor
+10911990	PTB	polypyrimidine tract binding protein
+10911990	U2AF	U2 auxiliary factor
+10915770	PWS	Prader-Willi syndrome
+10923035	BFIC	Benign familial infantile convulsions
+10923035	GEFS +	"generalized epilepsy and febrile seizures ""plus"""
+10923035	SCN1B	sodium channel beta1 subunit gene
+10924409	AFAP	attenuated FAP
+10924409	APC	adenomatous polyposis coli
+10924409	FAP	familial adenomatous polyposis
+10930361	FRDA	Friedreich ataxia
+10930361	MDa	megadaltons
+10930571	AAS	Aarskog-Scott Syndrome
+10930571	Btk	Bruton's tyrosine kinase
+10930571	PH	pleckstrin homology
+10930571	Rho/Rac GEF	Rho/Rac guanine nucleotide exchange factors
+10932179	HD	Huntington disease
+10947987	APC	adenomatous polyposis coli gene
+10947987	GEF	guanine nucleotide exchange factor
+10958786	DCC	Deleted in Colorectal Cancer
+10975596	FS	fractional shortening
+10975596	HR	Heart rate
+10975596	LVEF	left ventricular ejection fraction
+10976074	mRNA	messenger RNA
+10982189	APC	adenomatous polyposis coli
+10982189	FAP	familial adenomatous polyposis
+10986547	EPS	Extrapyramidal Symptom
+10986547	Y-MRS	Young-Mania Rating Scale
+10987655	EA-2	episodic ataxia type 2
+10987655	FHM	familial hemiplegic migraine
+10987655	SCA6	spinocerebellar ataxia 6
+11007689	TMA	thrombotic microangiopathy
+11026989	CT	contrast threshold
+11026989	RT	reaction time
+11027905	MMSE	Mini-Mental State Examination
+11027905	NMDA	N-methyl-D-aspartate
+11054569	DOX	doxorubicin
+11054569	MDR	multidrug resistant
+11054569	MS-RDA	methylation sensitive-representational difference analysis
+11135224	CI	confidence interval
+11135224	NSCLC	nonsmall cell lung carcinoma
+11135381	MUP	maximum urethral pressure
+11176729	ACE	angiotensin-converting enzyme
+11176729	CHF	chronic heart failure
+11176729	OD	once daily
+11229942	CE	cocaethylene
+11229942	IV	intravenous
+11250767	MPO	myeloperoxidase
+11250767	pANCA	perinuclear-staining antineutrophil cytoplasmic autoantibodies
+11256525	RAS	renin-angiotensin system
+11263551	CIPS	Calcineurin-inhibitor Induced Pain Syndrome
+11279304	ANP	atrial natriuretic peptide
+11279304	BNP	brain natriuretic peptide
+11279304	DNR	daunorubicin
+11334364	AAP	acetaminophen
+11334364	AMI	amiodarone
+11334364	DNA	endonuclease-dependent and independent
+11334364	DOX	doxorubicin
+11334364	GSPE	grape seed proanthocyanidin extract
+11379838	SSRIs	selective serotonin reuptake inhibitors
+11380496	MPO-ANCA	Myeloperoxidase antineutrophil cytoplasmic antibody
+11380496	MPO-ANCA	myeloperoxidase-antineutrophil cytoplasmic antibody
+11380496	PTU	propylthiouracil
+11385188	ECG	electrocardiography
+11391224	PTCR	peritubular capillary basement membranes
+11391224	TG	transplant glomerulopathy
+11401944	APD	action potential duration
+11401944	EAD	early afterdepolarization
+11401944	TDR	transmural dispersion of repolarization
+11401944	TdP	torsade de pointes
+11423811	DSE	Dobutamine stress echocardiography
+11426838	DTG	di-o-tolylguanidine
+11439380	NCS	nerve conduction studies
+11439380	SNAPs	sensory nerve action potentials
+11532387	RS	Rabbit syndrome
+11569530	MAPD	monophasic action potential duration
+11569530	TDP	Torsades de pointes
+11679859	CI	confidence interval
+11706060	ANF	atrial natriuretic factor
+11706060	CM	cardiomyopathy
+11706060	HAART	Highly active antiretroviral therapy
+11706060	LA	lactate
+11708428	PDN	prednisone
+11745287	AUC	area under the concentration curve
+11773892	CRF	chronic renal failure
+11773892	ESRD	End-stage renal disease
+11773892	ESRD	end-stage renal disease
+11799346	FDA	Food and Drug Administration
+11799346	WHO	World Health Organization
+11807648	FS	Fibrin sealants
+11807648	tAMCA	tranexamic acid
+11875660	E13.5	embryonic day 13.5
+11915580	DCF	diclofenac
+11915580	DPI	difference in pain intensity score
+11915580	GTN	glyceryl trinitrate
+11915580	NO	nitric oxide
+11936424	ACE	angiotensin converting enzyme
+11936424	BP	blood pressure
+11936424	GSI	glomerulosclerosis index
+11936424	PAN	puromycin aminonucleoside
+11936424	SD	Sprague-Dawley
+11961407	GLEPP1	Glomerular epithelial protein 1
+11961407	PAN	puromycin aminonucleoside
+12051122	SIADH	secretion of anti-diuretic hormone
+12059909	CY	cyclophosphamide
+12063090	ua	units area
+12090760	AZT	Azidothymidine
+12090760	EPO	erythropoietin
+12090760	IGF II	insulin-like growth factor II
+12090760	IL-3	interleukin 3
+12119460	5-FU	5-fluorouracil
+12119460	AGC	advanced gastric cancer
+12119460	CI	confidence interval
+12119460	FA	folinic acid
+12119460	HUS	hemolytic-uremic syndrome
+12119460	MMC	mitomycin C
+12198388	ACh	acetylcholine
+12198388	WSP	Withdrawal Seizure-Prone
+12359538	CK	creatine kinase
+12359538	MI	myocardial infarction
+12359538	cTnI	cardiac troponin I
+12372954	AIN	acute interstitial nephritis
+12442272	ALS	amyotrophic lateral sclerosis
+12452552	CRF	chronic renal failure
+12452552	NMS	neuroleptic malignant syndrome
+1248000	A-T	Ataxia-telangiectasia
+12487093	BBB	blood-brain barrier
+12498738	RCR	respiratory control ratio
+12523465	EEG	electroencephalogram
+12523489	CPA	N6-cyclopentyladenosine
+12523489	CPT	8-cyclopentyltheophylline
+12523489	DMPX	3,7-dimethyl-1-propargylxanthine
+12523489	NECA	5'-N-ethylcarboxamidoadenosine
+12535818	AF	atrial fibrillation
+12535818	CI	confidence interval
+12535818	MI	myocardial infarction
+12535818	OR	odds ratio
+12584269	CsA	cyclosporine A
+12584269	GFR	glomerular filtration rate
+12584269	SRL	Sirolimus
+12589964	CIPS	Calcineurin-inhibitor induced pain syndrome
+12589964	DOX	doxorubicin
+12589964	ED	End-diastolic
+12589964	ES	end-systolic
+12589964	FS	fractional shortening
+12589964	cTnI	Cardiac troponins I
+12615818	CI	confidence interval
+12615818	COCs	combined oral contraceptives
+12615818	CPA/EE	Cyproterone acetate combined with ethinyl estradiol
+12615818	PCOS	polycystic ovary syndrome
+12615818	VTE	venous thromboembolism
+12617329	GM	gentamicin
+12627929	VTE	venous thromboembolism
+12644816	PSA	prostate-specific antigen
+12653683	CGRP	calcitonin gene-related peptide
+12653683	PAN	puromycin aminonucleoside
+12678199	TdP	torsade de pointes
+12684739	DA	dopamine
+12684739	GVG	gamma-Vinyl GABA
+12684739	NAcc	nucleus accumbens
+12684739	VFD	visual field defects
+12695819	ADC	Apparent diffusion coefficient
+12695819	DW	diffusion-weighted
+12699527	MC	Myotonia congenita
+12716030	ICH	intracerebral hemorrhage
+12752472	TE	time
+12752472	TI	time
+12752472	VE	ventilation
+12757899	SE	status epilepticus
+1279971	PDGFRA	platelet-derived growth factor receptor alpha subunit
+12820454	CAB	combined androgen blockade
+12820454	Hb	hemoglobin
+12828076	sFas	soluble Fas
+1282899	HPRT	hypoxanthine guanine phosphoribosyltransferase
+1282899	PRPP	5-phosphoribosyl-1-pyrophosphate
+12865514	STN	subthalamic nucleus
+1289188	DFX	desferrioxamine
+12907309	MPEP	2-methyl-6-(phenylethynyl)pyridine
+12907309	mGluR5	metabotropic glutamate receptor 5
+1301189	Hex A	hexosaminidase A
+1301189	TSD	Tay-Sachs disease
+1301190	TSD	Tay-Sachs disease
+1301200	HPA	hyperphenylalaninemia
+1301200	PAH	phenylalanine hydroxylase
+1301200	PKU	phenylketonuria
+1301201	PAH	phenylalanine hydroxylase
+1301937	TSD	Tay-Sachs disease
+1301938	TSD	Tay-Sachs disease
+1302003	CHM	Choroideremia
+1303170	Mb	million base pair
+1303170	STSs	sequence-tagged sites
+1303170	YAC	yeast artificial chromosome
+1303171	PFGE	pulsed-field gel electrophoresis
+1303173	G6PD	glucose 6-phosphate dehydrogenase
+1303277	PWS	Prader-Willi syndrome
+1303277	SNRPN	small nuclear RNA associated polypeptide SmN
+1307230	Hex A	beta-hexosaminidase A
+1307230	TSD	Tay-Sachs disease
+1307245	ND	Norrie disease
+1307245	SSCP	single strand conformation polymorphism
+1307253	SSCP	single strand conformation polymorphism
+1313112	FAPC	familial adenomatous polyposis coli
+1315306	HD	Huntington disease
+1315306	Pdeb	PDE beta-subunit gene
+1316718	HIV	human immunodeficiency virus
+1316718	WAS	Wiskott-Aldrich syndrome
+1317264	APC	adenomatous polyposis coli
+1319059	DMD	Duchenne muscular dystrophy
+1319059	kb	14-kilobase
+1319838	APC	adenomatous polyposis coli
+1319838	FAP	familial adenomatous polyposis
+1322637	TSD	Tay-Sachs disease
+1323345	G6PD	glucose-6-phosphate dehydrogenase
+1323345	nt	nucleotide
+1324223	DGGE	denaturing gradient gel electrophoresis
+1324223	FAP	Familial adenomatous polyposis
+1325652	APC	adenomatous polyposis coli
+1325652	MCC	mutated in colorectal carcinoma
+1325652	YACs	yeast artificial chromosomes
+1334370	FISH	Fluorescence in situ hybridization
+1338764	APC	adenomatous polyposis coli
+1338764	FAP	familial adenomatous polyposis
+1338764	PCR	polymerase chain reaction
+1338904	APC	adenomatous polyposis coli
+1338904	FAP	familial adenomatous polyposis
+1338904	LOH	loss of heterozygosity
+1338904	MCR	mutation cluster region
+1345170	DTD	diastrophic dysplasia
+1346773	WAS	Wiskott-Aldrich syndrome
+1347968	DMD	Duchenne muscular dystrophy
+1349199	DGS	DiGeorge syndrome
+1351034	APC	adenomatous polyposis coli
+1351034	FAP	familial adenomatous polyposis
+1351034	LOH	Loss of heterozygosity
+1352883	GAA	G----T transversion that converts a glutamine
+1353340	ARSA	arylsulfatase A
+1353340	ARSA	arylsulfatase A
+1353340	MLD	metachromatic leukodystrophy
+1353340	MLD	metachromatic leukodystrophy
+1357962	PWS	Prader-Willi syndrome
+1358807	XAI	X-linked amelogenesis imperfecta
+1360900	5-HT	5-hydroxytryptamine
+1361100	PAH	phenylalanine hydroxylase
+1361100	PKU	Phenylketonuria
+1361318	C2	complement factor 2
+1376553	PLP	proteolipid protein
+1376553	PMD	Pelizaeus-merzbacher disease
+1378968	GFR	glomerular filtration rate
+1378968	HP	high protein
+1380672	PLP	Proteolipid protein
+1384323	Hex A	beta-hexosaminidase A
+1384324	CVS	chorionic villus sample
+1384324	PLP	proteolipid protein
+1384324	SSCP	single-strand conformation polymorphism
+1409710	vWF	von Willebrand factor
+1420650	CBZ	carbamazepine
+1423336	LNAA	large neutral amino acid
+1424237	CES	cat eye syndrome
+1436384	NMDA	N-methyl-D-aspartate
+1449452	ACE	Angiotensin-converting enzyme
+1449452	MI	myocardial infarction
+14510914	ITD	Iodide transport defect
+14510914	nt	nucleotide
+14568327	LIDs	Levodopa-induced dyskinesias
+14568327	PD	Parkinson's disease
+14657095	AmB	amphotericin B
+14659530	CGRP	calcitonin gene-related peptide
+1468459	CFND	craniofrontonasal dysplasia
+14722929	NSARD	non-syndromic autosomal recessive deafness
+14748761	CI	confidence interval
+14748761	GEM	gemcitabine
+14748761	VDS	vindesine
+14748761	VNR	vinorelbine
+1483696	HEXA	hexosaminidase A
+1483696	TSD	Tay-Sachs disease
+15000256	PCR	polymerase chain reaction
+15000256	SSCP	-single strand conformation polymorphism
+15009014	VIP	vasoactive intestinal polypeptide
+15018851	CMV	anti-cytomegalovirus
+15018851	gB	glycoprotein B
+15036754	ACh	acetylcholine
+15036754	AChEs	acetylcholinesterases
+15036754	BChEs	butyrylcholinesterases
+15036754	CNS	central nervous system
+15036754	CPA	N(6)-cyclopentyl adenosine
+15036754	DFP	diisopropylfluorophosphate
+15036754	OP	organophosphorus
+15036754	SC	subcutaneously
+15041272	GPIb	glycoprotein Ib
+15041272	HMW	high-molecular weight
+15041272	PCR	polymerase chain reaction
+15041272	RIPA	ristocetin-induced platelet aggregation
+15041272	VWD	von Willebrand disease
+15041272	VWF	von Willebrand factor
+15041272	VWF:Ag	von Willebrand factor antigen
+15041272	VWF:RCo	von Willerand factor ristocetin-cofactor
+1505217	AGA	aspartylglucosaminidase
+1505217	AGU	Aspartylglucosaminuria
+1505982	ACP1	acid phosphatase-1
+15064320	AR	androgen receptor
+15064320	MPH	male pseudohermaphrodite
+15064320	T	testosterone
+15064320	hCG	human chorionic gonadotropin
+15069170	GS	Gitelman's syndrome
+15069170	NCCT	Na-Cl co-transporter
+15075188	ENaC	epithelial Na channel
+15075188	IM	inner medulla
+15075188	ISOM	inner stripe of the outer medulla
+15075188	NHE3	Na(+)/H(+) exchanger type 3
+15075188	PAN	puromycin aminonucleoside
+15075188	TSC	thiazide-sensitive Na(+)-Cl(-) cotransporter
+15086325	AA	amino acids
+15086325	FV	factor V
+15086325	PCR	polymerase chain reaction
+15086325	cDNA	complementary DNA
+15094729	MRDs	mean radial degrees
+15096016	PD	Parkinson's disease
+15099351	PCSK9	Proprotein convertase subtilisin/kexin type 9
+15120741	SE	status epilepticus
+15122708	DRMs	Desmin-related myopathies
+15122708	SEPN-RM	SEPN-related myopathy
+15122711	POLG	polymerase gamma
+15130900	CI	confidence interval
+15130900	ORs	odds ratios
+1517503	PG	pyoderma gangrenosum
+15191352	RTH	Resistance to thyroid hormone syndrome
+15191352	TR-beta	thyroid hormone receptor beta gene
+15198485	BP	blood pressure
+15198485	ET-1	Endothelin-1
+15200408	PCR	polymerase chain reaction
+15200408	SNPs	single nucleotide polymorphisms
+15200408	UP	uroplakin
+15200408	VUR	vesicoureteral reflux
+15229250	MA	methamphetamine
+15229250	MRI	magnetic resonance imaging
+15233872	TCR	Tincture of Crataegus
+15241482	CHD	coronary heart disease
+15241482	PON1	paraoxonase 1
+15265979	PPARalpha	peroxisome proliferator-activated receptor-alpha
+15265979	PPARalpha-/-	PPARalpha knockout
+15266215	COX	cyclooxygenase
+15266215	NSAIDs	nonsteroidal antiinflammatory drugs
+15266215	cardiac	cardiovascular thrombotic events
+1527456	IST	Idiopathic subjective tinnitus
+15275829	nAChRs	nicotinic acetylcholine receptors
+15325671	CHF	congestive heart failure
+15366550	DI	diabetes insipidus
+15458908	CI	confidence interval
+15458908	RR	relative risk
+15459183	AS	alternatively spliced
+15459183	SLE	systemic lupus erythematosus
+15459975	DSAP	Disseminated superficial actinic porokeratosis
+15461822	rDEN-2	recombinant DEN-2
+15464247	IL-12	Interleukin-12
+15464247	IL12B	interleukin 12B
+15464247	SVR	sustained virologic response
+15485686	LQTS	long QT syndrome
+15515654	DFO	desferrioxamine
+15515654	SNHL	sensorineural hearing loss
+15523499	beta-AR	beta-adrenergic receptors
+15572383	ACE	angiotensin-converting enzyme
+15572383	i.v.	intravenously
+15583840	RT-PCR	reverse transcription-PCR
+15599941	AR	androgen receptor
+15599941	ARE	androgen response element
+15599941	BPH	benign prostatic hyperplasia
+15599941	PC	prostate cancer
+15599941	PSA	prostate specific antigen
+15605432	3NT	3-nitrotyrosine
+15605432	4HNE	4-hydroxy-2-nonenal
+15605432	ADR	adriamycin
+15609295	BSS	Bernard-Soulier syndrome
+15609295	GP	glycoprotein
+15609701	VT	ventricular tachycardia
+15614572	WDS	wet dog shake
+15623763	Arg124Cys	arginine 124-to-cysteine
+15623763	Arg555Trp	arginine 555-to-tryptophan
+15623763	GCD	granular corneal dystrophy
+15623763	Gly594Val	glycine-594-valine
+15623763	His626Arg	histidine 626-to-arginine
+15623763	LCD	lattice corneal dystrophy
+15623763	Leu269Phe	leucine 269 to phenylalanine
+15623763	SNPs	single-nucleotide polymorphisms
+15623763	Val539Asp	valine-539-aspartic acid
+15625689	OPSE	oropharyngeal swallowing efficiency
+15625689	PD	Parkinson's disease
+1562739	G6PD	Glucose-6-PHOSPHATE dehydrogenase
+1562739	PCR	polymerase chain reaction
+1562739	RE	PCR/restriction enzyme
+15627798	MAP	mitogen-activated protein
+15627798	NF-kappaB	nuclear factor-kappaB
+15627798	PDTC	pyrrolidine dithiocarbamate
+15632880	ESRD	End-stage renal disease
+15649253	PCNSL	primary central nervous system lymphomas
+15649445	TD	tardive dyskinesia
+15673851	CSF	cerebrospinal fluid
+15673851	IT	intrathecally
+15673851	NMDA	N-methyl-d-aspartate
+15686794	AF	atrial fibrillation
+15696449	AL	amyloidosis
+15696449	ARI	Acute renal insufficiency
+15696449	PBSCT	peripheral blood stem cell transplant
+15748645	UV	ultraviolet
+15754732	pHPT	Primary hyperparathyroidism
+15755837	AOR	adjusted odds ratio
+15755837	DHFR	Dihydrofolate reductase
+15770495	SRD5A2	steroid 5alpha-reductase type 2
+1577476	DMD	Duchenne muscular dystrophy
+1577476	GRMD	Golden retriever muscular dystrophy
+1577763	C2	C2D
+15807692	PTC	premature termination codon
+15814629	ACE	angiotensin I-converting enzyme
+15814629	UICC	Unio Internationale Contra Cancrum
+15815446	15/HTN	15/hypertension
+15815446	90/HTN	90/hypertension
+15818664	5'-UTR	5'-untranslated region
+15820770	DBP	D-binding protein
+15820770	RFLP	PCR-restriction fragment length polymorphism method
+15851735	GE	glycine encephalopathy
+15851735	GLDC	glycine decarboxylase
+15858223	15-F(2t)-IsoP	15-F(2t)-isoprostane
+15858223	LPO	lipid hydroperoxides
+15858223	TBARs	thiobarbituric acid reactive substances
+15858223	VPA	valproic acid
+15858223	alpha-GST	alpha-glutathione S-transferase
+15859361	CE	Celecoxib
+15859361	N	Nimesulide
+15859361	NSAIDs	non-steroidal anti-inflammatory drugs
+15863244	COX	Cyclooxygenase
+15863244	MD	midline
+15867855	OR	odds ratio
+15867855	SNPs	single nucleotide polymorphism
+15867855	TIM	T-cell immunoglobulin mucin
+15882284	ESRD	end-stage renal disease
+15882284	NSAIDs	nonsteroidal anti-inflammatory drugs
+15893386	Sch	succinylcholine
+1592014	BE	benzoylecgonine
+15951966	MAPH	multiplex amplifiable probe hybridisation
+15957009	ACh	acetylcholine
+15957009	TRP	tryptophan
+15957009	i.p.	intraperitoneally
+15970799	SNP	single nucleotide polymorphism
+15983230	IGT	impaired glucose tolerance
+15983230	SNPs	single nucleotide polymorphisms
+15987266	CHX	cycloheximide
+15987266	MFS	mossy fiber sprouting
+15987266	Pilo	pilocarpine
+15991002	EPM	elevated plus-maze
+16000134	SMV	superior mesenteric vein
+16001362	ADCA	Autosomal dominant cerebellar ataxia
+16001362	GEF	guanine-nucleotide exchange factor
+16001362	UTR	untranslated region
+16005363	WFS	Wolfram syndrome
+1601297	ECG	electrocardiograms
+16018252	ORF	open reading frame
+16018252	Tyr	Tyrosine
+16034922	HT	Hormone therapy
+16051693	NAFLD	nonalcoholic fatty liver disease
+16051693	PEMT	Phosphatidylethanolamine N-methyltransferase
+16083708	DILI	drug-induced liver injury
+1610789	GALT	galactose-1-phosphate uridyltransferase
+16112787	CAT	catalase
+16112787	MDA	malondialdehyde
+16112787	NAG	N-acetyl-beta-d-glucosaminidase
+16112787	ROS	reactive oxygen species
+16112787	SOD	superoxide dismutase
+16112787	VCM	vancomycin
+16112787	i.p.	intraperitoneally
+16116131	SMA	supplementary motor area
+16116131	rTMS	repetitive transcranial magnetic stimulation
+16120104	5'-UTR	5'-untranslated region
+16120104	ASPS	advanced sleep phase syndrome
+16120104	PER2	PERIOD2
+16152606	ALL	acute lymphoblastic leukemia
+16152606	HL	Hodgkin lymphoma
+16152606	NBS	Nijmegen breakage syndrome
+16152606	NHL	non-Hodgkin lymphoma
+16157158	BMI	body mass index
+16157158	SAD	seasonal affective disorder
+1615846	HDL	high-density lipoprotein
+1615846	LDL	low-density lipoprotein
+16160878	U-II	Urotensin-II
+16160878	i.c.v.	Intracerebroventricular
+16167916	PAI-1	plasminogen activator inhibitor-1
+16167916	TAFI	thrombin-activatable fibrinolysis inhibitor
+16167916	tPA	tissue-type plasminogen activator
+16186368	BCD	Bietti crystalline dystrophy
+16186368	ERG	electroretinography
+16200390	5-HT	5-hydroxytryptamine
+16200390	AADC	amino acid decarboxylase
+16200390	MAOA	monoamine oxidase A
+16200390	TPH	tryptophan hydroxylase
+16252083	MMR	mismatch repair
+16277682	PDB	Paget's disease of bone
+16277682	p62/SQSTM1	p62/Sequestosome 1 gene
+16277682	p62/SQSTM1	p62/sequestosome 1
+16288197	MCOR	microcoria locus
+16288197	MYOC	myocilin
+16288197	OPTN	optineurin
+16288199	SNPs	single nucleotide polymorphisms
+16298782	NO	nitric oxide
+16309808	NaSSA	noradrenergic and specific serotonergic antidepressant
+16309808	RLS	restless legs syndrome
+16321363	CDG-Ic	congenital disorder of glycosylation-Ic
+16323982	Apo	apolipoproteins
+16323982	CPA	cyproterone acetate
+16323982	LP	lipoproteins
+16323982	TG	triglycerides
+16330669	EORTC	WHO-European Organisation for Research and Treatment of Cancer
+16330669	FISH	fluorescence in situ hybridization
+16330669	PCFCL	primary cutaneous follicle center lymphoma
+16330669	PCLBCL	primary cutaneous large B-cell lymphoma
+16330766	fMRI	functional magnetic resonance imaging
+16337777	CCO	cytochrome c oxidase
+16337777	FR	free radical
+16364460	MWM	Morris water maze
+16369751	5-FU	5-fluorouracil
+16369751	FBAL	alpha-fluoro-beta-alanine
+16391785	DOCK8	dedicator of cytokinesis 8
+16403073	TdP	torsades de pointes
+16410744	PCR	Polymerase chain reaction
+16412238	FPLD3	familial partial lipodystrophy type 3
+16412238	MIM	Mendelian Inheritance in Man
+16418600	SIDS	Sudden infant death syndrome
+16419642	MR	mineralocorticoid receptor
+16428827	ACh	acetylcholine
+16428827	AD	Alzheimer's disease
+16428827	ChAT	choline acetyltransferase
+16506214	CAPS	cancer prostate in Sweden
+16506214	SNPs	single nucleotide polymorphisms
+16526029	RGS4	regulator of G-protein signaling 4
+16526029	SNP	single nucleotide polymorphisms
+16543197	LCA	Leber congenital amaurosis
+16543197	RP	retinitis pigmentosa
+16565833	DOX	doxorubicin
+16565833	monoHER	monohydroxyethylrutoside
+16574712	DEX	Dysexecutive Questionnaire
+16574712	MDMA	3,4-methylenedioxymethamphetamine
+16575011	FU	fluorouracil
+16575011	HR	hazard ratio
+16575011	SNP	single nucleotide polymorphism
+16575011	TS	thymidylate synthase
+16575011	bp	base pair
+16584858	LDH	lactate dehydrogenase
+16584858	MI	myocardial infarction
+16584858	TTC	triphenyl tetrazolium chloride
+16586083	NT-proBNP	N-terminal pro brain natriuretic peptide
+16611040	CF	Cystic fibrosis
+16629641	HCV	hepatitis C virus
+16629641	SVRs	sustained virologic responses
+1664218	NSCLC	non-small cell lung cancer
+16680561	CYP	cytochrome P450 isoenzyme
+1671851	ALD	adrenoleukodystrophy
+1671881	PAH	phenylalanine hydroxylase
+1671881	PAH	phenylalanine hydroxylase
+16720068	NMS	neuroleptic malignant syndrome
+16723784	AF	atrial fibrillation
+16723784	AFL	atrial flutter
+16723784	Bpd	Bepridil hydrochloride
+16723784	Tdp	torsade de pointes
+16725121	NET	norepinephrine transporter
+16731636	HR	heart rate
+16731636	Iso	isoproterenol
+16731636	LV	left ventricular
+16731636	RAS	renin-angiotensin system
+16731636	SD	Sprague-Dawley
+16731636	beta-AR	beta-adrenoceptor
+1673289	HD	Huntington disease
+16737910	NLS	nuclear localization signal
+16737910	TEL	Translocation-Ets-Leukemia
+16755009	DCE	Daucus carota seeds
+1676565	PLP	proteolipid protein
+1676565	PMD	Pelizaeus-Merzbacher disease
+1678319	APC	adenomatous polyposis coli
+1678319	DP1	deleted in polyposis 1
+16786513	GSD-V	Glycogen storage disease type V
+16787750	VPA	Valproic acid
+1679035	FMF	familial Mediterranean fever
+1679035	RFLP	restriction fragment length polymorphism
+1679035	SAA	serum amyloid A
+16810074	ET-1	endothelin-1
+16810074	NO	nitric oxide
+16820346	SBP	systolic blood pressure
+16820346	atorva	atorvastatin
+16820346	dex	dexamethasone
+1682919	BCL1	B-cell lymphoma 1
+16838170	CI	confidence interval
+16838170	HNF4alpha	Hepatocyte nuclear factor 4alpha
+16838170	IGT	impaired glucose tolerance
+16838170	SNPs	single nucleotide polymorphisms
+16840830	MEN1	Multiple endocrine neoplasia type 1
+16840830	PHPT	primary hyperparathyroidism
+1684088	ARSA	arylsulfatase A
+1684088	MLD	metachromatic leukodystrophy
+16843501	Fpg	formamidopyrimidine-DNA glycosylase
+16844102	DA	dopamine
+16844102	DFO	deferoxamine
+16844102	MA	Methamphetamine
+16844102	alpha-TC	alpha-tocopherol
+1684569	RFLP	Restriction fragment length polymorphism
+1684569	WAS	Wiskott-Aldrich syndrome
+16849419	HHRH	Hereditary hypophosphatemic rickets with hypercalciuria
+16867021	RAMH	(R)-alpha-methylhistamine
+16867021	THP	thioperamide
+16867246	EPS	Extrapyramidal syndrome
+16867246	PCR	polymerase chain reaction
+16906379	CRP	C-reactive protein
+16911931	HBIg	hepatitis B immune globulin
+16911931	HBV	hepatitis B virus
+16920333	CBZ	carbamazepine
+16920333	OXC	oxcarbazepine
+16970763	FEVR	familial exudative vitreoretinopathy
+16970763	ROP	retinopathy of prematurity
+17000021	JIA	juvenile idiopathic arthritis
+17000021	SNP	single nucleotide polymorphisms
+17000021	T1D	type 1 diabetes
+17003357	Lyp	lymphoid-specific phosphatase
+17003923	SNPs	single nucleotide polymorphisms
+17006606	FAS	FS-7 cell-associated cell surface antigen
+17006606	IL1beta	interleukin 1 beta
+17006606	NFkappaB	nuclear factor of kappa B
+17033686	MR	mental retardation
+17035713	CAA	Chloroacetaldehyde
+17035713	IFO	ifosfamide
+17035713	SH	sulfhydryl
+17042884	BARS	Barnes Akathisia Rating Scale
+17042884	EPS	extrapyramidal symptoms
+17042884	SAS	Simpson-Angus Scale
+17042910	Ato	Atorvastatin
+17042910	Dex	Dexamethasone
+17042910	NO	nitric oxide
+17042910	SBP	Systolic blood pressure
+17042910	SD	Sprague-Dawley
+17042910	eNOS	endothelial NO synthase
+17059986	GS	Gitelman syndrome
+17065198	AK	actinic keratosis
+17065198	CsA	cyclosporin A
+17065198	HPV	Human Papillomas Virus
+17065198	NMSCs	non-melanoma skin cancers
+17065198	RTRs	renal transplant recipients
+17065198	SCCs	squamous cell carcinomas
+17069550	ABC	Aberrant Behavior Checklist
+1707231	PLP	proteolipid protein
+17083016	CI	confidence interval
+17083016	OR	odds ratio
+17083016	SP	Surfactant protein
+1709636	PAH	phenylalanine hydroxylase
+1709636	PKU	Phenylketonuria
+1711760	MAP	mean arterial pressure
+1711760	MCAO	middle cerebral artery occlusion
+1711760	SG	Specific gravity
+17166870	CI	confidence interval
+17166870	ENG	Endoglin gene
+17166870	OR	odds ratio
+17166870	PAH	pulmonary arterial hypertension
+17166870	SSc	Systemic sclerosis
+17166870	TGF-beta	transforming growth factor-beta
+17175308	CAN	chronic allograft nephropathy
+17175308	SRL	Sirolimus
+17177139	RTH	Resistance to thyroid hormone
+17177139	RXR	retinoid X receptor
+17177139	TH	thyroid hormones
+17177139	TRbeta	thyroid hormone beta receptor
+17177139	TSH	thyroid stimulating hormone
+17185386	DISC1	'Disrupted in Schizophrenia 1'
+17194457	5-HIAA	5-hydroxyindoleacetic acid
+17194457	AAS	anabolic androgenic steroid
+17194457	T	testosterone
+1720453	IVA	ifosfamide, vincristine, and dactinomycin
+17221831	AD	Alzheimer's disease
+17221831	PNP	purine nucleoside phosphorylase
+17221831	SNP	single nucleotide polymorphism
+17242861	CSS	Chromosome substitution strains
+17244258	4-DAMP	4-diphenylacetoxy-N-methylpiperidine
+17255138	AMI	acute myocardial infarction
+17255138	GI	gastrointestinal
+17255138	NS	non-selective
+17255138	NSAIDs	non-steroidal anti-inflammatory drugs
+17261653	HCN	hyperpolarization-activated cyclic nucleotide-gated
+17277899	ACE	Alu sequences
+17277899	STRs	short tandem repeats
+17286451	LOH	loss of heterozygosity
+17286451	RB	retinoblastoma
+17297207	ECG	electrocardiography
+17297207	PVC	premature ventricular contraction
+17304550	FISH	fluorescence in situ hybridization
+17318851	FGFR1	fibroblast growth factor receptor 1
+17318851	IRF6	Interferon regulatory factor 6
+17343925	TEOAEs	transient evoked otoacoustic emissions
+17344330	TdP	torsade de pointes
+17345627	BMP4	bone morphogenetic protein 4
+17345627	BMPs	Bone morphogenetic proteins
+17345627	FOP	fibrodysplasia ossificans progressiva
+17345627	bmp5	bone morphogenetic protein 5
+17351238	GTN	glyceryl trinitrate
+17356399	ALL	acute lymphoblastic leukemia
+17379047	BP	blood pressure
+17379047	HCTZ	hydrochlorothiazide
+17379047	MSDBP	mean sitting diastolic BP
+17379047	MSSBP	mean sitting systolic BP
+17379047	VAL	valsartan
+17391797	NASH	nonalcoholic steatohepatitis
+17391797	PCR	polymerase chain reaction
+17391797	PEMT	phosphatidylethanolamine N-methyltransferase
+17395743	ESRD	end-stage renal disease
+17395743	SNPs	single nucleotide polymorphisms
+17397547	GO	gene ontology
+17397547	IPA	Ingenuity Pathways Analysis
+17397547	LPS	lipopolysaccharide
+17397547	PAR	Protease-activated receptors
+17397547	Q-PCR	quantitative PCR
+17397547	SP	substance P
+17400887	PN	postnatal days
+17437408	AEDs	antiepileptic drugs
+17437408	BBB	blood-brain barrier
+17437408	MRP2	multidrug resistance protein 2
+17437408	Pgp	P-glycoprotein
+17437408	TR(-)	transport-deficient
+17439425	GC-HT	Glucocorticoid-induced hypertension
+17439425	SBP	Systolic blood pressures
+17439425	XO	xanthine oxidase
+17439425	dex	dexamethasone
+17439425	dex-HT	dexamethasone-induced hypertension
+17445520	MDP	major depression with panic attacks
+17445520	PD	panic disorder
+17466854	CARE	Cardiac Angiography in Renally Impaired Patients
+17484470	LV	left ventricular
+17484470	MAP	mitral annuloplasty
+17484470	MR	mitral regurgitation
+17495183	DPS	Diabetes Prevention Study
+17495183	IGT	impaired glucose tolerance
+17495183	T2D	type 2 diabetes
+17495183	TNMD	tenomodulin
+17496739	CAPD	continuous ambulatory peritoneal dialysis
+17496739	GTCS	generalized tonic-clonic seizure
+17532790	LID	L-DOPA-induced dyskinesia
+17532790	MS	mass spectrometry
+17532790	PD	Parkinson's disease
+17549393	IRF6	interferon regulatory factor 6
+17549393	VWS	Van der Woude syndrome
+17554526	CN	cocaine naive participants
+17554526	EFE	emotional facial expression
+17554526	OC	occasional cocaine
+17554526	RC	recreational cocaine
+17562951	CARE	Cardiac Angiography in Renally Impaired Patients
+17562951	SCr	Serum creatinine
+1756784	GFAP	glial fibrillary acidic protein
+1756784	SNR	substantia nigra
+17572393	BCNU	carmustine-[1,3-bis ( 2-chloroethyl ) -1-nitrosoure]
+17572393	BCNU	carmustine-[1,3-bis (2-chloroethyl)-1-nitrosoure]
+17595233	CARD	2/caspase recruitment domain
+17595233	IBD	inflammatory bowel disease
+17595233	NOD	nucleotide oligomerisation domain
+17595233	Omp	outer membrane porin
+17595233	TLR	Toll-like receptor
+1760851	DOX	doxorubicin
+1760851	HPMA	N-(2-hydroxypropyl)methacrylamide
+17628794	Ala	alanine
+17628794	Mn-SOD	Manganese superoxide dismutase
+17628794	Mn-SOD	manganese superoxide dismutase gene
+17628794	Val	valine
+17634480	ROS	reactive oxygen species
+17634480	SNPs	single nucleotide polymorphisms
+17639754	HBV	hepatitis B virus
+17671735	GJB6	Delta(GJB6-D13S1830)
+17683901	FGFR3	fibroblast growth factor receptor 3
+1769645	PAH	phenylalanine hydroxylase
+1776638	FPC	familial polyposis coli
+1776638	GS	Gardner syndrome
+1779253	PHN	post-herpetic neuralgia
+1779253	VAS	visual analogue scale
+17828434	MIP	Myo-inositol-1-phosphate
+17854040	ARV	antiretroviral
+17854040	HAART	highly active antiretroviral ( ARV ) treatment
+17854040	HAART	highly active antiretroviral (ARV) treatment
+17854040	HBV	HBsAg- positive
+17854040	HBV	HBsAg-negative
+17854040	HBV	hepatitis B virus
+17854040	HIV	human immunodeficiency virus
+17854040	RT	reverse transcriptase
+17877751	TMC1	transmembrane channel-like gene 1
+17879100	ATIN	Acute tubulo-interstitial nephritis
+17879100	BUN	blood urea nitrogen
+17879100	NSAIDs	non-steroidal anti-inflammatory drugs
+17879100	TBM	tubular basement membrane
+17879217	IE	infective endocarditis
+17910065	SSCP	Single stranded conformational polymorphism
+17931375	VAS	visual analog scale
+17935240	XLRP	X-linked retinitis pigmentosa
+17943461	AIDS	acquired immunodeficiency syndrome
+17943461	DCM	Dilated cardiomyopathy
+17943461	HAART	Highly active antiretroviral therapy
+17943461	NTg	non-transgenic
+17951029	FDH	Focal dermal hypoplasia
+17951029	GAA	glutamic acid residue
+17951029	TAA	to a premature termination codon
+17954033	PCR-RFLP	polymerase chain reaction-restriction fragment length polymorphism
+17959715	MMR	mismatch repair
+17959715	PCR	polymerase chain reaction
+17959715	t-AML	therapy related acute myeloid leukaemia
+17962394	NYS	nystagmus
+17965424	AEs	adverse experiences
+17965424	EDGE-II	etoricoxib vs diclofenac sodium gastrointestinal tolerability and effectiveness trial
+17965424	GI	gastrointestinal
+17965424	PGADS	Patient Global Assessment of Disease Status
+17965424	RA	rheumatoid arthritis
+17968299	ARMS-PCR	amplification refractory mutation system polymerase chain reaction
+18000905	BPRs	birth prevalence rates
+18000905	CL/P	cleft palate
+18000905	CPO	cleft palate only
+18000905	ECLAMC	Estudio Colaborativo Latinoamericano de Malformaciones Congenitas
+18020536	BZDs/RDs	benzodiazepines or related drugs
+18020536	MMSE	Mini-Mental State Examination
+18020536	SD	standard deviation
+18046082	LPG	Lipoprotein glomerulopathy
+18046082	apoE	and elevated plasma levels of apolipoprotein E
+18046082	apoE	arginine 150 proline
+18050247	IRAK1	interleukin-1 receptor-associated kinase 1 gene
+18050247	SLE	systemic lupus erythematosus
+18050247	SNPs	single-nucleotide polymorphisms
+18050247	TDT	transmission disequilibrium testing
+18081909	EEG	electroencephalogram
+18081909	LEV	levetiracetam
+18081909	VPA	valproate
+18083142	DBH	dopamine beta-hydroxylase
+18083142	Dbh -/-	dopamine beta-hydroxylase knockout
+18083142	EPM	elevated plus maze
+18083142	NE	norepinephrine
+18162529	PRL-R	prolactin receptors
+18165598	COX	cyclooxygenase
+18165598	PGE2	prostaglandin E2
+18165598	TXB2	thromboxane B2
+18166824	POF	premature ovarian failure
+18179903	MPS	Multiple pterygium syndromes
+18179903	RAPSN	rapsyn
+18182964	ADHD	attention-deficit/hyperactivity disorder
+18189233	RNASEL	ribonuclease L
+18189308	CYP	cyclophosphamide
+18189308	DRG	dorsal root ganglia
+18189308	GFAP	glial fibrillary acidic protein
+18189308	NGF	nerve growth factor
+18189308	Trks	tyrosine kinase receptors
+18208574	HIT	heparin-induced thrombocytopenia
+18208574	OD	optical density
+18221780	NMDA	N-methyl-D-aspartate
+18235024	CDSRR	Cone dystrophy with supernormal rod response
+18257781	ADPKD	Autosomal dominant polycystic kidney disease
+18257781	DGGE	denaturing gradient gel electrophoresis
+18257781	IMCD	Inner medullar collecting duct
+18257781	PBMCs	peripheral blood mononuclear cells
+18261172	ARB	angiotensin-releasing blocker
+18261172	IS	immunosuppressive
+18261172	Srl	sirolmus
+18270997	COMT	Catechol-O-methyltransferase
+18270997	SNP	single nucleotide polymorphism
+18308784	LTP	long-term potentiation
+18308784	NMDA	N-methyl-D-aspartate
+1831007	HD	Huntington disease
+1831007	TS	Tourette syndrome
+18310445	BMP	bone morphogenetic proteins
+18310445	BMPRIA	BMP receptor types IA
+1833974	SSCP	single-strand conformational polymorphisms
+18340638	PS	phosphatidylserine
+18343374	CC	clomiphene citrate
+1835291	FEV1	forced expiratory volume in 1 second
+18366737	TCA	tricarboxylic acid
+18385794	CSGE	Conformational sensitive gel electrophoresis
+18385794	HMG	high mobility group
+18397285	VWD	von Willebrand disease
+18397285	VWF	von Willebrand factor
+18399341	ASA	American Society of Anesthesiologists
+18408250	HLA	human leukocyte antigen
+18408250	IRF5	Interferon regulatory factor 5
+18408250	OR	odds ratio
+18408250	RA	rheumatoid arthritis
+18408250	SE	shared epitope
+18408250	SLE	systemic lupus erythaematosus
+18408250	SNPs	single nucleotide polymorphisms
+18410508	DA	dopamine
+18410508	METH	Methamphetamine
+18410508	eGFP	enhanced green fluorescent protein
+18410548	LOH	Loss of heterozygosity
+18410548	PAP	Pituitary adenoma predisposition
+18417364	BOLD	blood oxygen level-dependent
+18417364	NIN	nicotine-induced nystagmus
+18417364	fMRI	functional magnetic resonance imaging
+18422462	EFV	efavirenz
+18422462	HAART	highly active antiretroviral therapy
+18422462	NVP	nevirapine
+18439317	G/D	guanine insertion/deletion
+18439317	MMPs	Matrix metalloproteinases
+18439803	VPA	valproic acid
+18441470	AV	atrioventricular
+18442015	LPO	lipid peroxide
+18450790	CLE	cutaneous lupus erythematosus
+18450790	SAP	sensory action potential
+18457324	CHF	congestive heart failure
+18457324	M	methionine
+18457324	NQO1	NQO1*2
+18457324	OR	odds ratio
+18457324	V	valine
+18464113	ALT	alanine aminotransferase
+18464113	CT	chemotherapy
+18464113	HBV	Hepatitis B virus
+18470323	LCDI	lattice corneal dystrophy type I
+18470323	PCR-RFLP	polymerase chain reaction-restriction fragment length polymorphism
+18483878	CYP	cyclophosphamide
+18483878	VIP	Vasoactive intestinal polypeptide
+18483878	VIP-/-	vasoactive intestinal polypeptide knockout
+18483878	WT	wild type
+1848636	PM	poor metabolizers
+18487244	mtDNA	mitochondrial DNA
+18507837	SEARCH	Studies of Epidemiology and Risk factors in Cancer Heredity
+18507837	SNP	single nucleotide polymorphism
+18560792	PD	Parkinson's disease
+1858969	DEC	diethylcarbamazine
+18593936	Sp	specificity protein
+18593936	VEGF	vascular endothelial growth factor
+18593936	VEGFR1	VEGF receptor 1
+18593936	kappaB	NF-kappaB
+18619688	3MA	3-methyladenine
+18619688	MPT	mitochondrial permeability transition
+18631865	mToR	mammalian target of rapamycin
+18672102	CHD	congenital heart disease
+18672102	DHPLC	denaturing high-performance liquid chromatography
+18672102	VSD	ventricular septal defect
+18674790	HFD	high fat diet
+18674790	ND	normal diet-fed
+18674790	OB	obese
+18681856	NAH	non-autoimmune hyperthyroidism
+18699851	CGH	array-comparative genomic hybridization
+18699851	MCL	Mantle cell lymphoma
+18703024	PD	protein deprived
+18726058	BAEPs	Brainstem auditory evoked potentials
+18752389	UGT	uridine diphosphate glucoronosyltransferases
+18768591	sgk1(-/-)	SGK1
+18772193	alpha-syn	alpha-synuclein
+18779591	MFA	Multiple fibroadenomas
+18779591	Prl	prolactin
+18779591	STAT5	signal transducer and activator of transcription 5
+18791947	BSS	Bernard-Soulier Syndrome
+18808529	DGC	dystrophin-glycoprotein complex
+18809400	DRG	dorsal root ganglion
+18821488	CN	cyanide
+18821488	IV	intravenously
+18821488	MHb	methemoglobin
+18827003	hGR	human glucocorticoid receptor
+18945509	CAD	coronary artery disease
+18951540	PD	Parkinson's disease
+18951540	rTMS	repetitive transcranial magnetic stimulation
+1897530	GALT	galactose-1-phosphate uridyl transferase
+18987260	ADR	adriamycin
+18987260	SHR	spontaneously hypertensive rats
+18991055	OR	odds ratio
+18991055	SNPs	single nucleotide polymorphisms
+18991055	T2DM	type 2 diabetes mellitus
+18996674	ED	Emergency Department
+19037252	PLCE1	phospholipase C epsilon 1
+19037603	HBV	hepatitis B virus
+19037603	HBs Ag	hepatitis B virus surface antigen
+19048115	NF1	Neurofibromin 1
+19048115	OSC	Ovarian serous carcinoma
+19058010	ISO	isoproterenol
+19067809	ATR1	angiotensin II receptor type 1
+19067809	DBP	diastolic blood pressure
+19067809	HUT	head-up tilt test
+19067809	I/D ACE	in genomic DNA: angiotensin-converting enzyme insertion/deletion polymorphism
+19067809	SBP	systolic blood pressure
+19067809	SDNN	standard deviation of the normal-to-normal
+19082493	CRC	colorectal cancer
+19082493	PCR	polymerase chain reaction
+19082493	PFS	progression-free survival
+19082493	SNP	single nucleotide polymorphism
+19082493	VNTR	variable number of tandem repeats
+19101703	OPMD	Oculopharyngeal muscular dystrophy
+19101703	PABPN1	polyadenylate binding-protein nuclear 1
+19139825	GBM	glioblastoma multiforme
+19139825	OS	overall survival
+19178808	ETT	endotracheal tube
+19178808	FESS	functional endoscopic sinus surgery
+19178808	FRLMA	flexible reinforced laryngeal mask airway
+19178808	TIVA	total i.v. anesthesia
+19184102	NAFLD	nonalcoholic fatty liver disease
+19184102	VPA	Valproic acid
+1919871	RPN	Renal papillary necrosis
+19207031	GH	growth hormone
+19207031	GHD	GH-deficiency
+19207031	SDS	IGF-1-standard deviation score
+19208385	OI	Osteogenesis imperfecta
+19211690	BP	Blood pressure
+19211690	DS	Dahl salt-sensitive rats
+19211690	HS	high-salt
+19211690	LS	low-salt
+19218574	CI	confidence interval
+19218574	PCOS	polycystic ovary syndrome
+19218574	PI	Phosphatidylinositol
+19234905	ADL	activities of daily living
+19234905	GPi	globus pallidus interna
+19234905	PD	Parkinson's disease
+19234905	STN	subthalamic nucleus
+19234905	UPDRS	Unified Parkinson's Disease Rating Scale
+19263707	ANCA	Antineutrophil cytoplasmic antibody
+19263707	PTU	propylthiouracil
+19276632	DSD	disorders of sex development
+19293073	CVD	cardiovascular disease
+19293073	RCTs	randomized, controlled trials
+19293073	USPSTF	U.S. Preventive Services Task Force
+19299179	PCP	Pneumocystis pneumonia
+19306381	MPNSTs	Malignant peripheral nerve sheath tumors
+19306381	NF1	neurofibromatosis Type 1
+19306381	NRG-1	neuregulin-1
+19319147	PCC	prothrombin complex concentrate
+19319147	W-ICH	Warfarin-associated intracerebral hemorrhage
+19338378	ACTs	activated clotting times
+19338378	HIT	heparin-induced thrombocytopenia
+19338378	PCI	percutaneous coronary intervention
+19338378	aPTTs	activated partial thromboplastin times
+19346865	ADC	apparent diffusion coefficient
+19346865	DWI	diffusion-weighted imaging
+19346865	FLAIR	fluid attenuated inversion recovery
+19346865	MRI	magnetic resonance imaging
+19353688	IT	Insertional translocations
+19353688	PCDH9	protocadherin-9
+19353688	STR	Short tandem repeat
+19356053	CNI	calcineurin inhibitor
+19356307	OFH	open field habituation test
+19356307	PA	passive avoidance test
+19365571	EM	electron microscope
+19365571	KS	keratan sulfate
+19365571	LM	light microscope
+19365571	MCD	macular corneal dystrophy
+19365571	PCR	polymerase chain reaction
+19370764	MLIII	Mucolipidosis type III
+19370764	NMD	nonsense-mediated mRNA decay
+1937471	HPRT	hypoxanthine-guanine phosphoribosyltransferase
+19394258	dGK	Deoxyguanosine kinase
+19419794	CPu	caudate-putamen
+19419794	Cg	cingulate cortex
+19419794	DA	dopamine
+19419794	PENK	proenkephalin
+19447152	ICV	intracerebroventricular
+19447152	TBARSs	thiobarbituric acid reactive substances
+19463742	JNK	c-Jun N-terminal kinase
+19473225	PAC	paclitaxel
+19484664	ACE	angiotensin converting enzyme
+19508969	JBTS	Joubert syndrome
+19508969	LOD	logarithm of odds
+19508969	MKS	Meckel-Gruber syndrome
+19508969	NPHP	Nephronophthisis
+19515070	AKI	acute kidney injury
+19521089	PD	Parkinson's disease
+19536134	TAK1	TGFbeta activated kinase 1
+19549709	IHC	immunohistochemistry
+19549709	NSCLC	non-small-cell lung cancer
+19549709	ORR	overall response rate
+19549709	PFSs	progression-free survivals
+19549709	mTOR	mammalian target of rapamycin
+19549709	pAKT	phospho AKT
+19565319	ASDs	Autism spectrum disorders
+19581773	CHC	chronic hepatitis C
+19581773	IFN	interferon
+19592582	IRIDA	iron-refractory iron deficiency anemia
+19624920	MDR TB	multidrug-resistant tuberculosis
+19631624	ACC	anterior cingulated cortex
+19631624	fMRI	functional magnetic resonance imaging
+19655282	CTA	computerized tomography angiography
+19655282	EDs	emergency departments
+19672862	CDK	cyclin-dependent kinase
+19672862	GSK-3beta	glycogen synthase kinase-3beta
+19672862	PKC	protein kinase C
+19672862	PTEN	phosphatase and tensin homolog
+19672862	p21	p21(Cip1/WAF1)
+19672862	p27	p27(Kip1)
+1968617	PAH	phenylalanine hydroxylase
+1968617	PKU	Phenylketonuria
+19692487	AQP2	aquaporin-2
+19692487	PG	prostaglandin
+19692487	mPGES-1	microsomal prostaglandin E synthase-1
+19692487	q	quantitative
+19696792	SNPs	single nucleotide polymorphisms
+19707748	CYP	cytochrome P450
+19719056	ED	etodolac-dextran conjugates
+19721134	4-DAMP	4-diphenylacetoxy-N-methylpiperidine-methiodide
+19721134	mAChR	M(3)-muscarinic acetylcholine receptor
+19728177	FHF	fulminant hepatic failure
+19728177	MICU	medical intensive care unit
+1973404	AGA	aspartylglucosaminidase
+1973404	AGU	Aspartylglucosaminuria
+1975560	APOC1	apolipoprotein C1
+19759529	DAT(-/-)	dopamine transporter
+19759529	GlyT1	glycine transporter-1
+19759529	NMDA	N-methyl-D-aspartate
+19767176	PDTC	Pyrrolidine dithiocarbamate
+19779499	HypoPP	Hypokalaemic periodic paralysis
+1978564	FAP	familial adenomatous polyposis
+19789368	CIMP	CpG island methylator phenotype
+19789368	MAPK	RAS-mitogen-activated protein kinase
+19789368	MSI	microsatellite instability
+19789368	PI3K	phosphatidylinositol 3-kinase
+19789368	VDR	vitamin D receptor
+19811499	BMP	bone morphogenetic protein
+19811499	CM	conditioned media
+19811499	NF	nuclear factor
+19811499	PC	prostate cancer
+19811499	PI3K	phosphoinositide 3-kinase
+19811499	TNF	tumor necrosis factor
+19815465	VGB	vigabatrin
+1981994	MEF	Mediterranean fever
+1981994	SAA	serum amyloid A
+19825989	ERK	extracellular signal-regulated kinase
+19825989	PKC	/Ca(2+)/protein kinase C
+19825989	VEGF	vascular endothelial growth factor
+19841052	CI	confidence interval
+19841052	HR	hazard ratio
+19843802	CVVHDF	continuous venovenous hemodiafiltration
+19880293	PCR-SSP	PCR sequence-specific primer
+19880293	RFLP	PCR-restriction fragment length polymorphism
+19880293	SNPs	single-nucleotide polymorphisms
+19881468	CI	confidence interval
+19881468	OR	odds ratio
+19881468	hOGG1	Human 8-oxoguanine DNA glycosylase 1
+19884587	AOR	adjusted OR
+19884587	CI	confidence interval
+19884587	ORs	Odds ratios
+19889778	BCP	basal core promoter
+19889778	HBV	hepatitis B virus
+19889778	LAM	lamivudine
+19889778	PC	precore
+19914299	5-FU	5-fluorouracil
+19914299	CER	conditioned emotional response test
+19914299	OLR	object location recognition test
+19918264	Arg	arginine
+19918264	FGFR4	Fibroblast growth factor receptor 4
+19918264	Gly	glycine
+19920070	ECM	extracellular matrix
+19920070	ILK	integrin-linked kinase
+19920070	PB	phenobarbital
+19920070	WT	Wild-type
+19923525	NIMO	nimodipine
+19923525	NTG	nitroglycerin
+19923525	PA	passive avoidance
+1992636	ddI	didanosine
+19957053	CO	cardiac output
+19957053	HR	Heart rate
+19957053	MAP	mean arterial pressure
+19957053	SV	stroke volume
+1999339	G6PD	Glucose-6-phosphate dehydrogenase
+19996135	TXA	tranexamic acid
+20003049	CPB	cardiopulmonary bypass
+20003049	DTIs	Direct thrombin inhibitors
+20003049	ECT	ecarin clotting time
+20003049	HIT	heparin-induced thrombocytopenia
+20003049	HITT	HIT with thrombosis
+20005218	EH	Essential Hypertension
+20009434	HD-MTX	High-dose methotrexate
+20009434	PTLD	post-transplantation lymphoproliferative disorder
+20024739	ART	antiretroviral therapy
+20034406	SE	status epilepticus
+20046642	GR	glutathione reductase
+20046642	MDA	malondialdehyde
+20046642	MT	metallothionein
+20046642	STM	short-term memory
+20046642	TNFalpha	tumor necrosis factor-alpha
+2006152	PKU	phenylketonuria
+20067456	ASEX	Arizona Sexual Experience Scale
+20067456	CGI-SF	Clinical Global Impression-Sexual Function
+20067456	EDITS	Erectile Dysfunction Inventory of Treatment Satisfaction
+20067456	HBSAG	hepatitis-B surface antigen
+20067456	IIEF	International Index of Erectile Function
+20067456	SD	sexual dysfunction
+20067456	SR	sustained-release
+20067456	SSRI	selective serotonin reuptake inhibitor
+20080419	BMCs	bone marrow mononuclear cells
+20080419	GFP	green fluorescent protein
+20080419	SE	status epilepticus
+20080419	SRS	Spontaneous recurrent seizures
+20080916	PBMC	peripheral blood mononuclear cells
+20080916	SLE	systemic lupus erythematosus
+20080916	indel	insertion/deletion
+2008213	GGM	Glucose/galactose malabsorption
+20084309	EF	ejection fraction
+20084309	FL	Flumazenil
+20084309	MP	myocardiopathy
+20084309	MR	mitral regurgitation
+20084309	MZ	Midazolan
+20086182	CASP8	Caspase 8
+20086182	CI	confidence intervals
+20086182	OR	odds ratios
+20086182	SCCHN	squamous cell carcinoma of the head and neck
+20105280	FGF	fibroblast growth factor
+20105310	ASP	Acylation Stimulating protein
+20105310	HAT	High ASP and TG
+20105310	InsR	insulin-related genes
+20105310	OM	omental
+20105310	SC	Subcutaneous
+20105310	TG	Triglyceride
+20126413	SNVs	single nucleotide variations
+20126413	indels	insertions and deletions
+20143913	ARSB	arylsulfatase B
+2016095	PWS	Prader-Willi syndrome
+20169779	PD	Parkinson's disease
+20192893	CM	contrast medium
+20192893	PCI	percutaneous coronary intervention
+20192893	PTRA	patients undergoing renal angioplasty
+20195852	CIN	contrast media-induced nephropathy
+20195852	CM	contrast media
+20195852	Cr	creatinine
+20196116	ATT	Antituberculosis therapy
+20196116	HEV	hepatitis E virus
+20196116	PT	prothrombin time
+2021990	H2	histamine 2
+2021990	MAP	mean arterial pressure
+2021990	SVR	systemic vascular resistance
+20226780	Chd	chordin
+2024540	ACE	angiotensin converting enzyme
+2024540	NYHA	New York Heart Association
+20331935	BMD	bone mineral density
+20331935	SSRIs	selective serotonin reuptake inhibitors
+20335448	AF	activation function
+20335448	GR	glucocorticoid receptor
+20335448	LBD	ligand-binding domain
+20367983	MEN1	Multiple endocrine neoplasia type 1
+20367983	SNP	single nucleotide polymorphism
+2037285	CEPH	Centre d'Etude de Polymorphisme Humain
+20401977	AHR	aryl hydrocarbon receptor
+20401977	SNPs	single nucleotide polymorphisms
+20408947	ALF	acute liver failure
+20408947	CLD	chronic liver disease
+20408947	LT	liver transplantation
+20415560	DM	diabetes mellitus
+20415560	Hp	Haptoglobin
+20428796	KFs	keloid fibroblasts
+20428796	NFs	normal fibroblasts
+20431083	ICH	intracerebral hemorrhage
+20431083	IS	ischemic stroke
+20431083	MB	microbleeds
+20431083	TIA	/transient ischemic attack
+20447294	STZ	streptozotocin
+20470218	ALL	acute lymphoblastic leukemia
+20470218	CNS	Central nervous system
+20477932	NFkappaB	Nuclear factor kappa B
+20477932	nNOS	neuronal nitric oxide synthase
+20495512	HIT	Heparin-induced thrombocytopenia
+20513036	ADSD	adductor spasmodic dysphonia
+20513036	Botox	Botulinum toxin
+20520283	AEs	adverse events
+20520283	LOCF	last observations carried forward
+20520283	MMRM	mixed model for repeated measures
+20523265	AMD	age-related macular degeneration
+20523265	CFH	complement factor H
+20523265	SNPs	single-nucleotide polymorphisms
+20528871	CPM	cyclophosphamide
+20533999	DA	dopamine
+20533999	METH	methamphetamine
+20534142	SNPs	single nucleotide polymorphisms
+20540798	IMT	intima-media thickness
+20540798	PDE4D	phosphodiesterase 4D
+2055114	his	histidinemia mutation
+20558148	IC	inferior colliculus
+20558148	NMDA	N-methyl-d-aspartate
+20579626	OSX	SP7/Osterix
+20583543	AR	androgen receptor
+20588063	PAN	puromycin aminonucleoside nephrosis
+20595935	PRL	prolactin levels
+20606392	GHBP	GH-binding protein
+20606392	GHR	GH receptor
+20619828	OCD	obsessive-compulsive disorder
+20621845	ADAM	a disintegrin and metalloproteinase
+20621845	MMPs	matrix metalloproteinases
+20621845	TAA	thoracic aortic aneurysm
+20633755	ECT	electroconvulsive therapy
+20633755	OP	organophosphorus
+20648600	BCP	basal core promoter
+20648600	HBV	hepatitis B virus
+20648600	LAM	lamivudine
+20651814	indel	insertion/deletion
+20682662	CCR5	C-C chemokine receptor 5
+20682662	LN	lupus nephritis
+20682662	RA	rheumatoid arthritis
+20682662	SLE	systemic lupus erythematosus
+20682692	AGEs	advanced glycation end products
+20682692	EndoMT	endothelial-mesenchymal-transition
+20682692	MMEC	mouse pancreatic microvascular endothelial cell line
+20682692	SIS3	specific inhibitor of Smad3
+20682692	STZ	streptozotocin
+20683499	STZ	streptozocin
+20683499	icv	intracerebroventricular
+20705401	METH	methamphetamine
+20708777	APA	aldosterone-producing adenomas
+20709368	FGA	fibrinogen alpha
+20709368	FGB	fibrinogen beta
+20709368	FGG	fibrinogen gamma
+20709368	PAD	peripheral arterial disease
+20709368	SNP	single nucleotide polymorphism
+2071157	HPRT	Hypoxanthine--guanine phosphoribosyltransferase
+20722491	5-FU	5-fluorouracil
+20806042	CCMC	congenital cataract-microcornea syndrome
+20806042	GJA8	gap junction protein, alpha 8
+20806042	PCR	polymerase chain reaction
+20828385	MCL	Mantle cell lymphoma
+20846357	KID	Keratitis-ichthyosis-deafness
+20846357	KID	keratitis-ichthyosis-deafness
+20854438	MDM	Mal de Meleda
+20854438	PBMCs	peripheral blood mononuclear cells
+20854438	nAchR	nicotinic acetylcholine receptor
+20949073	PTCs	premature termination codons
+20949073	indel	insertion or deletion
+20959502	CNS	central nervous system
+20959502	CSF	cerebrospinal fluid
+20959502	MSSA	methicillin-sensitive Staphylococcus aureus
+21029050	BCHE	butyrylcholinesterase gene
+21029050	BChE	butyrylcholinesterase enzyme
+21029050	ECT	electroconvulsive therapy
+21042587	GR	glucocorticoid receptor
+21054465	CYP	cytochrome P450
+21054465	DHPLC	denaturing high performance liquid chromatography
+21059483	AJ	Ashkenazi Jewish
+21059483	MALDI-TOF	matrix-assisted laser desorption-time-of-flight
+21070631	AD	Alzheimer's disease
+21070631	DBH	Dopamine b-hydroxylase
+21070631	SNPs	single nucleotide polymorphisms
+21080147	AVSDs	Atrioventricular septal defects
+21080147	PCR	polymerase chain reaction
+21126715	CGL	Congenital generalized lipodystrophy
+21130517	ME-PCR	mutant-enriched PCR
+21135151	CCR5	C-C chemokine receptor type 5
+21135151	HPMs	hierarchical phylogenetic models
+21163864	AGT	angiotensinogen
+21163864	FHCM	familial hypertrophic cardiomyopathy
+21163864	HCM	Hypertrophic cardiomyopathy
+21163864	PCR	polymerase chain reaction
+21163864	SHCM	sporadic hypertrophic cardiomyopathy
+21195121	NO	Nitric oxide
+21195121	NOS	NO syntheses
+21219851	SAG	small amplicon genotyping
+21219851	hrMCA	High-resolution melting curve analysis
+21238926	Brat	Brain Tumor
+21238926	CB	cystoblast
+21238926	GSCs	germline stem cells
+21238926	Nos	Nanos
+21238926	Pum	Pumilio
+2131034	IT	intrathecal
+21325775	LPG	Lipoprotein glomerulopathy
+21325775	PCR	polymerase chain reaction
+21325775	apoE	apolipoprotein E
+21496008	ARX	Aristaless-related homeobox
+21496008	ID	intellectual disability
+21496008	dHPLC	denaturing high pressure liquid chromatography
+21496008	pA	polyalanine
+21533187	MC	Metachondromatosis
+21533187	MO	multiple osteochondromas
+2161209	ALD	adrenoleukodystrophy
+2161209	AMN	adrenomyeloneuropathy
+21615796	PCR-RFLP	polymerase chain reaction-restriction fragment length polymorphism
+21682595	CI	confidence interval
+21682595	OR	odds ratio
+21682595	SLE	systemic lupus erythematosus
+21684788	SLS	Sjogren-Larsson syndrome
+21695597	GWAS	genome-wide association study
+21695597	MHC	major histocompatibility complex
+21695597	SLE	systemic lupus erythematosus
+21695597	SNPs	single nucleotide polymorphisms
+21699520	BCCs	Basal cell carcinomas
+2173761	CxAD	circumflex artery diameter
+21771880	IRS2	insulin receptor substrate 2
+21771880	MAF	minor allele frequencies
+21771880	SNP	single nucleotide polymorphism
+21771880	indels	insertion/deletions
+21799811	MTHFR	Methylenetetrahydrofolate reductase
+21799811	OR	odds ratio
+2180286	DMD	Duchenne muscular dystrophy
+2180286	PFGE	pulsed-field gel electrophoresis
+21810259	ELISAs	enzyme-linked immunosorbent assays
+21810259	HIV-1	human immunodeficiency virus type 1
+21810259	IDO	indoleamine 2,3 dioxygenase
+21810259	MAPK	mitogen-activated protein kinase
+21810259	OHSCs	organotypic hippocampal slice cultures
+21810259	SERT	serotonin transporter
+21810259	i.c.v.	Intracerebroventricular
+21810259	iNOS	isoform of nitric oxide synthase
+218453	ACTH	adrenocorticotropic hormone
+218453	ALD	adrenoleukodystrophy
+218453	AMN	adrenomyeloneuropathy
+21879313	HCV	hepatitis C virus
+21879313	IL28B	interleukin 28B
+21879313	LDL	low-density lipoprotein
+21879313	PEG-IFN/RBV	pegylated interferon plus ribavirin
+21879313	SNPs	single nucleotide polymorphisms
+21879313	apoB-100	apolipoprotein B-100
+21903317	CKD	chronic kidney disease
+21903317	HNF1B	hepatocyte nuclear factor 1b
+21903317	REN	renin
+21903317	UMOD	uromodulin
+21904390	AN	Aniridia
+21904390	MLPA	Multiplex ligation-dependent probe amplification
+21911891	NAFLD	non-alcoholic fatty liver disease
+21911891	PAI-1	plasminogen activator inhibitor type-1
+21976953	FBN1	fibrillin-1 gene
+21976953	MFS	Marfan syndrome
+22048266	DS	Down syndrome
+22048266	SIM2	Single minded 2
+22051099	IL-8	interleukin 8
+22051099	SNP	single nucleotide polymorphism
+2209091	FRDA	Friedreich ataxia locus
+2215607	CETP	cholesteryl-ester transfer protein
+2215607	HDL	high-density lipoprotein
+22180037	GSTP1	Glutathione-S-transferase P1
+22180037	GSTP1	glutathione-S-transferase P1 gene
+2220826	ATA	ataxia-telangiectasia group A
+2224762	IV	intravenous
+2224762	Vd	volume of distribution
+22303482	CBMCs	Cord blood mononuclear cells
+22303482	HLX1	H.20-like homeobox 1
+22303482	SNPs	single nucleotide polymorphisms
+22369755	SLURP-1	secreted mammalian Ly-6/urokinase plasminogen activator receptor related protein-1
+2253937	PCR	polymerase chain reaction
+2253938	G6PD	Glucose-6-phosphate dehydrogenase
+22711886	TRAF2	TNFR-associated factor 2
+22711886	tg	transgenic
+22729903	SLE	systemic lupus erythematosus
+22836123	SRC	Scleroderma renal crisis
+22836123	SSc	systemic sclerosis
+22859398	A	allele
+22859398	CI	confidence intervals
+22859398	IL-10	interleukin-10
+22859398	SNP	single-nucleotide polymorphisms
+23069675	Cyt C	cytochrome C
+23069675	HI	hypoxic-ischemic
+23069675	NP1	neuronal pentraxin 1
+23069675	NP1-KO	NP1 knockout
+23069675	OGD	oxygen glucose deprivation
+23069675	WT	wild-type
+2309142	PAH	phenylalanine hydroxylase
+2309142	PKU	Phenylketonuria
+2309698	ALD	adrenoleukodystrophy
+2309698	AMN	adrenomyeloneuropathy
+2309698	R/GCP	red/green color pigment
+2310692	DAF	decay-accelerating factor
+2310692	PNH	paroxysmal nocturnal haemoglobinuria
+2316519	BMD	Becker muscular dystrophy
+2316519	DMD	Duchenne muscular dystrophy
+23285048	BM	bone marrow
+23285048	Dll4	Delta-like 4
+23433219	M.I.N.I.	Mini International Neuropsychiatric Interview
+2352258	VHL	von Hippel-Lindau
+23535177	LIDs	levodopa-induced dyskinesias
+23535177	PAS	paired associative stimulation
+23535177	PD	Parkinson's disease
+23651211	HCC	hepatocellular carcinoma
+23651211	TCF	T-cell factor
+23666265	CYP	cyclophosphamide
+23666265	MCC	maximum cystometric capacity
+23666265	MVP	maximum voiding pressure
+23666265	SD	Sprague-Dawley
+23666265	i.p.	intraperitoneally
+23791840	CHOP	C/EBP-homologous protein
+23791840	ER stress	endoplasmic reticulum stress
+23791840	IRE1a	inositol-requiring protein-1a
+23791840	RNA	ribonucleic acid
+23791840	SOD1	superoxide dismutase 1
+23791840	WT	Wild-type
+23791840	eIF2a	eukaryotic initiation factor 2a
+23791840	mRNA	messenger RNA
+23791840	p	phosphorylated
+2383364	CHP	Chlorhexidine phosphanilate
+23864035	MM	multiple myeloma
+23864035	OS	overall survival
+23864035	PFS	progression-free survival
+23864035	R/R	relapsed/refractory
+23864035	bort	Bortezomib
+23864035	dex	-dexamethasone
+23871786	AChE	Acetylcholinesterase
+23871786	BPA	Bisphenol A
+23871786	EPM	elevated plus maze
+23871786	PND	postnatal day
+23872883	CVDs	Cardiovascular diseases
+23872883	MDA	malondialdehyde
+23892921	CR	complete response
+23892921	PS	Performance status
+23892921	RRMM	relapsed/refractory multiple myeloma
+23892921	RW	"real world"
+2390095	CETP	cholesteryl ester transfer protein
+2393028	G6PD	Glucose-6-phosphate dehydrogenase
+23949582	IFO	Ifosfamide
+23949582	PRI	proliferation rate index
+23949582	SCEs	sister chromatid exchanges
+23952588	PD	Parkinson's disease
+24014394	cIII	complex III
+24040781	mTOR-i	mammalian target of rapamycin inhibitors
+24055495	IR	insulin-receptor
+24055495	sAD	sporadic Alzheimer's disease
+24067251	MHRA	Medicines and Healthcare Products Regulatory Agency
+24067251	TDF	tenofovir disoproxil fumarate
+24072398	METH	Methamphetamine
+24091473	ECG	electrocardiogram
+24091473	LAST	local anaesthetic systemic toxicity
+24091473	ROSC	return of spontaneous circulation
+24100257	TS	Takotsubo syndrome
+24114426	AN	alcohol/nicotine
+24114426	CAN	cannabis/alcohol/nicotine
+24114426	MDMA	3,4-methylenedioxymethamphetamine
+24114426	ND	non-drug
+24114426	PD	polydrug
+24126708	CI	confidence interval
+24126708	PR	prevalence ratio
+24132704	ERK	Extracellular signal-regulated kinase
+24132704	LDLr	low-density lipoprotein receptor
+24158386	CI	confidence interval
+24158386	CR	complete response
+24158386	HL	Hodgkin lymphoma
+24158386	ORR	Overall response rate
+24190587	HPA	hypothalamic-pituitary-adrenal
+24209900	EEG	electroencephalogram
+24209900	NCSE	non-convulsive status epilepticus
+24220752	CIN	Contrast-induced nephropathy
+24220752	CT	computed tomography
+24220752	Cr	creatinine
+2422478	5,7-DHT	5,7-dihydroxytryptamine
+24234943	SIADH	syndrome of inappropriate anti-diuretic hormone
+24275640	DOX	doxorubicin
+24275640	SBs	strand breaks
+24275640	TAP	total antioxidant performance
+24284476	i.p.	intraperitoneally
+24288432	BPD	Bronchopulmonary dysplasia
+24288432	FGFs	fibroblast growth factors
+24288432	MMPs	matrix metalloproteinases
+24288432	RDS	respiratory distress syndrome
+24288432	RFLP	restriction fragment length polymorphism
+24288432	SIRPA	Signal-Regulatory Protein a
+24288432	SNPs	single nucleotide polymorphisms
+24288432	TTF-1	Thyroid Transcription Factor-1
+24309294	DG	dentate gyrus
+24309294	LPP	lateral perforant path
+24309294	LTP	long-term potentiation
+24309294	PS	Population spikes
+24333387	STZ	Streptozotocin
+24341598	ARF	acute renal failure
+24341598	BUN	blood urea nitrogen
+24341598	CIN	Contrast-induced nephropathy
+24341598	PCAG	percutaneous coronary angiography
+24345882	CNS	central nervous system
+24345882	IT	intrathecal
+24345882	MTX	methotrexate
+24345882	POG	Pediatric Oncology Group
+2440413	BCC	bicuculline
+2440413	MPA	3-mercaptopropionic acid
+2440413	PTX	picrotoxin
+2440413	PTZ	pentylenetrazol
+2440413	STR	strychnine
+2440413	gamma-HCH	Gamma-hexachlorocyclohexane
+24434397	TNA	Tranexamic acid
+24438483	HR	heart rate
+24442316	ALT	alanine aminotransferase
+24442316	AST	aspartate aminotransferase
+24442316	CMCS	Cultured mycelium Cordyceps sinensis
+24442316	D-GalN	D-galactosamine
+24442316	GST	glutathione S-transferase
+24442316	ICAM-1	intercellular adhesion molecule-1
+24442316	LPS	lipopolysaccharide
+24442316	LSECs	liver sinusoidal endothelial cells
+24442316	MMP-2/9	matrix metalloproteinase-2 and 9
+24442316	SOD	superoxide dismutase
+24442316	VCAM-1	vascular cell adhesion molecule-1
+24442316	vWF	von Willebrand factor
+2445283	AHF	Argentine hemorrhagic fever
+24464946	AUC	area under the curve
+24464946	cTnT	cardiac troponin T
+24477591	CAD	coronary artery disease
+24477591	CYBA	cytochrome b245 alpha
+24477591	ROS	Reactive oxygen species
+2450401	DMD	Duchenne muscular dystrophy
+24535067	Group NP	groups: no pretreatment
+2453942	GABA	gamma-aminobutyric acid
+24587916	Dex-	Dexamethasone-
+24587916	FRAP	ferric reducing antioxidant power
+24587916	LF	Lactoferrin
+24587916	SBP	Systolic blood pressure
+24614773	NMDA	N-methyl-D-aspartate
+24618873	CNS	central nervous system
+24623966	CECs	choroidal ECs
+24623966	ECs	endothelial cells
+24623966	HUVECs	human umbilical vascular ECs
+24623966	IVNV	intravitreal neovascularization
+24623966	OIR	oxygen-induced retinopathy
+24623966	P0	postnatal day 0
+24623966	RA	room air
+24623966	ROS	reactive oxygen species
+24623966	VEGF	vascular endothelial growth factor
+24623966	hRMVECs	human retinal microvascular ECs
+24632946	ARMs	anorectal malformations
+24632946	Bmp	bone morphogenetic protein
+24632946	URS	urorectal septum
+24658375	APL	acute promyelocytic leukemia
+24658375	ATRA	All-trans retinoic acid
+24659727	PO	per os
+24664478	CNS	central nervous system
+24664478	IT	intrathecal
+24664478	MRI	magnetic resonance imaging
+24664478	TLS	tumor lysis syndrome
+24675088	DOX	doxorubicin
+24675088	LVEF	left ventricular ejection fraction
+24675088	MRI	magnetic resonance imaging
+24675088	cTnI	cardiac troponin I
+24684312	CV	coefficient of variation
+24684312	ICC	intraclass correlation coefficient
+24684312	VAS	visual analogue scale
+24691439	IOP	intraocular pressure
+24691439	POAG	primary open-angle glaucoma
+24691439	TM	trabecular meshwork
+24709919	OIH	Opioid-induced hyperalgesia
+24733133	CDT	catheter-directed thrombolysis
+24733133	DVT	deep venous thrombosis
+24733133	HITT	heparin-induced thrombocytopenia with thrombosis
+24733133	SVC	superior vena cava
+24739405	DHEA	dehydroepiandrosterone
+24739405	ip	intraperitoneally
+24739405	sc	subcutaneously
+24742750	EAD	early afterdepolarization
+24742750	FPD	FPDc
+24742750	FPD	Field potential duration
+24742750	MEA	Multielectrode array
+24742750	TdP	Torsade de Pointes
+24742750	hiPS-CMs	human-induced pluripotent stem cell-derived cardiomyocytes
+24768818	ABL	Abelson kinase
+24768818	DDRs	discoidin domain receptors
+24768818	DFG	DFG-out conformation
+24778426	AKI	acute kidney injury
+24778426	OR	odds ratio
+24812279	DOX	Doxorubicin
+24816962	MRI	Magnetic resonance imaging
+24840785	NRVMs	neonatal rat ventricular myocytes
+24842192	AMPK	AMP-activated protein kinase
+24842192	IL-6	interleukin 6
+24842192	MyD88	myeloid differentiation protein 88
+24842192	TLR4	toll-like receptor 4
+24842192	TNF-a	tumor necrosis factor-alpha
+24842192	p-AMPK	Phosphorylated AMPKa
+24853300	AD	Alzheimer disease
+24853300	Ab	amyloid b-peptide
+24853300	CB	Calbindin-D28k
+24853300	CBKO	CB knock-out
+24902786	STZ	streptozotocin
+24902786	icv	intracerebroventricularly
+2491010	BMD	Becker muscular dystrophy
+2491010	BMD	Becker muscular dystrophy
+2491010	DMD	Duchenne muscular dystrophy
+2491010	DMD	Duchenne muscular dystrophy
+24911645	AChE	acetylcholinesterase
+24911645	GFC	Garcinielliptone FC
+24914936	TRa1	thyroid hormone receptor a1
+24923469	AKI	Acute kidney injury
+24923469	HAG	high adherence group
+24923469	ICU	Intensive Care Unit
+24923469	LAG	low adherence group
+24923469	SOP	standard operating procedures
+24928523	MM	multiple myeloma
+24971338	CsA	cyclosporin A
+24971338	SRL	sirolimus
+25006961	NDI	nephrogenic diabetes insipidus
+25006961	WT	wild type
+25041770	CYP3A4	cytochrome P450 3A4
+25054547	BTC	butyrylthiocholine
+25054547	MD	Molecular dynamic
+2505783	CAA	chloroacetaldehyde
+25071004	Hb	hemoglobin
+25071004	WHO	World Health Organization
+25080425	STAT3	signal transducer and activator of transcription 3
+25096313	LACN	lateral antebrachial cutaneous nerve
+25096313	LACNP	lateral antebrachial cutaneous neuropathy
+25119790	KIM	kidney injury molecule
+25119790	NAG	N-acetyl b-D-glucosaminidase
+25119790	NGAL	neutrophil gelatinase-associated lipocalin
+25119790	ROS	reactive oxygen species
+25218136	Leu	leucine
+25218136	PAT	proton-assisted amino acid transporter
+25263533	AID	activation-induced cytidine deaminase
+25263533	Tfh	T follicular helper
+25277705	KO	knockout
+25277705	LGP2	laboratory of genetics and physiology 2
+25277705	LIF	anti-leukemia inhibitory factor
+25277705	MDA5	melanoma differentiation-associated protein 5
+25277705	MIF	migration inhibitory factor
+25277705	Mavs	mitochondrial antiviral-signaling protein
+25277705	RSV	Respiratory syncytial virus
+25277705	SAE	small airway epithelial
+25277705	SCF	stem cell factor
+25277705	SCGF-b	stem cell growth factor beta
+25277705	Trif	TIR-domain-containing adapter-inducing interferon-b
+25305591	EAE	experimental autoimmune encephalomyelitis
+25305591	PACAP	pituitary adenylyl cyclase-activating polypeptide
+25305591	VIP	Vasoactive intestinal peptide
+2553470	NMDA	N-methyl-D-aspartate
+25550469	AR	androgen receptor
+25550469	ARKO	AR-knockout
+25550469	apoE	apolipoprotein E
+25589620	5-FU	5-fluorouracil
+25589620	CRT	chemoradiation
+25589620	DFS	disease-free survival
+25589620	FFPE	formalin-fixed, paraffin-embedded
+25589620	OS	overall survival
+25589620	PCR-RFLP	polymerase chain reaction-restriction fragment length polymorphism
+25589620	PUGIT	proximal upper gastrointestinal tract
+25589620	PVI	protracted venous infusion
+25589620	SWOG	Southwest Oncology Group
+2559236	CEI	converting enzyme inhibitor
+25622904	MEFs	mouse embryonic fibroblasts
+2562820	APOC2	apolipoprotein C2
+2562820	DM	"dystrophy, myotonic dystrophy"
+2563633	PAH	phenylalanine hydroxylase
+2563633	PKU	phenylketonuria
+2569949	PAH	phenylalanine hydroxylase
+2569949	PKU	phenylketonuria
+2571579	HD	Huntington disease
+2575071	RFLPs	restriction fragment length polymorphisms
+2575483	CAT	catalase
+2578334	1,2-DMH	1,2-dimethylhydrazine
+2578334	5-AzC	5-azacytidine
+2578334	gamma-GT	gamma-glutamyltransferase
+25874935	LDH	lactate dehydrogenase
+25874935	NO	nitric oxide
+25874935	NSP	Neuroserpin
+25874935	OGD	oxygen-glucose deprivation
+25907210	AHS	Agricultural Health Study
+25907210	IW	intensity-weighted
+25907210	LT	lifetime
+25907210	RRs	rate ratios
+25946186	AdC	adenocarcinoma
+25946186	LSC	lung squamous cancer
+25979836	GI	gastrointestinal
+25979836	PAKs	P-21-activated kinases
+25979836	PLC	phospholipase-C
+25983002	LDHA	Lactate dehydrogenase A
+25986755	GDNF	glial-cell-line-derived neurotrophic factor
+25986755	IUGR	intrauterine growth retardation
+25986755	PCE	prenatal caffeine exposure
+26002693	CML	chronic myeloid leukemia
+2601691	RB	retinoblastoma
+26027517	ATX	autotaxin
+26033014	AHS	Agricultural Health Study
+26102294	ETO	etoposide
+26110643	GBT	gene-break transposon
+26110643	MFF	median fin fold
+26110643	Nrg2a	Neuregulin 2a
+26110643	ZIP	Zebrafish Integument Project
+26110643	nrg2a	neuregulin 2a
+26115410	iAs	inorganic arsenic
+2625524	i.p.	intraperitoneal
+26270232	AFP	alpha-fetoprotein
+26270232	DCP	des-gamma-carboxy prothrombin
+26270232	HCCs	hepatocellular carcinomas
+26270232	HCs	healthy controls
+26270232	TPO	thrombopoietin
+26411452	ARBSs	androgen receptor-binding sites
+26411452	MLPH	melanophilin gene
+26411452	PCa	prostate cancer
+26411452	SNPs	single-nucleotide polymorphisms
+2651669	LGS	Langer-Giedion syndrome
+26516699	KC	KrasG12D;Pdx1-Cre
+26516699	KC	KrasG12D;Pdx1-Cre mouse
+26516699	PC	pancreatic cancer
+26516699	miRNA	microRNA
+26516699	miRNAs	microRNAs
+26615423	CEP55	Centrosomal protein 55
+26615423	EOC	epithelial ovarian carcinoma
+26615423	IHC	immunohistochemistry
+26615423	qRT-PCR	quantitative real-time PCR
+26684240	G	grade
+26684240	GEP-NETs	gastroenteropancreatic neuroendocrine tumors
+2670794	ACE	angiotensin converting enzyme
+2670794	AMCA	and tranexamic acid
+26731607	GADD45A	Growth arrest and DNA-damage-inducible 45 alpha
+26731607	HSCs	Hematopoietic stem cells
+26731607	MAPK	Mitogen-activated protein kinase
+26847345	CRC	colorectal cancer
+26900322	CFI	Complement factor I
+26900322	CI	confidence interval
+26900322	OR	odds ratio
+26900322	VKH	Vogt-Koyanagi-Harada
+26937641	HSCs	hepatic stellate cells
+26937641	JNK	c-Jun N-terminal kinase
+26937641	SAA	Serum amyloid A
+2696505	BP	blood pressure
+26991973	LRR-RLK	leucine-rich repeat receptor-like kinase
+27014915	STS	soft tissue sarcoma
+2703233	ApoC2	apolipoprotein C2
+27084744	ACC	adenoid cystic carcinoma
+27084744	CSC	cancer stem cells
+27090298	FASN	fatty acid synthase
+27090298	SBP	systolic blood pressure
+27103577	MRS	magnetic resonance spectroscopy
+27103577	PPARa	peroxisome proliferator-activated receptor a
+27103577	PPARa(-/-)	PPARa-deficient
+27103577	UCP3	uncoupling protein 3
+27172902	DCs	dendritic cells
+27172902	LPS	lipopolysaccharide
+27172902	TLR	toll-like receptor
+27184800	ARE	Anti-oxidant Response Element
+27184800	HCC	hepatocellular carcinoma
+27184800	MT1	metallothionein-1
+27184800	NRF2	Nuclear factor erythroid 2-Related Factor 2
+27248656	17-DMAG	17-dimethylaminoethylamino-17-demethoxygeldanamycin
+27248656	WKY/SHR	Wistar Kyoto/spontaneous hypertensive
+27292643	CIN	Chromosome instability
+2729274	AMN	adrenomyeloneuropathy
+27384305	11b-HSD1	11b-hydroxysteroid dehydrogenase type 1
+27384305	ALIOS	American Lifestyle Induced Obesity Syndrome
+27384305	KO	knockout
+27384305	NAFLD	Nonalcoholic fatty liver disease
+27384305	NASH	nonalcoholic steatohepatitis
+27464336	WAT	white adipose tissue
+27464336	eWAT	epididymal WAT
+27464336	mTOR	mammalian target of rapamycin
+27491646	3-MA	3-methyladenine
+27491646	CQ	chloroquine
+27491646	MAPK	mitogen-activated protein kinases
+27491646	MMP-2/-9	matrix metalloproteinases 2/9
+27509880	5-FU	5-fluorouracil
+27509880	HDAC	histone deacetylase
+27509880	MHC	major histocompatibility complex
+2760209	HPRT	hypoxanthine phosphoribosyltransferase
+27630165	YFP	IFN-g-yellow fluorescent protein
+27640183	ESA	erythropoiesis-stimulating agent
+27640183	Epo	Erythropoietin
+27640183	Epo-R	Epo receptor
+27640183	WAT	white adipose tissue
+27643404	95%CI	95% confidence interval
+27643404	ADHs	Alcohol Dehydrogenases
+27643404	ALDHs	Aldehyde Dehydrogenases
+27643404	SNPs	single nucleotide polymorphisms
+27663860	AT1a	angiotensin II type 1a
+27663860	DOCA	deoxycorticosterone acetate
+27663860	L-FABP	liver-type fatty acid binding protein
+2767010	MES	maximal electroshock
+27707793	CTX	cardiotoxin
+27707793	Clcn5	chloride channel, voltage-sensitive 5
+27707793	FAPs	fibroblast-adipocyte progenitors
+27707793	MPs	myogenic progenitor cells
+27707793	miRNAs	MicroRNAs
+27729412	A1	ALDH1A1
+27729412	WAT	white adipose tissue
+2773936	PCR	polymerase-chain-reaction
+2773936	PLP	proteolipid protein
+27798239	PI(4)P	phosphatidylinositol 4-phosphate
+27798239	TGN	trans-Golgi network
+27807193	PTPN22	protein tyrosine phosphatase nonreceptor 22
+27825100	MEF2C	myocyte-specific enhancer factor 2C
+27825100	MYF5	myogenic factor 5
+27825100	PGC-1a	proliferator-activated receptor-g coactivator 1a
+2782734	DRC	dose-response curve
+2782734	HDS	high dose inhaled salbutamol
+2782734	LDS	low dose inhaled salbutamol
+27840894	FGF23	fibroblast growth factor 23
+27840894	XLH	X-linked hypophosphatemic rickets
+27860185	BM	bone marrow
+27860185	CH	chronic hypoxia
+27860185	HIF	hypoxia-inducible factor
+27860185	PH	pulmonary hypertension
+27860244	ELISA	enzyme-linked immunosorbent assay
+27860244	FLSs	fibroblast-like synoviocytes
+27860244	OA	osteoarthritis
+27860244	PCR	polymerase chain reaction
+27860244	PRMT5	protein arginine methyltransferase 5
+27860244	RA	rheumatoid arthritis
+27860244	STs	synovial tissues
+27860244	siRNA	short interference RNA
+2786201	vWD	von Willebrand disease
+2786201	vWF	von Willebrand factor
+27866394	IBS	irritable bowel syndrome
+27866394	IR	S100b-immunoreactivity
+27866394	OB	Otilonium bromide
+27866394	WRS	wrap restrain stress
+27930654	BBS	Bardet-Biedl syndrome
+27930654	CCDC104	CCDC-104
+27930654	FAM-161	FAM161A orthologue
+27930654	IFT	intraflagellar transport
+27941998	HE	hematoxylin and eosin
+27941998	MOMP	mitochondrial outer membrane permeabilization
+27941998	VDAC1	Voltage-dependent anion channel 1
+27959382	BLM	bleomycin
+27959382	MLFs	Mouse lung fibroblasts
+27959382	PF	pulmonary fibrosis
+27959382	TGF	transforming growth factor
+27959382	siRNA	small interfering RNA
+27959387	EMT	epithelial mesenchymal transition
+27959387	miRs	microRNAs
+27974047	CGP	comprehensive genomic profiling
+27974047	GIST	gastrointestinal stromal tumors
+27993978	MI	meiosis I
+27993978	MPF	maturation-promoting factor
+27999109	CRISPR-Cas9	clustered regularly interspaced short palindromic repeats-associated protein 9
+27999109	IFN	interferon
+27999109	IFNAR	IFN a/b receptor
+27999109	poly I:C	polyinosinic:polycytidylic acid
+28068934	ESCC	esophageal squamous cell carcinoma
+28075473	E. coli	Escherichia coli
+28075473	IFN	interferon
+28075473	IL	interleukin
+28075473	LPS	lipopolysaccharides
+28075473	TLR4	Toll-like receptor 4
+28098423	BDNF	brain-derived neurotrophic factor
+28098423	Dox	doxorubicin
+28098423	TrkB	tropomyosin-related kinase B
+28101574	DEGs	differentially expressed genes
+28101574	HCC	hepatocellular carcinoma
+28101574	NIMA	Never in mitosis gene A
+28101574	TCGA	The Cancer Genome Atlas
+28148288	CSC	cancer stem cell
+28148288	EGFR	Epidermal Growth Factor Receptor
+28151486	BIK	BCL2-interacting killer
+28151486	EMT	epithelial-mesenchymal transition
+28204828	KO	knockout
+28204828	MI	myocardial infarction
+28204828	Pten	phosphatase and tensin homolog
+28204828	RT-qPCR	reverse transcription-quantitative polymerase chain reaction
+28204828	TGF	transforming growth factor
+28204828	TUNEL	terminal deoxynucleotidyltransferase-mediated dUTP nick-end labelling
+28204828	VEGF	vascular endothelial growth factor
+28204828	WT	wile-type
+28204828	a-SMA	a-smooth muscle actin
+28259923	CRC	Colorectal adenocarcinoma
+28259923	EMT	Epithelial-mesenchymal transition
+28259923	PLAGL2	pleomorphic adenoma gene like-2
+28260056	IGF-1	Insulin-like growth factor-1
+28260056	IGF-1R	IGF-1 receptor
+28260056	PI3K	phosphatidylinositol 3-kinase
+28260056	ROS	reactive oxygen species
+28260056	mTOR	/mammalian target of rapamycin
+28260077	Bcl-2	B cell lymphoma-2
+28260077	CIN	Contrast-induced nephropathy
+28260110	FASN	Fatty acid synthase
+2828430	HBL	hypobetalipoproteinemia
+28346429	LKB1	Liver kinase B1
+28346429	Sp1	specificity protein 1
+28346429	VEGF	Vascular endothelial growth factor
+28348168	FGFR2	FGF receptor 2
+28368423	B-NHL	B-cell non-Hodgkin lymphoma
+28368423	BCR	B-cell receptor
+28368537	LE	luminal epithelium
+28368537	LIF	leukemia inhibitory factor
+28368537	LIFR	LIF receptor expression
+28368537	STAT	kinase-signal transducer and activation of transcription
+28393239	MMP-2	matrix metalloproteinase-2
+28398555	NCS	neuronal calcium sensor
+28411266	OR	odds ratio
+28416580	ICH	Intracerebral hemorrhage
+28416580	TSPO	translocator protein
+28428256	ALI	acute lung injury
+28428256	EC	endothelial cell
+28428256	LPS	lipopolysaccharide
+28428256	PGA2	prostaglandin A2
+28468941	PAH	pulmonary arterial hypertension
+28472177	GO	gene ontology
+28472177	HMGB1	"High Mobility Group-Box 1
+28472177	IPA	Ingenuity Pathway Analysis
+28472177	KDs	knockdowns
+28481876	MCM	Miniature chromosome maintenance
+28487437	GcgR	Glucagon receptor
+28487437	Gcgr(-/-)	GcgR knockout
+28512644	SNPs	single polymorphism mutation
+28518143	CaSR	calcium sensing receptor
+28518143	DCM	Diabetic cardiomyopathy
+28518143	HG	high glucose
+2852474	CGKD	complex glycerol kinase deficiency
+2852474	DMD	Duchenne muscular dystrophy
+2852474	GK	glycerol kinase
+2852474	GTD	gonadotropin deficiency
+2852474	OTC	ornithine transcarbamylase
+28584052	XLID	X-linked intellectual disability
+28604678	ESCRT	endosomal sorting complex required for transport
+2862466	CAH	chronic active hepatitis
+28650467	ALL	acute lymphoblastic leukemia
+28650467	ca1	carbonic anhydrase 1
+28650467	oprm1	opioid receptor mu 1
+28650467	ube2c	ubiquitin-conjugating enzyme E2C
+28660748	AT1a	angiotensin II subtype receptor 1a
+28660748	AT1aKO	AT1a knockout mice
+28660748	BM	bone marrow
+28660748	CRC	colorectal cancer
+28660748	TGF-b1	transforming growth factor- b1
+28687665	MTs	Microtubules
+28687665	N-C	nucleus-centrosome
+28747658	G	Glycine
+28777492	EpCAM	epithelial cell adhesion molecule
+28777492	HCC	hepatocellular carcinomas
+28777492	IL	interleukin
+28777492	STAT3	signal transducer and activator of transcription 3
+2884570	PAH	phenylalanine hydroxylase
+2884570	PKU	Phenylketonuria
+2884570	RFLP	restriction fragment-length polymorphism
+2884595	BSA	bovine serum albumin
+28846666	ELISA	Enzyme linked immunosorbent assay
+28846666	GDM	Gestational diabetes mellitus
+28846666	IL-6	Interleukin 6
+28846666	MALDI-TOF-MS	Matrix-assisted laser desorption ionization time of flight mass spectrometry
+28846666	SNPs	Single Nucleotide Polymorphisms
+28846666	SNPs	single nucleotide polymorphisms
+28846666	TNF-alpha	Tumor Necrosis Factor alpha
+28851297	LYAR	Ly-1 antibody reactive clone
+28883039	BICD2	Bicaudal D2
+2894613	VHL	Von Hippel-Lindau disease
+2895982	OCRL	oculocerebrorenal syndrome
+29045486	HIF-1a	Hypoxia Inducible Factor-1a
+29045486	TD	thiamine deficiency
+2907577	ARF	acute renal failure
+2910902	HPRT	hypoxanthine-guanine phosphoribosyltransferase
+2912069	G6PD	glucose 6-phosphate dehydrogenase
+2912886	CNSHA	chronic nonspherocytic hemolytic anemia
+2912886	FAP	familial amyloidotic polyneuropathy
+2912886	G6PD	glucose-6-phosphate dehydrogenase
+29183288	AHR	airway hyperresponsiveness
+29183288	ARG1	arginase1
+29183288	OVA	ovalbumin
+29222418	HEB	HeLa E-box binding protein
+2924746	AED	antiepileptic drug
+2924746	CBZ	Carbamazepine
+2924746	HFDE	hexafluorodiethyl ether
+2924746	MES	maximal electroshock
+2927388	FIGE	field inversion gel electrophoresis
+2927388	kb	kilobases
+2983630	MHPG	3-methoxy-4-hydroxyphenethyleneglycol
+2989709	AAT	alpha-antitrypsin
+2995231	BMD	Becker muscular dystrophy
+2995231	DMD	Duchenne muscular dystrophy
+3012567	PWS	Prader-Willi syndrome
+3014348	BMD	Becker muscular dystrophy
+3014348	DMD	Duchenne muscular dystrophy
+3015567	irCRF	immunoreactive corticotropin-releasing factor
+3029599	HPRT	hypoxanthine-guanosine phosphoribosyl transferase
+3031535	THC	9-tetrahydrocannabinol
+3032521	ESD	esterase D gene
+30442153	AD	Alzheimer's disease
+30442153	ER	endoplasmic reticulum
+30442153	RA	reactive astrogliosis
+30442153	SOCE	store-operated Ca2+ entry
+30442153	UPR	unfolded protein response
+30836660	ECM	extracellular matrix
+30836660	EMT	epithelial-mesenchymal transition
+30836660	FA	folic acid
+30836660	MAPK	mitogen-activated protein kinases
+30836660	RIF	renal interstitial fibrosis
+30836660	Sal	Salidroside
+30836660	TGF	transforming growth factor
+30836660	UUO	unilateral ureteric obstruction
+3084231	CNS	central nervous system
+3125768	ICP	Intracranial pressure
+3155884	ISO	isoproterenol
+3162536	kb	kilobases
+31944312	RSV	respiratory syncytial virus
+31944312	hAdV	human adenovirus
+31944312	hRV	human rhinovirus
+31967321	RSCU	relative synonymous codon usage
+3198117	G6PD	glucose-6-phosphate dehydrogenase
+31981224	CoVs	Coronaviruses
+31986261	SARS	severe acute respiatory syndrome
+31986264	ICU	intensive care unit
+31992387	EVAg	European Virus Archive - Global
+31994738	FUBAR	Fast Unconstrained Bayesian Approximation
+31995857	CI	confidence interval
+31996437	ACE2	angiotensin-converting enzyme 2
+31996437	RBD	receptor-binding domain
+31996437	RBM	receptor-binding motif
+31996437	SARS-CoV	SARS coronavirus
+32004165	BAL	bronchoalveolar lavage
+32004165	CoVs	coronaviruses
+32004165	MERS	Middle East respiratory syndrome
+32004165	SARS	severe acute respiratory syndrome
+32007145	SARS	severe acute respiratory syndrome
+32007643	SI	serial intervals
+32014114	CrI	credibile interval
+32014114	SARS-CoV	severe acute respiratory syndrome coronavirus
+32015507	SARSr-CoV	severe acute respiratory syndrome-related coronaviruses
+32017984	WHO	World Health Organization
+32019669	SARS-CoV	severe acute respiratory syndrome-related coronavirus
+32020374	AI	Augmented Intelligence
+32020836	BALF	bronchoalveolar lavage fluid
+32020836	CoVs	coronaviruses
+32020836	mNGS	metagenomic next-generation sequencing
+32022276	CTL	cytotoxic T lymphocyte
+32023685	MERS-CoV	Middle East respiratory syndrome coronavirus
+32023685	SARS-CoV	severe acute respiratory syndrome coronavirus
+32023687	PR	pulmonary rehabilitation
+32024089	CoV	coronaviruses
+32024089	MERS	Middle East Respiratory Syndrome
+32024089	SARS	Severe Acute Respiratory Syndrome
+32024089	SI	serial intervals
+32026671	ALT	Alanine aminotransferase
+32026671	AST	aspartate aminotransferase
+32026671	IL-2R	interleukin-2 receptor
+32026671	LDH	lactate dehydrogenase
+32026671	Scr	serum creatinine
+32026671	TNF-alpha	tumor necrosis factor-alpha
+32026671	Tbil	total bilirubin
+32026671	hs-CRP	hypersensitive C reactive protein
+32027036	BCoV	Bat coronavirus
+32027573	GGO	ground grass opacity
+32027631	HHS	Health and Human Services
+32027631	WHO	World Health Organization
+32027812	AEDT	Australian Eastern Daylight Time
+32029004	WHO	World Health Organization
+32031264	ARDS	acute respiratory distress syndrome
+32031264	ELISA	enzyme-linked immunoassay
+32031570	ICU	intensive care unit
+32032682	WHO	World Health Organization
+32033064	IFR	infection fatality risk
+32035028	SARS	severe acute respiratory syndrome
+32035430	CSECLS	Chinese Society of Extracorporeal Life Support
+32035430	ECMO	extracorporeal membrane oxygenation
+32035430	ELSO	Extracorporeal Life Support Organization
+32035430	NCP	novel coronavirus pneumonia
+32035997	HCoV	human coronaviruses
+32035997	MERS	Middle East Respiratory Syndrome
+32035997	SARS	Severe Acute Respiratory Syndrome
+32036774	MERS-CoV	Middle East Respiratory Syndrome CoV
+32036774	SARS-CoV	Severe Acute Respiratory Syndrome coronavirus
+32036774	WHO	World Health Organization
+32037389	SFJDC	Shufeng Jiedu Capsule
+32040667	MERS	Middle East Respiratory Syndrome
+32040667	RVIs	respiratory viral infections
+32040667	SARS	Severe Acute Respiratory Syndrome
+32040985	NCP	novel coronavirus pneumonia
+32046815	EU/EEA	European Union/European Economic Area
+32048163	ALB	albumin
+32048163	ARB	angiotensin receptor blocker
+32048163	ARDS	acute respiratory distress syndrome
+32048163	CRP	C-reactive protein
+32048163	LDH	lactate dehydrogenase
+32048163	LYM	lymphocytes
+32048163	NEU	neutrophils
+32048815	SARS	severe acute respiratory syndrome
+32048815	SEIR	susceptible-exposed-infected-removed
+32049601	GGO	ground-glass opacity
+32049601	RT-PCR	reverse-transcription-polymerase chain- reaction
+32049687	SSCP	Severe Specific Contagious Pneumonia
+32050080	AEDT	Australian Eastern Daylight Time
+32050635	MERS	Middle East respiratory syndrome
+32050635	SARS	severe acute respiratory syndrome
+32051072	NICU	neonatal intensive care unit
+32051074	NCP	novel coronavirus pneumonia
+32052514	Covid-19	coronavirus disease 2019
+32052918	MERS-CoV	Middle East respiratory syndrome coronavirus
+32052918	SARS-CoV	severe acute respiratory syndrome coronavirus
+32053470	GGO	ground glass opacities
+32053579	PUIs	persons under investigation
+32054787	MERS	Middle East Respiratory Syndrome
+32054787	MERS-CoV	MERS coronavirus
+32054787	SARS	Severe Acute Respiratory Syndrome
+32055945	GGO	ground glass nodules
+32055945	HRCT	High-resolution CT
+32056249	MERS-CoV	Middle East respiratory syndrome coronavirus
+32056249	SARS-CoV	severe acute respiratory syndrome coronavirus
+32056407	COVID-19	coronavirus disease 2019
+32057209	MERS	Middle East Respiratory Syndrome
+32057209	RCT	randomized controlled trial
+32057209	n-Cov	new Coronavirus
+32057210	NCP	Novel Coronavirus Pneumonia
+32057210	WHO	World Health Organization
+32057211	NCP	novel coronavirus pneumonia
+32057212	NCP	Novel coronavirus pneumonia
+32060789	HR1	heptad repeat 1
+32060789	RBD	receptor-binding domain
+32060789	TARS-CoV	"transmissible acute respiratory syndrome coronavirus
+32060789	WHO	World Health Organization
+32062645	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32062875	LDH	lactic dehydrogenase
+32064854	NCP	Novelcoronavirus pneumonia
+32065055	RBD	receptor-binding domain
+32065348	CM	Chinese medicine
+32065348	COVID-19	Corona Virus Disease 2019
+32065348	COVID-19	corona virus disease 2019
+32065348	SARS	severe acute respiratory syndrome
+32066206	NCP	novel coronavirus pneumonia
+32070465	COVID-19	coronavirus disease 2019
+32072920	NCP	novel coronavirus pneumonia
+32073161	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32073213	FDP	fibrin degradation product
+32073213	NCP	novel coronavirus pneumonia
+32074480	AEDT	Australian Eastern Daylight Time
+32074480	COVID-19	coronavirus disease 2019
+32074516	nCoV	novel coronavirus 2019
+32074516	nCoV-2019	Novel Coronavirus 2019
+32074550	COVID-19	coronavirus disease 2019
+32074786	EGJ	esophagogastricjunction
+32074786	MDT	multidisciplinary therapy
+32074786	NCP	novel coronavirus pneumonia
+32075152	CI	confidence interval
+32075152	cCFR	confirmed case fatality risk
+32075786	SARS-Cov-2	severe acute respiratory syndrome coronavirus 2
+32075786	covid-2019	coronavirus disease 2019
+32075877	MCM	medical countermeasure
+32075877	RBDs	receptor-binding domains
+32075877	S	spike
+32077115	COPD	Chronic obstructive pulmonary disease
+32077115	COVID-19	Coronavirus Disease 2019
+32077115	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus -2
+32077660	ALB	albumin
+32077660	ALT	alanine aminotransferase
+32077660	AST	aspartate aminotransferase
+32077660	TBil	total bilirubin
+32077661	HME	heat-moisture exchanger
+32077661	SBT	spontaneous breathing trial
+32077664	NCP	Novel coronavirus pneumonia
+32077664	NCP	novel coronavirus pneumonia
+32077677	NCP	novel coronavirus pneumonia
+32077789	COVID-19	Coronavirus Disease-19
+32077789	COVID-19	coronavirus disease-19
+32079638	HCoV-NL63	human coronavirus NL63
+32080991	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32080994	NCP	novel coronavirus pneumonia
+32081428	ACE2	angiotensin converting enzyme 2
+32081428	RBD	receptor binding domain
+32081636	COVID-19	coronavirus disease-2019
+32081636	SARS-CoV-2	Severe acute respiratory syndrome coronavirus 2
+32081636	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32081636	WHO	World Health Organization
+32083328	FUBAR	fast-unconstrained Bayesian approximation
+32083328	ORF1ab	Open Reading Frame 1ab
+32083409	NCP	novel coronavirus pneumonia
+32083985	COVID-19	Coronavirus Disease 2019
+32083985	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32084676	MDT	Multidisciplinary team
+32084676	NCP	Novel coronavirus pneumonia
+32086236	COVID-19	Coronavirus disease 2019
+32086938	IoT	internet of things
+32086938	MERS	Middle East Respiratory Syndrome
+32086938	SARS	Severe Acute Respiratory Syndrome
+32087623	NCP	novel coronavirus pneumonia
+32087820	COVID-19	coronavirus disease 2019
+32091134	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32091414	COVID-19	corona virus disease 2019
+32091414	CT	computed tomography
+32091414	GGO	ground glass opacity
+32091414	PII	pulmonary inflammation index
+32091533	COVID-19	Coronavirus Disease 2019
+32092296	NCIP	Novel coronavirus-infected pneumonia
+32092392	ACE2	angiotensin-converting enzyme 2
+32092539	ADE	antibody dependent enhancement
+32092911	MERS-CoV	Middle East respiratory syndrome coronavirus
+32092911	SARS-CoV	severe acute respiratory syndrome coronavirus
+32092911	WHO	World Health Organization
+32093211	MERS	Middle East Respiratory Syndrome
+32093211	SARS	Severe Acute Respiratory Syndrome
+32093211	WHO	World Health Organization
+32094225	RDV	Remdesivir
+32094225	RdRps	RNA-dependent RNA polymerases
+32094225	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32094336	TCGA	The Cancer Genome Atlas
+32096366	COVID-19	corona virus disease-19
+32096366	GGO	Ground-glass opacities
+32096367	COVID-19	corona virus disease-19
+32096367	PCT	procalcitonin
+32096567	WHO	World Health Organization
+32096611	ACE2	angiotensin-converting enzyme 2
+32096611	MERS-CoV	Middle East respiratory syndrome coronavirus
+32096611	SARS-CoV	severe acute respiratory syndrome coronavirus
+32097725	CI	confidence interval
+32097725	ML	Maximum-Likelihood
+32098422	COVID-19	"coronavirus disease 2019"
+32098422	HCoVs	human coronaviruses
+32098422	SARS	severe acute respiratory syndrome
+32098422	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32098616	AEDT	Australian Eastern Daylight Time
+32098616	COVID-19	coronavirus disease 2019
+32100485	CT	computed tomography
+32100486	COVID-19	Coronavirus disease 2019
+32100667	WHO	World Health Organization
+32100876	NCP	novel coronavirus pneumonia
+32100876	RT-PCR	reverse transcription polymerase chain reaction
+32100877	ACE2	Angiotensin Converting Enzyme 2
+32100877	COVID-19	Coronavirus Disease 2019
+32100877	MERS-CoV	Middle East respiratory syndrome coronavirus
+32100877	RBD	receptor binding domain
+32100877	SARS-CoV	severe respiratory syndrome coronavirus
+32100978	NCP	novel coronavirus pneumonia
+32100980	CRC	colorectal cancer
+32100980	NCP	novel coronavirus pneumonia
+32101510	COVID-19	Coronavirus Disease 2019
+32101510	RT-PCR	reverse-transcription polymerase chain reaction
+32102726	COVID-19	Coronavirus Disease 2019
+32102777	CNCB	China National Center for Bioinformation
+32102777	NGDC	/National Genomics Data Center
+32102856	COVID-19	Coronavirus Disease 19
+32104907	COVID-19	coronavirus disease-19
+32104907	LPV	Lopinavir
+32104911	TMRCA	the most recent common ancestor
+32104915	MERS-CoV	Middle East respiratory syndrome coronavirus
+32104915	SARS-CoV	severe acute respiratory syndrome coronavirus
+32105468	PPIs	protein-protein interactions
+32105632	ARDS	acute respiratory distress syndrome
+32105632	ICU	intensive care unit
+32105632	SARS-CoV-2	severe acute respiratory coronavirus 2
+32105637	COVID-19	coronavirus disease 2019
+32105637	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32105680	COVID-19	Coronavirus Disease 2019
+32105680	MERS	Middle East respiratory syndrome
+32105680	SARS	severe acute respiratory syndrome
+32106216	COVID-19	coronavirus disease 2019
+32106216	WHO	World Health Organization
+32106567	N	nucleocapsid
+32106567	S	spike
+32106567	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32107119	COVID-19	Coronavirus Disease 2019
+32107119	MERS	Middle East Respiratory Syndrome
+32107119	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32107577	CT	computed tomography
+32107577	PCR	polymerase chain reaction
+32108351	ARDS	acute respiratory distress syndrome
+32108351	CT	computer tomography
+32108351	MERS	Middle East Respiratory Syndrome
+32108351	SARS	Severe Acute Respiratory Syndrome
+32108351	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32108495	COVID-19	Coronavirus Disease 2019
+32108495	COVID-19	coronavirus disease 2019
+32108495	MERS	Middle East respiratory syndrome
+32108495	SARS	severe acute respiratory syndrome
+32108862	SARS	severe acute respiratory syndrome
+32108862	SARSr-CoV	SARS-related coronavirus
+32109013	CT	computed tomography
+32109013	Covid-19	coronavirus disease 2019
+32109013	ICU	intensive care unit
+32109279	COVID-19	coronavirus disease-19
+32109443	CT	computed tomography
+32109443	NCP	novel coronavirus pneumonia
+32110875	MERS-CoV	Middle East respiratory syndrome-Coronavirus
+32110875	PRISMA	Preferred Reporting Items for Systematic Reviews and Meta-Analyses
+32110875	RT-PCR	reverse transcription polymerase chain reaction
+32110875	SARS	severe acute respiratory syndrome
+32111113	PTE	pulmonary thromboembolism
+32111113	VTE	venous thromboembolism
+32111114	COVID-19	"coronavirus disease 2019
+32111262	RP	Reservoir-People
+32111262	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32111449	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32112082	COVID-19	Coronavirus Disease 2019
+32112082	COVID-19	coronavirus disease 2019
+32112336	COVID-19	coronavirus disease 2019
+32112884	CT	computed tomography
+32112966	ARDS	adult respiratory distress syndrome
+32112977	MERS	Middle East respiratory syndrome
+32112977	SARS	severe acute respiratory syndrome
+32112977	WHO	World Health Organization
+32113824	COVID-19	Coronavirus Disease 2019
+32113824	NCP	novel coronavirus pneumonia
+32113846	ADME	absorption, distribution, metabolism and excretion
+32114094	COVID-19	coronavirus disease 2019
+32114745	WBC	white blood cell
+32114747	COVID-19	Corona Virus Disease 2019
+32115733	SARS-CoV-2	Severe acute respiratory syndrome coronavirus 2
+32116147	MERS	Middle East respiratory syndrome
+32116147	SARS	severe acute respiratory syndrome
+32117569	ACE2	angiotensin-converting enzyme 2
+32118615	COVID-19	Corona Virus Disease 2019
+32118615	ROC	Receiver operating characteristic
+32118639	CD4	cluster of differentiation 4
+32118639	RT-PCR	reverse transcription polymerase chain reaction
+32118640	CI	confidence interval
+32118640	OR	odds ratio
+32119825	COVID-19	coronavirus disease 2019
+32119825	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32119961	HCoV	Human Coronavirus
+32119961	RdRp	RNA dependent RNA polymerase
+32119961	WHO	World Health Organization
+32120312	WHO	World Health Organization
+32120458	BNP	B-type natriuretic peptide
+32120458	CRP	C-reactive protein
+32120458	CVD	cardiovascular disease
+32120458	ICU	into critical group
+32120458	PCT	procalcitonin
+32120822	AI	Artificial Intelligence
+32120929	CPE	cytopathic effect
+32120929	HCoV-NL63	anti-Human coronavirus NL63
+32120965	China	Chinese health authorities in Wuhan City
+32121543	EriCoVs	Erinaceus coronaviruses
+32124000	PPE	personal protective equipment
+32124179	COVID-19	Coronavirus disease 2019
+32124506	ED	Emergency Department
+32124990	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32125128	EG	exponential growth
+32125128	ML	maximum likelihood estimation
+32125128	SB	sequential Bayesian method
+32125129	COVID-19	corona virus disease 2019
+32125131	GGO	ground-glass opacity
+32125132	COVID-19	coronavirus disease 2019
+32125133	COVID-19	corona virus disease 2019
+32125140	COVID-19	coronavirus disease 2019
+32125362	PCR	polymerase chain reaction
+32125362	SARS-CoV-2	Severe acute respiratory syndrome coronavirus 2
+32125455	ACE2	Angiotensin-converting enzyme 2
+32125873	GGO	ground-glass opacities
+32126197	AEDT	Australian Eastern Daylight Time
+32126197	COVID-19	coronavirus disease 2019
+32127124	COVID-19	coronavirus disease 2019
+32127517	ACE2	angiotensin-converting enzyme 2
+32129518	ACE2	angiotensin-converting enzyme 2
+32129580	COVID-19	Corona virus disease 2019
+32129580	HCWs	healthcare workers
+32129583	CT	computed tomography
+32129670	COVID-19	coronavirus disease 2019
+32129805	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32129843	CAP	community-acquired pneumonia
+32130038	COVID-19	Coronavirus Disease 2019
+32130038	COVID-19	coronavirus disease 2019
+32130038	GGOs	Ground-glass opacities
+32130047	SARS	severe acute respiratory syndrome
+32131537	ANFIS	adaptive neuro-fuzzy inference system
+32131537	FPA	flower pollination algorithm
+32131537	MAPE	Mean Absolute Percentage Error
+32131537	RMSRE	Root Mean Squared Relative Error
+32131537	SSA	salp swarm algorithm
+32131537	WHO	World Health Organization
+32131906	HCWs	Healthcare workers
+32131906	SARS	severe acute respiratory syndrome
+32131908	COVID-19	Coronavirus disease 2019
+32131908	HCWs	healthcare workers
+32132184	ACE2	Angiotensin-converting enzyme 2
+32132184	CLD	Collectrin-like domain
+32132184	PD	peptidase domain
+32132184	RBD	receptor binding domain
+32132184	S protein	spike glycoprotein
+32132184	SARS-CoV	SARS coronavirus
+32132196	COVID-19	Coronavirus Disease 2019
+32132196	Hel	/helicase
+32132196	N	nucleocapsid
+32132196	RdRp	RNA-dependent RNA polymerase
+32132196	S	spike
+32132196	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32132379	COVID-19	coronavirus disease 2019
+32132521	COVID-19	Coronavirus Disease 2019
+32132521	COVID-19	Coronavirus disease 2019
+32132521	GSES	General Self-Efficacy Scale
+32132521	PSQI	Pittsburgh Sleep Quality Index
+32132521	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32132521	SAS	Self-Rating Anxiety Scale
+32132521	SASR	Stanford Acute Stress Reaction
+32132521	SEM	Structural equation modeling
+32132521	SSRS	Social Support Rate Scale
+32133152	COVID-19	Coronavirus Disease 2019
+32133578	COVID-19	Coronavirus Disease 2019
+32133578	COVID-19	coronavirus disease 2019
+32133833	GGO	ground-glass opacities
+32134116	MERS	Middle East Respiratory Syndrome
+32134116	SARS	Severe Acute Respiratory Syndrome
+32134205	CT	computed tomography
+32134278	COVID-19	Coronavirus disease-19
+32134278	MERS-CoV	Middle East respiratory syndrome coronavirus
+32134278	SARS-CoV	Severe Acute respiratory syndrome coronavirus
+32134681	COVID-19	Coronavirus Disease 2019
+32134681	GGO	ground-glass opacities
+32134800	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32134861	COVID-19	Coronavirus Disease-2019
+32134909	COVID-19	coronavirus disease 2019
+32138266	ACE2	receptor-angiotensin-converting enzyme 2
+32138266	CoVs	coronaviruses
+32138266	SARS	severe acute respiratory syndrome
+32141280	CHD	coronary heart disease
+32141280	NT-proBNP	N-terminal pro B-type natriuretic peptide
+32141280	cTnI	cardiac troponin-I
+32141569	ACE2	angiotensin-converting enzyme 2
+32141569	MERS-CoV	Middle East Respiratory Syndrome coronavirus
+32141569	N	nucleocapsid
+32141569	RNAi	RNA interference
+32141569	SARS-CoV	Severe Acute Respiratory Syndrome coronavirus
+32141569	WHO	World Health Organization
+32141570	MERS-CoV	Middle East Respiratory Syndrome Coronavirus
+32141570	SARS-CoV	Severe Acute Respiratory Syndrome Coronavirus
+32141570	WHO	World Health Organization
+32141588	PHEIC	Public Health Emergency of International Concern
+32141588	WHO	World Health Organization
+32141624	COVID-19	coronavirus disease 2019
+32142651	S	spike
+32142651	SARS-CoV-2	SARS-coronavirus 2
+32142886	COVID-19	coronavirus disease-2019
+32142972	COVID-19	Coronavirus Disease 2019
+32143123	SARS-CoV-2	SARS-coronavirus-2
+32143502	CoV	SARS-CoV-2
+32143502	CoVs	Coronaviruses
+32143502	MERS-CoV	Middle East Respiratory Syndrome-CoV
+32143502	SARS-CoV	Severe Acute Respiratory Syndrome-CoV
+32143519	CMDS	China Migrants Dynamic Survey
+32144127	covid-19	Coronavirus disease 2019
+32145185	MERS-CoV	Middle East respiratory syndrome coronavirus
+32145275	COVID-19	coronavirus disease 2019
+32145465	COVID-19	coronavirus disease 2019
+32145466	CrI	credible interval
+32145466	SARS	severe acute respiratory syndrome
+32145718	COVID-19	coronavirus disease 2019
+32145719	COVID-19	corona virus disease 2019
+32145768	COVID-19	coronavirus disease 2019
+32145768	SARS	severe acute respiratory syndrome
+32146245	NCP	novel coronavirus pneumonia
+32146245	PCI	psychological crisis intervention
+32146445	CFR	Case Fatality Rates
+32147406	COVID-19	coronavirus disease 2019
+32147628	COVID-19	coronavirus disease 2019
+32147715	COVID-19	Coronavirus Disease 2019
+32147731	COVID-19	coronavirus disease 2019
+32149037	COVID-19	coronavirus disease 2019
+32149769	ACE2	angiotensin-converting enzyme 2
+32149769	CEP	drugs-cepharanthine
+32149769	COVID-19	coronavirus disease 2019
+32149769	p.i.	post-infection
+32149769	qRT-PCR	quantitative real-time polymerase chain reaction
+32149769	siRNA	small interfering RNA
+32149773	COVID-19	coronavirus disease 2019
+32150618	PBPK	Physiologically-based pharmacokinetic models
+32150618	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32150748	COVID-19	Coronavirus Disease 2019
+32150748	COVID-19	coronavirus disease 2019
+32150748	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32151335	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32151674	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32152082	HIV-1	human immunodeficiency virus type 1
+32152082	LPV/RTV-INFb	lopinavir/ritonavir, and interferon beta
+32152082	MERS-CoV	Middle East respiratory syndrome corona virus
+32152361	MERS	Middle East Respiratory Syndrome
+32153170	ALT	Alanine aminotransferase
+32153170	AST	aspartate aminotransferase
+32153170	COVID-19	coronavirus disease-19
+32153170	PTA	prothrombin activity
+32153171	CACP	Chinese Association of Chest Physicians
+32153171	COPD	chronic obstructive pulmonary disease
+32153171	COVID-19	coronavirus disease 2019
+32153171	CTS	Chinese Thoracic Society
+32154135	LGA	large-for-gestational-age
+32154135	PCIS	Pediatric Critical Illness Score
+32154135	SGA	small-for-gestational-age
+32154287	NICU	neonatal intensive care unit
+32155105	U.S.	United States
+32155273	COVID-19	Coronavirus Disease 2019
+32155444	S	spike
+32155789	IES-R	Impact of Event Scale-Revised
+32156101	COVID-19	Coronavirus Disease 2019
+32156101	SARS-CoV-2	severe acute respiratory coronavirus 2
+32156101	rtPCR	reverse-transcription PCR
+32156224	AEDT	Australian Eastern Daylight Time
+32156224	COVID-19	coronavirus disease 2019
+32156327	COVID-19	coronavirus disease 2019
+32156329	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32156330	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32156332	EU/EEA	European Union and European Economic Area
+32156332	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32156607	NAT	nucleic acid test
+32156607	qRT-PCR	quantitative RT-PCR
+32156648	COPD	chronic obstructive pulmonary disease
+32156648	PHEIC	public-health emergency of international concern
+32156648	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32156648	WHO	World Health Organization
+32157732	mAbs	monoclonal antibodies
+32157849	RT-PCR	reverse transcription-polymerase chain reaction
+32159234	SARS	Severe acute respiratory syndrome
+32159234	cDNA	complementary DNA
+32159237	E	Envelope
+32159237	ENc	effective number of codons
+32159237	M	membrane
+32159237	MERS	Middle East respiratory syndrome
+32159237	Mpro	main protease
+32159237	N	Nucleocapsid
+32159237	S	Spike
+32159237	SARS-CoV-2	Severe acute respiratory syndrome coronavirus 2
+32160148	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32160273	COVID-19	Coronavirus Disease 2019
+32160299	COVID-19	Coronavirus Disease 2019
+32160889	SARS-CoV-2	COVID-19/severe acute respiratory syndrome coronavirus 2
+32160942	COVID-19	coronavirus disease 2019
+32161092	MERS-CoV	Middle East respiratory syndrome coronavirus
+32161092	SARS-CoV	severe acute respiratory syndrome coronavirus
+32161940	COVID-19	coronavirus disease 2019
+32161940	NLR	neutrophil-lymphocyte-ratio
+32162081	RT-PCR	reverse transcriptase polymerase chain reaction
+32162212	COVID-19	coronavirus disease 2019
+32162456	DD	Deep Docking
+32162456	Mpro	main protease
+32162699	COVID-19	Coronavirus disease 2019
+32162896	WHO	World Health Organization
+32162995	COVID-19	Coronavirus Disease 2019
+32162995	COVID-19	coronavirus disease 2019
+32163661	CoVs	Coronaviruses
+32165283	KSA	Kingdom of Saudi Arabia
+32165283	MG	Mass gathering
+32165283	PHEIC	Public Health Emergency of International Concern
+32165386	COVID-19	coronavirus disease 2019
+32165386	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32165541	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32165854	COVID-2019	Coronavirus disease-2019
+32165854	RT-PCR	reverse transcription polymerase chain reaction
+32166607	ARDS	acute respiratory distress syndrome
+32166607	COVID-19	Coronavirus Disease-2019
+32166607	COVID-2019	coronavirus disease 2019
+32166607	CRP	C-reactive protein
+32166607	MERS-CoV	Middle East respiratory syndrome coronavirus
+32166607	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32166939	COVID-19	Coronavirus disease 2019
+32166939	MERS	middle east respiratory syndrome coronavirus
+32166939	NPA	nasopharyngeal aspirate
+32166939	SARS	severe acute respiratory syndrome coronavirus
+32167153	ACE2	angiotensin-converting enzyme 2
+32167166	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32167166	pp1ab	polyprotein 1ab
+32167173	COVID-19	coronavirus disease 2019
+32167173	MERS-CoV	Middle East respiratory syndrome coronavirus
+32167173	RdRp	RNA-dependent RNA polymerase
+32167173	SARS-CoV	severe acute respiratory syndrome coronavirus
+32167180	ORF	open-reading frame
+32167180	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32167181	COVID-19	Coronavirus Disease 2019
+32167181	CT	computed tomography
+32167181	EDs	emergency departments
+32167181	GGO	ground-glass opacity
+32167524	ARDS	acute respiratory distress syndrome
+32167524	COVID-19	Coronavirus disease 2019
+32167524	HR	hazard ratio
+32167533	COVID-19	Coronavirus Disease 2019
+32167747	ACE2	angiotensin-converting enzyme 2
+32167747	COVID-19	coronavirus infectious disease 2019
+32167747	SARS-CoV	severe acute respiratory syndrome coronavirus
+32169119	ACE2	angiotensin-converting enzyme 2
+32169119	ARDS	acute respiratory distress syndrome
+32169119	COVID-19	coronavirus disease 2019
+32169119	MERS-CoV	Middle East respiratory syndrome coronavirus
+32169119	SARS-CoV	severe acute respiratory syndrome coronavirus
+32169119	WHO	World Health Organization
+32169400	COVID-19	coronavirus disease 2019
+32169481	GRP78	Glucose Regulated Protein 78
+32169481	SBDbeta	Substrate Binding Domain beta
+32169498	COVID-19	Corona Virus Disease 2019
+32169673	COVID-19	Corona Virus Disease 2019
+32169673	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32170559	COVID-19	coronavirus disease 2019
+32170559	SHL	Shuanghuanglian oral liquid
+32170560	scRNA-seq	single-cell RNA sequencing
+32170806	MERS-CoV	Middle East respiratory syndrome coronavirus
+32170806	SARS-CoV	severe acute respiratory syndrome coronavirus
+32170806	SARS-Cov-2	severe acute respiratory syndrome coronavirus 2
+32170865	COVID-19	Coronavirus Disease 2019
+32170865	COVID-19	coronavirus disease 2019
+32170865	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32171059	COVID-19	coronavirus disease 2019
+32171059	Rt	reproduction number
+32171059	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32171076	COVID-19	coronavirus disease 2019
+32171076	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32171076	SOFA	Sequential Organ Failure Assessment
+32171193	AMP	adenosine monophosphate
+32171193	COVI-19	Coronavirus-19
+32171193	IL	interleukin
+32171193	TLR	Toll Like Receptor
+32171740	COVID-19	coronavirus disease 2019
+32171740	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32171806	PPE	personal protective equipment
+32171865	GGO	ground-glass opacity
+32171867	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32171869	CIs	confidential intervals
+32171869	ICU	intensive care units
+32171869	OR	Odds ratio
+32171872	COVID-19	Corona Virus Disease 2019
+32171952	Covid-19	coronavirus disease 2019
+32172226	FDP	fibrin/fibrinogen degradation products
+32172226	FIB	fibrinogen
+32172226	PT-act	prothrombin time activity
+32172228	COVID-19	coronavirus disease 2019
+32172228	CT	computed tomography
+32172228	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32172228	rRT-PCR	reverse transcription polymerase chain reaction
+32172546	HE	Hematoxylin and eosin staining
+32172669	SARS-CoV-2	severe acute respiratory syndrome Coronavirus 2
+32172669	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32172672	COVID-19	coronavirus disease 2019
+32172672	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32173110	COVID-19	coronavirus disease 2019
+32173110	MEURI	Monitored Emergency Use of Unregistered Interventions
+32173188	WHO	World Health Organisation
+32173241	COVID-19	coronavirus disease 2019
+32173241	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32173572	GT	Google Trends
+32173572	RSV	relative search volume
+32173574	CIs	confidence intervals
+32173725	AST	aspartate aminotransferase
+32173725	LDH	lactate dehydrogenase
+32174053	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32174053	rRT-PCR	real-time reverse-transcriptase polymerase chain reaction
+32174054	COVID-19	Coronavirus Disease 2019
+32174069	COVID-19	Coronavirus Disease 2019
+32174069	COVID-19	coronavirus disease19
+32174095	COVID-19	Corona Virus Disease 2019
+32174095	SARS	severe acute respiratory syndrome
+32174128	COVID-19	Coronavirus Disease 2019
+32174128	COVID-19	coronavirus disease 2019
+32174128	GGOs	ground-glass opacities
+32174128	RT-PCR	reverse transcription-polymerase chain reaction
+32174129	COVID-19	Coronavirus Disease 2019
+32174129	GGO	ground-glass opacification
+32174267	COVID-19	Coronavirus Disease 2019
+32174267	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32174267	UP	Unexplained pneumonia
+32174267	mNGS	metagenomic next-generation sequencing
+32174267	nt	nucleotide
+32175421	CFR	case fatality rate
+32175421	MERS-CoV	Middle East respiratory syndrome coronavirus
+32175421	SARS-CoV	severe acute respiratory syndrome coronavirus
+32175703	MERS-CoV	Middle East Respiratory Syndrome Coronavirus
+32175703	PHEIC	Public Health Emergency of International Concern
+32175719	PRM	Physical and Rehabilitation Medicine
+32175797	COVID-19	Coronavirus Disease 2019
+32175797	COVID-19	coronavirus disease 2019
+32175797	CoV	coronavirus
+32175797	SARS-CoV-2	severe acute respiratory syndrome coronavirus - 2
+32176272	COVID-19	Coronavirus Disease 2019
+32176772	COVID-19	coronavirus disease 2019
+32176772	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32178768	COVID-19	Coronavirus disease 2019
+32178768	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32178769	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32178970	SARS-CoV	severe acute respiratory syndrome-related coronavirus
+32178975	COVID-19	Coronavirus disease 2019
+32178975	COVID-19	coronavirus disease 2019
+32178975	OR	odds ratio
+32178975	WMD	weighted mean difference
+32179124	95%CI	95% confidence intervals
+32179124	ARDS	acute respiratory distress syndrome
+32179124	COVID-19	Coronavirus Disease 2019
+32179124	ICU	intensive care unit
+32179124	PHEIC	Public Health Emergency of International Concern
+32179125	RT	reverse transcription
+32179788	Abeta	amyloid-beta
+32179788	EBOV	Ebola virus
+32179788	EBV	Epstein Barr virus
+32179788	GA	Ginkgolic acids
+32179788	HCMV	human cytomegalovirus
+32179788	HSV-1	Herpes simplex virus type 1
+32179788	IAV	influenza A virus
+32179788	NHA	normal human astrocytes
+32179788	VZV	varicella-zoster virus
+32179788	ZIKV	Zika virus
+32179890	COVID-19	Corona Virus Disease 2019
+32179890	HCWs	healthcare workers
+32180140	COVID-19	Coronovirus disease 2019
+32180426	MERS	Middle East respiratory syndrome
+32180426	SARS	severe acute respiratory syndrome
+32181302	ARIMA	Auto Regressive Integrated Moving Average
+32181302	COVID-2019	Coronavirus disease 2019
+32181488	PHEIC	public health emergency of international concern
+32181488	WHO	World Health Organization
+32181672	COVID-19	Coronavirus Disease 2019
+32181672	GGO	ground-glass opacity
+32181672	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32181795	COVID-19	Coronavirus Disease 2019
+32181901	E-protein	envelope protein
+32181901	N-protein	nucleocapsid protein
+32181901	S-protein	spike protein
+32181911	AUC	area under the ROC curve
+32181969	COVID-19	Coronavirus Disease 2019
+32181990	COVID-19	Coronavirus Disease 2019
+32182131	COVID-19	Coronavirus Disease 2019
+32182811	COVID-19	Coronavirus Disease 2019
+32182811	COVID-19	coronavirus disease 2019
+32183172	COVID-19	coronavirus disease 2019
+32183357	COVID-19	coronavirus disease 2019
+32183357	PoC	point-of-care
+32183930	COVID-19	coronavirus disease 2019
+32183930	CrI	credible interval
+32183934	COVID-19	coronavirus disease 2019
+32183935	COVID-19	coronavirus disease 2019
+32183937	COVID-19	coronavirus disease 2019
+32184129	MGs	mass gatherings
+32184131	SARS	severe acute respiratory syndrome
+32185669	COVID-19	coronavirus disease 2019
+32185921	COVID-19	coronavirus disease 2019
+32186171	SV	search volume
+32186172	NIV	non-invasive ventilation
+32186711	ACE2	angiotensin-converting enzyme 2
+32186711	ACEIs	angiotensin-converting enzyme inhibitors
+32186711	ARBs	angiotensin receptor blockers
+32186894	GGO	ground-glass opacity
+32186952	CoV	coronavirus
+32187007	SSEs	superspreading events
+32187464	CI	confidence interval
+32188728	DUB	deubiquitinating
+32188728	DUBmut	DUB mutant virus
+32188728	IFN	interferon
+32188728	PLP2	papain-like protease 2
+32188729	DUB	deubiquitinase
+32188729	EndoU	endoribonuclease
+32188729	UPR	unfolded protein response
+32188753	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32188819	SIR	Susceptible-Infected-Removed
+32189081	AI	Artificial Intelligence
+32189081	ML	Machine Learning
+32189175	GGOs	ground-glass opacities
+32189218	HFNC	high-flow nasal cannula
+32190290	COVID-19	Coronavirus disease 2019
+32190290	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32190890	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32190904	COVID-19	Coronavirus Disease 2019
+32191341	COVID-19	coronavirus disease 2019
+32191623	COVID-19	coronavirus disease 2019
+32191623	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32191675	WHO	World Health Organization
+32191689	COVID-19	coronavirus disease 2019
+32191691	COVID-19	Coronavirus disease 2019
+32191691	ICUs	intensive care units
+32191813	COVID-19	coronavirus disease-2019
+32191830	ARDS	acute respiratory distress syndrome
+32192296	COVID-19	Corona virus disease 2019
+32192296	MDT	Multidisciplinary team
+32192297	COVID-19	corona virus disease 2019
+32192297	CRC	colorectal cancer
+32192424	AEDT	Australian Eastern Daylight Time
+32192424	COVID-19	coronavirus disease 2019
+32192541	COVID-19	Coronavirus disease 2019
+32192580	COVID-19	coronavirus disease 2019
+32192580	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32192856	COVID-19	coronavirus disease 2019
+32193037	COVID-19	coronavirus disease-2019
+32193037	GGO	ground-glass opacities
+32193638	COVID-19	Coronavirus disease 2019
+32193638	COVID-19	coronavirus disease 2019
+32193638	CT	computed tomography
+32193638	RT-PCR	reverse transcription polymerase chain reaction
+32193831	COVID-19	coronavirus disease 2019
+32193831	ICU	Intensive Care Unit
+32193883	COVID-19	coronavirus disease 2019
+32193904	COVID-19	coronavirus disease 2019
+32193904	DT	drive-through
+32193905	COVID-19	coronavirus disease 2019
+32194152	COVID-19	Coronavirus Disease 2019
+32194239	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32194290	COVID-19	Coronavirus Disease 2019
+32194290	COVID-19	coronavirus disease 2019
+32194290	PSCI-16	Personal Social Capital Scale 16
+32194290	PSQI	Pittsburgh Sleep Quality Index
+32194290	SAS	Self-Rating Anxiety Scale
+32194290	SASR	Stanford Acute Stress Reaction
+32194290	SEM	structural equation modeling
+32194944	3CL pro	3C-like protease
+32194980	HCoVs	Human coronaviruses
+32194980	SARS-CoV	severe acute respiratory syndrome coronavirus
+32195311	COVID-19	coronavirus disease-2019
+32195311	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32195687	AABIP	American Association for Bronchology and Interventional Pulmonology
+32195698	COVID-19	Coronavirus Disease 2019
+32195698	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32195699	CAA	Chinese Association of Anesthesiologists
+32195699	CSA	Chinese Society of Anesthesiology
+32195887	COVID-19	Coronavirus Disease 2019
+32195887	CT	computed tomography
+32196032	Abs	antibodies
+32196032	nAbs	neutralizing Abs
+32196083	ARDS	acute respiratory distress syndrome
+32196083	CQ	Chloroquine
+32196083	HCQ	hydroxychloroquine
+32196116	EUDIAL	European Dialysis
+32196391	COVID-19	coronavirus disease 2019
+32196410	COVID-19	Coronavirus disease 2019
+32196410	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32196426	SARS-CoV	severe acute respiratory syndrome coronavirus
+32196430	COVID-19	coronavirus disease 2019
+32196430	HCoV	human coronavirus
+32196453	COVID-19	Coronavirus Disease 2019
+32196627	nCoV-19	novel coronavirus disease-19
+32196628	CoV	-CoronaVirus
+32196628	SARS	Severe Acute Respiratory Syndrome
+32196678	COVID-19	coronavirus disease 2019
+32196678	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32196700	EVD	Ebola virus disease
+32196700	SSA	sub-Saharan Africa
+32196707	ARDS	acute respiratory distress syndrome
+32196933	SARS-CoV-2	severe acute respiratory syndrome Coronavirus 2
+32196983	Covid-19	Coronavirus Disease 2019
+32196983	Covid-19	coronavirus disease 2019
+32197085	COVID-19	coronavirus disease 2019
+32197085	CoV	Pangolin-CoV
+32197238	COVID-19	coronavirus disease 2019
+32197339	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32198163	ARDS	acute respiratory disease syndrome
+32198190	COVID-19	coronavirus disease 2019
+32198191	COVID-19	coronavirus disease 2019
+32198191	CoV-2	-coronavirus-2
+32198191	SARS	severe acute respiratory syndrome
+32198201	CoVs	Coronaviruses
+32198201	PAMP	pathogen-associated molecular pattern
+32198291	Mpro	main protease
+32198501	COVID-19	coronavirus disease 2019
+32198754	US	United States
+32198915	ILD	interstitial lung disease
+32198985	COVID-19	Corona Virus Disease 2019
+32198985	COVID-19	corona virus disease 2019
+32198986	COVID-19	corona virus disease 2019
+32198986	MERS	Middle East respiratory syndrome
+32198986	SARS	severe acute respiratory syndrome
+32199075	IHR	International Health Regulations
+32199075	SPAR	State Party Annual Reporting
+32199615	ACE2	Angiotensin I converting enzyme 2
+32199619	CT	computed tomography
+32199619	NCP	novel coronavirus pneumonia
+32199792	COVID-19	Coronavirus Disease 2019
+32199792	NCIP	novel coronavirus-infected pneumonia
+32199792	PHEIC	Public Health Emergency of International Concern
+32199792	SARS	Severe Acute Respiratory Syndrome
+32199792	WHO	World Health Organization
+32199864	COVID-19	coronavirus disease 2019
+32199877	COVID-19	coronavirus disease 2019
+32199877	DCI	daily cumulative index
+32199943	ACE2	Angiotensin converting enzyme 2
+32199943	ACE2	angiotensin converting enzyme 2
+32200400	ARDS	acute respiratory distress syndrome
+32200400	COVID-19	coronavirus disease 2019
+32200613	SARS-CoV-2	se-vere acute respiratory syndrome coronavirus 2
+32200663	COVID-19	Coronavirus Disease 2019
+32201335	COVID-19	Coronavirus Disease 2019
+32201335	COVID-19	coronavirus disease-2019
+32201335	CVD	cardiovascular disease
+32201353	WHO	World Health Organization
+32201449	CoV	coronavirus
+32201449	NSPs	nonstructural proteins
+32201449	nCoV	2019-novel coronavirus
+32201972	COVID-19	Coronavirus Disease 2019
+32202240	COVID-19	coronavirus disease 2019
+32202240	MERS	Middle East respiratory syndrome
+32202240	SARS	severe acute respiratory syndrome
+32202256	COVID-19	coronavirus disease 2019
+32202256	CoV	coronavirus
+32202256	MERS	Middle East respiratory syndrome
+32202256	SARS	severe acute respiratory syndrome
+32202258	COVID-19	coronavirus disease 2019
+32202261	COVID-19	:Coronavirus disease 2019
+32202343	COVID-19	coronavirus disease 2019
+32202343	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32202401	COVID-19	coronavirus disease 2019
+32202646	COVID-19	coronavirus disease 2019
+32202646	OR	odds ratio
+32202659	COVID-19	coronavirus disease 2019
+32202911	GI	Gastrointestinal
+32203189	ACE2	angiotensin-converting enzyme 2
+32203189	COVID-19	Coronavirus Disease 2019
+32203189	RBD	receptor-binding domain
+32203189	S	spike
+32203189	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32203671	SARS-CoV-2	SARS-coronavirus-2
+32203711	ARDS	acute respiratory distress syndrome
+32203711	COVID-19	coronavirus disease 2019
+32203711	ECMO	extracorporeal membrane oxygenation
+32204411	COVID-19	Corona Virus Disease 2019
+32204411	OER	Online Ecological Recognition
+32204750	COVID-19	coronavirus disease 2019
+32204750	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32204753	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32204754	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32204755	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32204756	COVID-19	coronavirus disease 2019
+32204757	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32204949	COVID-19	coronavirus disease-19
+32204987	CT	computed tomography
+32204990	COVID-19	Coronavirus disease 2019
+32204990	COVID-19	coronavirus disease 2019
+32204990	GGO	ground-glass opacity
+32205090	HCWs	Health Care Workers
+32205090	eTCB	enhanced Traffic Control Bundling
+32205091	Index	HAQ-Index
+32205091	WHO	World Health Organization
+32205140	CT	Computed Tomographic
+32205186	RA	rheumatoid arthritis
+32205232	LH	Lianhuaqingwen
+32205232	TCM	traditional Chinese medicine
+32205267	MICI	medical information and content index
+32205349	COVID-19	coronavirus disease 2019
+32205349	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32205350	CHIK	Chikungunya virus
+32205350	MERS-CoV	Middle Eastern Respiratory Syndrome Coronavirus
+32206694	S	spike
+32206694	SARS-CoV	SARS coronavirus
+32207255	COVID-19	coronavirus disease 2019
+32207591	COVID-19	coronavirus disease 2019
+32207592	COVID-19	corona virus disease 2019
+32207679	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32208140	COVID-19	Coronavirus Disease 2019
+32208481	EHR	electronic health record
+32208987	ACE	angiotensin-converting enzyme
+32208987	ACE2	angiotensin-converting enzyme 2
+32209118	MCC	Matthews correlation coefficient
+32209661	WHO	World Health Organization
+32209890	ALT	Alanine transaminase
+32209890	AST	aspartate transaminase
+32209890	COVID-19	coronavirus disease 2019
+32209890	CRP	C-reactive protein
+32209890	DIC	disseminated intravascular coagulation
+32209890	WBC	white blood cell
+32210741	ZINC	www.zinc.docking.org
+32211279	WHO	World Health Organization
+32211755	PCR	polymerase chain reaction
+32211765	IBD	inflammatory bowel disease
+32211771	COVID-19	Coronavirus Disease 2019
+32211799	SARS-CoV-2	severe acute respiratory syndrome coronavirus-2
+32211816	COVID-19	Coronavirus disease 2019
+32211816	IQR	interquartile range
+32211911	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32211920	COVID-19	Coronavirus disease 2019
+32212058	HCP	Healthcare personnel
+32212103	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32212348	SARS-CoV2	severe acute respiratory syndrome coronavirus 2
+32212386	COVID-19	coronavirus disease of 2019
+32212409	SCAI ELM	Society for Cardiovascular Angiography and Interventions Emerging Leader Mentorship
+32212512	SARS-CoV-2	severe acute respiratory syndrome coronavirus-2
+32212513	COVID-19	Corona Virus Disease 2019
+32212513	COVID-19	corona virus disease 2019
+32212513	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32212779	COVID-19	Coronavirus Disease - 19
+32213081	MERS	Middle East respiratory syndrome
+32213081	SARS	severe acute respiratory syndrome
+32213231	PPE	personal protective equipment
+32213231	SARS-CoV-2	Severe Acute Respiratory Syndrome Coronavirus 2
+32213260	MERS	Middle East respiratory syndrome
+32213260	RoB	Risk of bias
+32213332	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32213337	COVID-19	Coronavirus disease 2019
+32213337	NP	nucleoprotein
+32213337	RBD	receptor binding domain
+32213337	RT-qPCR	reverse transcriptase quantitative PCR
+32213337	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32213556	COVID-19	coronavirus-infected disease 2019
+32213786	COVID-19	Coronavirus Disease 2019
+32213786	COVID-19	coronavirus disease 2019
+32213786	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32214079	COVID-19	Coronavirus Disease 2019
+32214079	COVID-19	coronavirus disease 2019
+32214079	ICU	intensive care unit
+32214286	ARDS	acute respiratory distress syndrome
+32214286	MOD	multiple organ dysfunction
+32214286	UC-MSCs	Umbilical Cord Mesenchymal Stem Cells
+32214286	UC-MSCs	umbilical cord mesenchymal stem cells or
+32214286	WHO	World Health Organization
+32215365	COVID-19	Coronavirus Disease 2019
+32215548	CD	Crohn's disease
+32215548	IBD	inflammatory bowel diseases
+32215548	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32215548	UC	ulcerative colitis
+32215613	ACE2	angiotensin-converting enzyme 2
+32215613	COVID-19	coronavirus disease 2019
+32215613	RAS	renin-angiotensin system
+32215613	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32215622	ACE2	angiotensin-converting enzyme 2
+32215622	COVID-19	Coronavirus Disease 2019
+32215691	AUC	area under the curve
+32215691	TSS	total severity score
+32215760	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32215952	COVID-19	Coronavirus Disease 2019
+32215952	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32215956	ACE2	angiotensin converting enzyme 2
+32215956	MERS-CoV	Middle East Respiratory Syndrome Coronavirus
+32215956	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32215977	PPE	personal protective equipment
+32215977	US	United States
+32216114	PLP	papain-like proteases
+32216114	PLP2	papain-like protease 2
+32216114	SADS-CoV	Swine acute diarrhea syndrome coronavirus
+32216717	CXR	chest x-ray
+32216717	GGO	ground glass opacity
+32216717	RT-PCR	reverse transcription polymerase chain reaction
+32216865	MCI	mass casualty incident
+32216961	COVID-19	coronavirus disease 2019
+32216961	CT	computed tomography
+32217113	COVID-19	Coronavirus Disease 2019
+32217113	COVID-19	coronavirus disease 2019
+32217113	RT-PCR	reverse transcriptase polymerase chain reaction
+32217113	Th2	T-helper 2
+32217117	ALI	acute lung injury
+32217117	ARDS	/acute respiratory distress syndrome
+32217506	EMPHNET	/Eastern Mediterranean Public Health Network
+32217506	EMR	Eastern Mediterranean Region
+32217506	GHD	Global Health Development
+32217506	WHO	World Health Organization
+32217507	COVID-19	coronavirus disease 2019
+32217556	covid-19	coronavirus disease 2019
+32217650	95%CI	95% confidence interval
+32217650	Covid-19	coronavirus disease 2019
+32217650	HR	hazards ratio
+32217834	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32217835	COVID-19	Coronavirus Disease 2019
+32217835	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32217900	CT	computed tomography
+32217947	APSF	Anesthesia Patient Safety Foundation
+32218301	RSV	respiratory syncytial virus
+32218340	IVIg	intravenous immunoglobulin
+32218558	MERS	Middle East Respiratory Syndrome
+32218558	SARS	Severe Acute Respiratory Syndrome
+32218915	WHO	World Health Organization
+32219006	COVID-19	coronavirus disease 2019
+32219006	SUQC	Susceptible, Un-quanrantined infected, Quarantined infected, Confirmed infected
+32219057	SARS-CoV	severe acute respiratory syndrome coronavirus
+32219356	COVID-19	Coronavirus Disease 2019
+32219356	COVID-19	coronavirus disease 2019
+32219356	CVD	cardiovascular disease
+32219356	IQR	interquartile range
+32219356	NT-proBNP	N-terminal pro-brain natriuretic peptide
+32219356	TnT	troponin T
+32219357	COVID-19	Coronavirus Disease 2019
+32219357	COVID-19	coronavirus disease 2019
+32219357	NT-proBNP	N-terminal pro-brain natriuretic peptide
+32219357	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219362	COVID-19	Coronavirus Disease 2019
+32219363	COVID-19	coronavirus disease 2019
+32219363	SARS-CoV-2	Severe acute respiratory syndrome coronavirus 2
+32219428	ARDS	acute respiratory distress syndrome
+32219428	COVID-19	Coronavirus disease 2019
+32219428	ECMO	extracorporeal membrane oxygenation
+32219428	ELISA	enzyme-linked immunosorbent assay
+32219428	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219428	SOFA	Sequential Organ Failure Assessment
+32219625	COVID-19	coronavirus disease 2019
+32219626	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219627	NCP	novel coronavirus pneumonia
+32219814	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219846	COVID-19	coronavirus disease 2019
+32219857	COVID-19	Coronavirus disease 2019
+32219857	ICTV	International Committee on Taxonomy of Viruses
+32219857	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219871	COVID-19	Coronavirus disease 2019
+32219871	COVID-19	coronavirus disease 2019
+32219871	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32219882	ALS	artificial liver system
+32219882	ECMO	extracorporeal membrane oxygenation
+32219882	SARS-CoV-2	severe acute respiratory syndrome-related coronavirus 2
+32220017	ARDS	acute respiratory distress syndrome
+32220017	COVID-19	Coronavirus disease 2019
+32220017	HCC	hepatocellular carcinoma
+32220033	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32220035	COVID-19	coronavirus disease 2019
+32220035	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32220112	COVID-19	coronavirus disease 2019
+32220112	SIC	sepsis-induced coagulopathy
+32220177	COVID-19	coronavirus disease 2019
+32220177	MERS-CoV	Middle East respiratory syndrome coronavirus
+32220177	SARS-CoV	severe acute respiratory syndrome coronavirus
+32220177	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32220178	COVID-19	Coronavirus disease 2019
+32220178	MERS	Middle East respiratory syndrome
+32220178	SARS	severe acute respiratory syndrome
+32220178	SARS-Cov-2	severe acute respiratory syndrome coronavirus 2
+32220179	COVID-19	coronavirus disease 2019
+32220179	DKA	diabetic ketoacidosis
+32220179	FPG	fasting plasma glucose
+32220179	HHS	hyperglycemic hyperosmolar status
+32220180	COVID-19	Coronavirus disease 2019
+32220181	COVID-19	Coronavirus Disease 2019
+32220181	COVID-19	coronavirus disease 2019
+32220243	COVID-19	coronavirus disease 2019
+32220276	COVID-19	Coronavirus disease 2019
+32220276	DIC	disseminated intravascular coagulation
+32220276	FDP	fibrinogen degradation product
+32220276	ICU	intensive care unit
+32220276	LMWH	low molecular weight heparin
+32220276	PT	Prothrombin time
+32220284	COVID-19	coronavirus disease 2019
+32220284	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32220574	COVID-19	Coronavirus disease 2019
+32220574	SARS-CO-V-2	severe acute respiratory syndrome coronavirus 2
+32220650	COVID-19	coronavirus disease 2019
+32220655	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32220655	SEIR	susceptible-exposed-infected-removed
+32221059	PPE	personal protective equipment
+32221117	COVID-19	coronavirus disease 2019
+32221172	COVID-19	Coronavirus disease of 2019
+32221172	US	United States
+32221306	CoV	coronaviruses
+32221306	hACE2	human angiotensin converting enzyme 2
+32221519	Ab	antibodies
+32221523	COVID-19	Coronavirus disease 2019
+32221523	Ct	cycle threshold
+32221523	RT-PCR	reverse transcription PCR
+32221523	ddPCR	droplet digital PCR
+32221964	COVID-19	coronavirus disease-2019
+32221970	COVID-19	coronavirus disease 2019
+32221970	SARS-CoV-2	Severe acute respiratory syndrome-corona virus-2
+32221973	COVID-19	coronavirus disease 2019
+32221979	MAC	Macintosh
+32221979	VL	videolaryngoscopy
+32221983	ACE2	Angiotensin-converting enzyme 2
+32221983	RAS	renin-angiotensin system
+32222047	COVID-19	Coronavirus disease 2019
+32222091	SARS-CoV-2	severe acute respiratory syndrome coronavirus 2
+32222091	WHO	World Health Organization
+32222119	COVID-19	coronavirus disease 2019
+32222119	CT	computed tomography
+32222119	RT-PCR	reverse-transcriptase polymerase-chain-reaction
+32222121	COVID-19	corona virus disease 2019
+32222122	COVID-19	corona virus disease 2019
+322550	CPAP	continuous positive airway pressure
+3289726	CT	computerized tomographic
+3323599	AMNS	puromycin-aminonucleoside
+3323599	FSGS	focal segmental glomerular sclerosis
+3323599	PS	protamine sulfate
+3341566	HEM	hemorrhage
+3341566	SBP	systolic blood pressure
+3341566	SNP	sodium nitroprusside
+3341566	SPV	systolic pressure variation
+3343337	SLS	Sjogren-Larsson syndrome
+3346017	DMD	Duchenne muscular dystrophy
+3346017	RFLPs	restriction fragment length polymorphisms
+3346018	DMD	Duchenne muscular dystrophy
+3347839	DMD	Duchenne muscular dystrophy
+3347839	Dmd	Duchenne muscular dystrophy
+3347839	mRNA	messenger RNA
+3348216	G6PD	glucose 6-phosphate dehydrogenase
+3354603	GS	Gardner syndrome
+3377761	G6PD	glucose-6-phosphate dehydrogenase
+3383127	5-FU	5-fluorouracil
+3393536	G6PD	Glucose-6-phosphate dehydrogenase
+3409645	AMHS	Azrin Marital Happiness Scale
+3417303	APOE	apolipoprotein E
+3425586	RBCs	red blood cells
+3455778	PAH	phenylalanine hydroxylase
+3455778	PKU	Phenylketonuria
+3464560	DMD	Duchenne muscular dystrophy
+3524231	DMD	Duchenne muscular dystrophy
+3524231	GH	growth hormone
+3533179	CYA	cyclophosphamide
+3560095	GI	gastrointestinal
+3563511	HPRT	hypoxanthine phosphoribosyltransferase
+3565372	G6PD	glucose-6-phosphate dehydrogenase
+3565372	HNSHA	hereditary nonspherocytic hemolytic anemia
+35781	NA	noradrenaline
+3578281	PWS	Prader-Willi syndrome
+3591825	ALD	adrenoleukodystrophy
+3600793	DMD	Duchenne muscular dystrophy
+3600793	OTC	ornithine transcarbamylase
+3600794	DMD	Duchenne muscular dystrophy
+3600794	Phk	phosphorylase b kinase locus
+3600794	Ta	Tabby
+3600794	kb	kilobases
+3615198	PAH	phenylalanine hydroxylase
+3615198	PKU	Phenylketonuria
+3659917	DMD	Duchenne muscular dystrophy
+3674116	PWS	Prader-Willi syndrome
+3678494	DMD	Duchenne muscular dystrophy
+3685052	MSG	Monosodium glutamate
+3685052	MSG	monosodium glutamate
+3708328	GABA	gamma-aminobutyric acid
+3708328	SNR	substantia nigra pars reticulata
+3711722	VIP	Vasoactive intestinal polypeptide
+3714122	NTE	neuropathy target enzyme
+3718019	C2	complement factor 2
+3746148	ECGs	electrocardiograms
+3798047	MP	methylprednisolone
+3828020	PPA	Phenylpropanolamine
+3856322	PAH	phenylalanine hydroxylase
+3856322	PKU	Phenylketonuria
+3862128	PAH	phenylalanine hydroxylase
+3862128	PKU	Phenylketonuria
+3876122	BT	bleeding time
+3876122	RiCof	ristocetin cofactor
+3876122	SDS	sodium dodecyl sulfate
+3876122	vWD	von Willebrand disease
+3876122	vWF	vWF:Ag
+3876122	vWF:Ag	von Willebrand factor antigen
+3987172	PPA	Phenylpropanolamine
+3990093	CC	colloidal carbon
+3990093	PAN	puromycin aminonucleoside
+4019732	CP	CLP
+4019732	VWS	van der Woude syndrome
+4082192	BNPP	bis(p-nitrophenyl) phosphate
+4082192	F344	Fischer 344
+4082192	PAP	p-aminophenol
+435349	Sch	Suxamethonium chloride
+439781	BP	blood pressure
+439781	IDM	indomethacin
+439781	PRA	plasma renin activity
+448423	EACA	Epsilon aminocaproic acid
+448423	SAH	subarachnoid hemorrhage
+492335	MW	molecular weight
+511159	G6PD	glucose-6-phosphate dehydrogenase
+523196	HAT	hypoxanthine aminopterin thymidine
+523196	HPRT	hypoxanthine guanine phosphoribosyl transferase
+6086495	BMD	Becker muscular dystrophy
+6086495	BMD	Becker muscular dystrophy
+6086495	RFLPs	restriction fragment length polymorphisms
+6086495	RFLPs	restriction fragment length polymorphisms
+6087154	HPRT	Hypoxanthine-guanine phosphoribosyltransferase
+6087154	L-N	Lesch-Nyhan syndrome
+6101415	WAS	Wiskott-Aldrich syndrome
+6106951	FZP	flurazepam
+6106951	PTZ	pentylenetetrazol
+624546	G6PD	Glucose-6-phosphate dehydrogenase
+6310832	Aza	azathioprine
+6310832	CMV	Cytomegalovirus
+6337374	G6PD	Glucose-6-phosphate dehydrogenase
+6387532	ALD	adrenoleukodystrophy
+6387532	BMT	bone marrow transplant
+6387532	VLCFA	very long chain fatty acids
+6524872	ALD	Adrenoleukodystrophy
+6529939	S-A	sinoatrial
+6538499	ADR	adriamycin
+6538499	PEG 400	polyethylene glycol 400
+6585184	DMD	Duchenne muscular dystrophy
+6585184	RFLP	restriction fragment length polymorphism
+6604602	HEMRI	HEREDITARY MULTIFOCAL RELAPSING INFLAMMATION
+6618488	PWS	Prader-Willi syndrome
+6631522	I-131 HA	[omega-I-131]heptadecanoic acid
+6650504	TSD	Tay-Sachs disease
+6666578	D-pen	D-penicillamine
+6666578	TEM	transmission-electron microscopy
+6673474	SNP	sodium nitroprusside
+6673474	TMP	trimetaphan
+6695685	AV	atrioventricular
+6747681	BCNU	1,3-bis-(2-chloroethyl)-1-nitrosourea
+6806735	HMM	hexamethylmelamine
+6888657	DES	diethylstilbestrol
+6888657	PRL	prolactin
+6985297	AP	action potential
+7018927	LH	luteinizing hormone
+7018927	LH-RH	LH-releasing hormone
+7055648	CNSHA	congenital nonspherocytic hemolytic anemia
+7055648	G6PD	Severe-glucose-6-phosphate dehydrogenase
+7055648	LAP	leukocyte alkaline phosphatase
+7076260	G6PD	glucose-6-phosphate dehydrogenase
+7106752	G6PD	Glucose-6-phosphate dehydrogenase
+7147232	ATP	Adenosine triphosphate
+7147232	SNP	sodium nitroprusside
+7166314	G6PD	glucose-6-phosphate dehydrogenase
+7191069	MG	myasthenia gravis
+7202134	ALD	adrenoleukodystrophy
+7298854	CTX	cerebrotendinous xanthomatosis
+7298854	HDL	high density lipoproteins
+7298854	LDL	low density lipoproteins
+7298854	apo	apoprotein
+7315872	CTX	cerebrotendinous xanthomatosis
+7316485	G6PD	glucose 6-phosphate dehydrogenase
+7352670	SNP	sodium nitroprusside
+7390473	G6PD	glucose-6-phosphate dehydrogenase
+7422429	TF	transfer factor
+7437512	WAS	Wiskott-Aldrich syndrome
+7444053	ALD	adrenoleukodystrophy
+7458742	G6PD	Glucose-6-phosphate dehydrogenase
+7479194	TMP-SMZ	trimethoprim-sulfamethoxazole
+7479827	VLCAD	Very-long-chain acyl-CoA dehydrogenase
+7490097	WD	Wilson disease
+7492040	MI	myocardial infarction
+7516729	BF	Basal frequency
+7550229	GALT	galactose-1-phosphate uridyltransferase
+7550230	PST	proline/serine/threonine-rich
+7568002	HD	Huntington disease
+7573040	MJD	Machado-Joseph disease
+7573040	SCA3	spinocerebellar ataxia 3 locus
+7574457	PLP	proteolipid protein
+7579347	WAS	Wiskott-Aldrich syndrome
+7579347	XLT	X-linked thrombocytopenia
+7605382	CETP	Cholesteryl ester transfer protein
+7605382	HDL	high density lipoprotein
+7605382	PCR	polymerase chain reaction
+7607677	MPS IVA	Mucopolysaccharidosis IVA
+7617034	G6PD	Glucose-6-phosphate dehydrogenase
+7628595	HIV	human immunodeficiency virus
+7628595	ZDV	zidovudine
+7652577	CDK4	cyclin-dependent kinase 4
+7652577	CTLs	cytolytic T lymphocytes
+7663517	PTT	protein truncation test
+7668252	VLCAD	very-long-chain acyl-coenzyme A dehydrogenase
+7668252	VLCAD	very-long-chain acyl-coenzyme A dehydrogenase
+7671401	ACE	Angiotensin-converting enzyme
+7696601	MRI	magnetic resonance imaging
+7717396	ADO	Addison disease only
+7717396	AMN	adrenomyeloneuropathy
+7717396	X-ALD	X-linked adrenoleukodystrophy
+7726234	DMD	Duchenne muscular dystrophy
+7727612	VLBW	very-low-birth-weight
+7739955	CPR	cardiopulmonary resuscitation
+7739955	PICU	pediatric intensive care unit
+7759106	HD	Huntington disease
+7769092	VLCAD	very-long-chain acyl-coenzyme A dehydrogenase
+777027	C5D	C5-deficient
+7795652	LOH	loss of heterozygosity
+7802009	MZ	monozygotic
+7811247	ALD	adrenoleukodystrophy
+7811247	ALD	adrenoleukodystrophy
+7814011	ND	Norrie disease
+7825578	SCA3	spinal cerebellar ataxia 3
+7857677	GD	Gaucher disease
+7858169	ARSA	Aryl sulfatase A
+7858169	MLD	Metachromatic Leukodystrophy
+7874163	MJD	Machado-Joseph disease
+7881871	PAN	puromycin aminonucleoside
+7890216	UDCA	ursodeoxycholic acid
+7894491	SSCP	single-strand conformation polymorphism
+7930386	PRL	prolactin
+7931490	IV	intravenous
+7949506	AV	atrioventricular
+7951327	LEC	Long-Evans Cinnamon
+7959759	ALD	Adrenoleukodystrophy
+7959767	HD	Huntington disease
+7962532	CETP	cholesteryl ester transfer protein
+7962532	HDL-C	HDL cholesterol
+7964884	CDCA	chenodeoxycholic acid
+7964884	CTX	cerebrotendinous xanthomatosis
+7964884	HDL	high-density lipoprotein
+7964884	HMG	3-hydroxy-3-methylglutaryl
+7964884	LDL	low-density lipoprotein
+7981671	CHM	choroideremia
+7981671	PCR-SSCP	polymerase chain reaction single-strand conformation polymorphism
+7991123	AMN	adrenomyeloneuropathy
+7991123	AdolCALD	adolescent cerebral ALD
+7991123	CCALD	childhood cerebral ALD
+7991123	X-ALD	X-linked adrenoleukodystrophy
+8002973	ALD	adrenoleukodystrophy
+8002973	ALD	adrenoleukodystrophy
+8012387	PLP	proteolipid protein gene
+8012387	PMD	Pelizaeus-Merzbacher disease
+8012387	SPG	spastic paraplegia
+8023850	ASPA	aspartoacylase
+8071955	IQ	intelligence quotient
+8071955	WAIS-R	Wechsler Adult Intelligence Scale Revised
+8084618	EWS	NTD-EWS
+8088831	ASPA	aspartoacylase
+8092427	AMP	ampicillin
+8092427	AX	amoxicillin
+8092427	BPO-PLL	benzylpenicilloyl-poly-L-lysine
+8092427	RAST	radioallergosorbent test
+8098245	PAH	phenylalanine hydroxylase
+8101038	ARSA	arylsulfatase A
+8101038	MLD	metachromatic leukodystrophy
+8104633	ARSA	arylsulfatase A
+8104633	MLD	Metachromatic leukodystrophy
+8104633	PCR	polymerase chain reaction
+8116611	PBL	peripheral blood leukocytes
+8160791	DMTU	dimethylthiourea
+8160791	GM	gentamicin
+8160791	RBF	renal blood flow
+8160791	SOD	Superoxide dismutase
+8162051	APC	adenomatous polyposis coli
+8162051	SSCP	single strand conformational polymorphism
+8178825	HD	Huntington disease
+8187068	AR	androgen receptor
+8188241	AKU	Alkaptonuria
+8188982	ANP	atrial natriuretic peptide
+8188982	AVP	arginine vasopressin
+8188982	CCB	cardiac component of baroreflex
+8188982	HR	heart rate
+8188982	HRp	HR period
+8188982	LV	lateral ventricle
+8188982	Phe	phenylephrine
+8188982	SAP	systolic arterial pressure
+8188982	SHR	spontaneously hypertensive
+8188982	SN	sodium nitroprusside
+8198124	RT-PCR	"reverse-transcribed, PCR-amplified"
+8198128	FRDA	Friedreich ataxia
+8209890	PWS	Prader-Willi syndrome
+8209890	WC	well children
+8240110	ERG	electroretinogram
+8252631	CHRPE	congenital hypertrophy of the retinal pigment epithelium
+8258524	DMD	Duchenne muscular dystrophy
+8258524	ERG	electroretinogram
+8266996	AS	Angelman syndrome
+8266996	PWS	Prader-Willi syndrome
+8279472	WND	Wilson disease gene
+8282802	ApoA-II	apolipoprotein A-II
+8282802	HDL	high density lipoprotein
+8282802	LCAT	lecithin:cholesterol acyltransferase
+8282802	apo	apolipoproteins
+8301658	WAS	Wiskott-Aldrich syndrome
+8302543	rds	retinal degeneration slow
+8302922	EBF	epidural blood flow
+8302922	HR	Heart rate
+8302922	MAP	mean arterial blood pressure
+8302922	PGE1	prostaglandin E1
+8302922	RPP	rate pressure product
+8302922	TMP	trimethaphan
+8312983	SSRIs	selective serotonin reuptake inhibitors
+8317477	HD	Huntington disease
+8326491	TSD	Tay-Sachs disease
+8370681	AVP	arginine vasopressin
+8375105	DMD	Duchenne muscular dystrophy
+8387218	ddI	didanosine
+8408659	CETP	Cholesteryl ester transfer protein
+8410052	NF	neurofilament
+84204	M.S.	mental status
+8434621	FMF	familial Mediterranean fever
+8441467	ALD	Adrenoleukodystrophy
+8441467	AMN	adrenomyeloneuropathy
+8441467	VLCFA	very-long-chain fatty acids
+8460149	apo	apolipoprotein
+8466512	VLCAD	very-long-chain acyl-CoA dehydrogenases
+8471773	G6PD	glucose-6-phosphate dehydrogenase
+8471773	PCR	polymerase chain reaction
+8477262	CHM	choroideremia gene
+8477262	PCR	polymerase chain reaction
+8477262	SSCP	single strand conformation polymorphism
+8500791	PCR	Polymerase chain reaction
+8500791	vWF	von Willebrand factor
+8522307	VHL	von Hippel-Lindau
+8528198	WAS	Wiskott-Aldrich syndrome
+8528199	WAS	Wiskott-Aldrich syndrome
+8528200	MJD	Machado-Joseph disease
+8533762	G6PD	glucose-6-phosphate dehydrogenase
+8533768	BPAD	bipolar affective disorder
+8533768	RUP	recurrent unipolar
+8551426	GALT	galactose-1-phosphate uridyltransferase
+8558192	CI	confidence interval
+8558192	CR	complete response
+8558192	DI	dose-intensity
+8558192	PR	partial response
+8558192	VNB	vinorelbine
+8558192	WHO	World Health Organization
+8558192	i.v.	intravenous
+8566952	ALD	Adrenoleukodystrophy
+8566952	ALD/AMN	adrenoleukodystrophy/adrenomyeloneuropathy
+8566952	VLCFAs	very long chain fatty acids
+8571951	AO II	Atelosteogenesis type II
+8571951	DTD	diastrophic dysplasia
+8571951	DTDST	diastrophic dysplasia sulfate-transporter gene
+8589715	EDMD	Emery-Dreifuss muscular dystrophy
+8589723	VNTR	variable number of tandem repeats
+8589723	kb	kilobase
+8590259	IOP	intraocular pressure
+8595416	DMAHP	DM locus-associated homeodomain protein
+8595686	VAS	visual analogue scale
+8605116	PCR	polymerase chain reaction
+8621452	MHC	major histocompatibility haplotypes
+8622978	vWF	von Willebrand factor
+8625410	WAS	Wiskott-Aldrich syndrome
+8636252	ALD	adrenoleukodystrophy
+8636252	AMN	Adrenomyeloneuropathy
+8638206	NMBAs	Neuromuscular blocking agents
+8649546	PD	Parkinson's disease
+8659522	HD	Huntington disease
+8659549	ASPA	aspartoacylase
+8659767	VT	ventricular tachycardia
+8661102	A-T	ataxia-telangiectasia
+8666397	WASP	Wiskott-Aldrich syndrome protein
+8666397	sf	scurfy
+8669433	ESRD	end-stage renal disease
+8670333	FMF	familial Mediterranean fever
+8673131	DMPK	DM-protein kinase
+8673132	Dmpk-/-	Dmpk deficient
+8675707	CETP	cholesteryl ester transfer protein
+8675707	CHD	coronary heart disease
+8675707	HDL	high density lipoprotein
+8675707	RR	relative risk
+8678979	Chr	Chromosome
+8682510	VASP	vasodilator-stimulated phosphoprotein
+8682510	WASP	Wiskott-Aldrich syndrome protein
+8692963	GALT	galactose-l-phosphate uridylyl-transferase
+8696339	HD	Huntington disease
+8700509	ARPP1	acidic ribosomal phosphoprotein P1
+8701950	CyA	cyclosporin A
+8701950	MAHA	microangiopathic hemolytic anemia
+8723064	FISH	fluorescence in situ hybridization
+8723064	PWS	Prader-Willi syndrome
+8723064	SNRPN	small nuclear ribonucleoprotein polypeptide N
+8733131	VHL	von Hippel-Lindau
+8739323	5-FU	5-fluorouracil
+8739323	CY	cyclophosphamide
+8739323	MTX	methotrexate
+8739323	NG	nitrogranulogen
+8748050	NMS	neuroleptic malignant syndrome
+8748050	SS	serotonin syndrome
+8755612	BN	Brown Norway
+8755612	DES	diethylstilbestrol
+8755612	F344	Fischer 344
+8755645	FED	fish-eye disease
+8755645	LCAT	lecithin:cholesterol acyltransferase
+8755918	A-T	ataxia-telangiectasia
+8755918	A-T	ataxia-telangiectasia
+8758207	HD	heteroduplex
+8758207	SSCP	single strand conformation polymorphism
+8776595	EMDM	Emery-Dreifuss muscular dystrophy
+8782829	HNPCC	hereditary nonpolyposis colorectal cancer
+8786135	AT	ataxia-telangiectasia
+8786135	MMU9	map of mouse chromosome 9
+8789439	ND	Norrie disease
+8808605	G6PD	glucose-6-phosphate dehydrogenase
+8808730	CYP	cyclophosphamide
+8808730	DRG	dorsal root ganglia
+8808730	IR	NOS-immunoreactive
+8808730	NOS	nitric oxide synthase
+8812423	CASH	chromosome assignment using somatic cell hybrids
+8812423	FISH	fluorescence in situ hybridization
+8812423	HMG	high mobility group
+8812423	LPP	lipoma preferred partner gene
+8819482	ISO	isoproterenol
+8824873	HD	Huntington disease
+8825052	FISH	Fluorescence in situ hybridisation
+8825380	PAN	puromycin aminonucleoside
+8825380	rh	recombinant human
+8828602	PAH	phenylalanine hydroxylase
+8828602	PKU	phenylketonuria
+8843193	AT	ataxia-telangiectasia
+8845838	ACD	acyl-CoA dehydrogenase
+8845838	RACE	Rapid Amplification of cDNA Ends
+8845838	VLCAD	Very-long-chain acyl-CoA dehydrogenase
+8892662	C7D	C7 deficiency
+8894695	APRT	adenine phosphoribosyltransferase
+8894695	HPRT	hypoxanthine-guanine phosphoribosyl-transferase
+891050	HUS	hemolytic uremic syndrome
+8919272	BBB	blood-brain-barrier
+8929264	DCC	deleted in colorectal cancer
+8929413	5-HTT	5-HT transporter
+8931695	ACG1B	achondrogenesis type 1B
+8931695	AO2	atelosteogenesis type 2
+8931695	DTD	diastrophic dysplasia
+8931701	WAS	Wiskott-Aldrich syndrome
+8931701	WASP	WAS protein
+8931709	AAPC	attenuated adenomatous polyposis coli
+8931709	APC	adenomatous polyposis coli
+8931709	FAP	Familial adenomatous polyposis
+8944024	kb	3.45-kilobases
+8944024	kb	45-kilobases
+8944024	nt	20-nucleotides
+8944024	nt	20-nucleotides
+8954016	HPT-JT	hyperparathyroidism-jaw tumor syndrome
+8954016	MEN	multiple endocrine neoplasia
+895432	EC	exercise control
+895432	S-I	sedentary-isoproterenol
+895432	SC	sedentary control
+8957205	TRH	thyrotropin-releasing hormone
+8957205	hCRH	Human corticotropin-releasing hormone
+8968760	A-T	ataxia-telangiectasia
+8985298	HBV	hepatitis B virus
+8985298	HBsAg	hepatitis B surface antigen
+8996419	OCs	oral contraceptives
+8996419	VTE	venous thromboembolism
+9012409	GALT	galactose-1-phosphate uridyltransferase
+9012409	LA	"Los Angeles
+9020847	DMPK	DM protein kinase gene
+9020847	UTR	untranslated region
+9028321	ALPS	autoimmune lymphoproliferative syndrome
+9028321	DN	double negative,
+9028321	sCD30	soluble CD30
+9028321	slL-2R	soluble interleukin-2 receptor
+9056547	PLP	proteolipid protein gene
+9056547	PMD	Pelizaeus-Merzbacher disease
+9056547	SPG	spastic paraplegia
+9069115	AKU	alkaptonuria gene
+9069115	EST	expressed sequence tags
+9069115	HGO	homogentisate 1,2-dioxygenase
+9069115	b	bases
+9083764	SJS	Schwartz-Jampel syndrome
+9088814	AKBR	arterial ketone body ratio
+9088814	PGE1	prostaglandin E1
+9090524	WT	Wilms tumour
+9125676	ECG	electrocardiographic
+9125676	SCL	sinus-cycle length
+9128918	5-HIAA	5-hydroxyindoleacetic acid
+9128918	AN	arcuate nucleus
+9128918	CP	caudate putamen
+9128918	DA	dopamine
+9128918	ME	median eminence
+9128918	MPA	medial preoptic area
+9128918	NE	norepinephrine
+9128918	PRL	prolactin
+9128918	SN	substantia nigra
+9128918	TIDA	tuberoinfundibular dopaminergic
+9128918	ZI	zona incerta
+9138149	PTT	protein truncation test
+9144439	INS	insulin gene
+9158667	APL	acute promyelocytic leukemia
+9158667	ATRA	all-trans-retinoic acid
+9174057	ARP	arginine-rich protein gene
+9195227	ESR	estrogen receptor gene
+9197951	DEP	diethylpropion
+9222760	DGGE	denaturing gradient gel electrophoresis
+9222760	GALT	galactose-1-phosphate uridyltransferase
+9223307	A-T	ataxia-telangiectasia
+9241282	DM	dystrophia myotonica
+9245987	CpGs	CpG dinucleotides
+9249847	AVRT	atrioventricular reentrant tachycardia
+9271438	RCC	renal cell carcinoma
+9271438	VEGF	vascular endothelial growth factor
+9271438	wt-VHL	wild-type VHL
+9272171	GALC	galactosylceramidase
+9272171	PCR-SSCP	polymerase chain reaction/single-strand conformation polymorphism
+9284778	CFCs	chlorofluorocarbons
+9284778	HCFCs	Hydrochlorofluorocarbons
+9284778	P450 2E1	cytochrome-P450 2E1
+9288106	A-T	Ataxia-telangiectasia
+9288106	B-NHL	B-cell non-Hodgkin's lymphomas
+9288106	T-PLL	T-cell prolymphocytic leukaemia
+9311732	LOH	loss of constitutional heterozygosity
+932197	C5D	C5-deficient
+9336417	AS	ankylosing spondylitis
+9336417	DZ	dizygotic
+9336417	MZ	monozygotic
+9358014	HH	hereditary hemochromatosis
+9360520	ADNDI	Autosomal dominant neurohypophyseal diabetes insipidus
+9360520	AVP	arginine vasopressin
+9360520	NPII	AVP-neurophysin II
+9382023	BP	blood pressure
+9382108	HD	Huntington disease
+9385378	MPS IVA	Mucopolysaccharidosis IVA
+9385378	mtDNA	mitochondrial DNA
+9390208	5-FU	5-fluorouracil
+9406968	AVP	arginine vasopressin
+9406968	Li	lithium
+9406968	PVN	paraventricular
+9406968	SON	supraoptic nuclei
+941901	TSD	Tay-Sachs disease
+941901	hex A	hexosaminidase A
+9427148	AGA	aspartylglucosaminidase
+9427148	AGU	Aspartylglucosaminuria
+9428298	CNA	continuously nebulized albuterol
+9428298	INA	intermittent albuterol
+9439660	A-T	ataxia-telangiectasia
+9443866	A-T	ataxia-telangiectasia
+9448273	RCC	renal cell carcinomas
+9448273	VHL	von Hippel-Lindau
+9463309	Hp	haptoglobin gene
+9463309	Hpr	haptoglobin-related gene
+9463314	A-T	ataxia-telangiectasia
+9465039	C282Y	Cys-282 --> Tyr
+9465039	TfR	transferrin receptor
+9465039	beta2m	beta2-microglobulin
+9465301	UTR	3'-untranslated region
+9467011	CD	Cowden disease
+9472666	C6D	C6 deficiency
+9472666	PCR	polymerase chain reaction
+9497246	CI	confidence interval
+9506545	MJD	SCA3/Machado-Joseph disease
+9521325	IVF	idiopathic ventricular fibrillation
+9521421	MPS IVA	Mucopolysaccharidosis IVA
+9523805	TNSs	transient neurologic symptoms
+9529364	DDS	Denys-Drash syndrome
+9529364	DMS	diffuse mesangial sclerosis
+9529364	IDMS	isolated DMS
+9529364	WT	Wilms tumor
+9546397	TfR	transferrin receptor
+9563950	CUG-BP	CUG-binding protein
+9563950	cTNT	cardiac troponin T
+9570197	LV	left ventricular
+9578276	CRM	continual reassessment method
+9578276	MTD	maximum tolerated dose
+9580132	AVP	arginine vasopressin
+9580132	AVP-NPII	AVP-neurophysin II
+9580132	FNDI	Familial neurohypophyseal diabetes insipidus
+9585605	AS	Angelman syndrome
+9585605	UPD	uniparental disomy
+9585611	AAPC	attenuated adenomatous polyposis coli
+9585611	FAP	familial adenomatous polyposis
+9585611	PTT	protein-truncation test
+9590178	MIS	Mullerian inhibiting substance
+9590178	SF-1	steroidogenic factor 1
+9590178	WT1	Wilms' tumor 1
+9590284	IC	'imprinting centre'
+9590284	PWS	Prader-Willi syndrome
+9600235	A-T	ataxia-telangiectasia
+9603435	Hex A	beta-hexosaminidase A
+9603435	TSD	Tay-Sachs disease
+9618166	PDS	Pendred, the disease gene
+9618170	XLDCM	X-linked dilated cardiomyopathy
+9620771	ACTH	adrenocorticotrophin
+9620771	MC4-R	melanocortin-4-receptor
+9620771	MSH	melanocyte-stimulating hormones
+9620771	POMC	pre-pro-opiomelanocortin
+9634518	MHP	mild hyperphenylalaninemia
+9634518	PAH	phenylalanine hydroxylase
+9634518	PKU	Phenylketonuria
+9647766	FP	flavoprotein
+9647766	HP	hydrophobic protein
+9647766	IP	iron sulphur protein
+9647766	IP	iron-sulfur protein
+9647766	ORF	open reading frame
+9647766	UTR	untranslated regions
+9660111	TRI	Trimipramine
+9668171	DMPK	DM protein kinase gene
+9668171	UTR	3'-untranslated region
+9672936	PCA	patient-controlled analgesia
+9674903	GABRB3	gamma-aminobutyric acid receptor beta3 subunit
+9674903	PWS	Prader-Willi syndrome
+9674903	SNRPN	small nuclear ribonucleoprotein-associated polypeptide N
+9674903	UPD	uniparental disomy
+9674906	SJS	Schwartz-Jampel syndrome
+9674906	SWS	Stuve-Wiedemann syndrome
+9689113	vWf	von Willebrand factor
+9702690	AD	Alzheimer's disease
+9702690	ALD	adrenoleukodystrophy
+9702690	CSF	cerebrospinal fluid
+9702690	CT	computed tomogram
+9702690	MRI	magnetic resonance image
+9702690	PET	positron emission tomography
+9705283	PST	proline-serine-threonine
+9709714	VLCAD	Very-long-chain acyl-coenzyme A dehydrogenase
+9714764	EGF	epidermal growth factor
+9714764	IDDM	insulin-dependent diabetes mellitus
+9714764	LDL	low-density lipoprotein
+9714764	LDLR	LDL-receptor
+9714764	LRP5	lipoprotein receptor related protein 5
+9724771	FAP	familial adenomatous polyposis
+9729124	CLD	chloride diarrhea
+9729124	PDS	Pendred syndrome gene
+9731533	CRC	colorectal cancer
+9731533	FAP	familial adenomatous polyposis
+9744473	ARSA	arylsulfatase A
+9744473	MLD	metachromatic leukodystrophy
+9766615	EPS	extrapyramidal symptoms
+9770531	VHL	von Hippel-Lindau
+9771706	WFS	Wolfram syndrome
+9782254	RF	radiofrequency
+9782254	UPDRS	Unified Parkinson's Disease Rating Scale
+978847	i.c.	intracisternal
+978847	i.v.	intravenous
+9790667	CTX	cerebrotendinous xanthomatosis
+9792409	A-T	ataxia-telangiectasia
+9792409	PTT	protein truncation test
+9792409	REF	restriction endonuclease fingerprinting
+9800909	DMD	Duchenne muscular dystrophy
+9831355	HNPCC	hereditary non-polyposis colorectal cancer
+9843038	CPO	coproporphyrinogen oxidase
+9843038	HCP	Hereditary coproporphyria
+9848786	FH	Factor H
+9848786	FHL-1	Factor H-like protein 1
+9848786	FHR	FH-related protein
+9848786	HUS	hemolytic uremic syndrome
+9855119	AR	acute rejection
+9855119	CR	chronic rejection
+9861003	BPAD	Bipolar affective disorder
+9862868	BDL	bile duct ligation
+9862868	EE	ethinyl estradiol
+9862868	TJs	tight junctions
+9869257	NGF	nerve growth factor
+9869602	ASO	allele-specific oligonucleotide
+9869655	BS	bile salt
+9869655	EE	17alpha-ethinylestradiol
+9881641	ACh	acetylcholine
+9881641	EDRF	endothelium-derived relaxing factor
+9881641	K+	K(ATP)
+9881641	VIP	vasoactive intestinal polypeptide
+9888388	CPO	coproporphyrinogen III oxidase
+9888388	DGGE	denaturing gradient gel electrophoresis
+9888388	HC	Hereditary coproporphyria
+9888390	A464V	alanine 464 by valine
+9888390	ARSA	arylsulfatase A
+9888390	GS	galactosylsulfatide
+9888390	MLD	metachromatic leukodystrophy
+9927033	NF1	neurofibromatosis type 1
+9931093	CNP	C-type natriuretic peptide
+9931093	ECE-1	endothelin-converting enzyme-1
+9931093	ET-1	endothelin-1
+9931093	eNOS	endothelial nitric oxide synthase
+9949197	EDMD	Emery-Dreifuss muscular dystrophy
+9949197	LBR	lamin B receptor
+9949197	mAbs	monoclonal antibodies
+9949209	CT	copper toxicosis
+9949209	FISH	fluorescence in situ hybridization
+9949209	WD	Wilson disease
+9950360	APC	adenomatous polyposis coli
+9950360	FAP	familial adenomatous polyposis
