@@ -4,7 +4,8 @@ import datetime
 import os
 import sys
 import re
-
+import lxml.etree
+from tqdm import tqdm
 from bioc import biocxml
 
 combine_whitespace = re.compile(r"\s")
@@ -27,7 +28,10 @@ def sanitize(text):
 def process_BioCXML(input_filename):
 	mentions = set()
 	with open(input_filename, "r") as fp:
-		collection = biocxml.load(fp)
+		try:
+			collection = biocxml.load(fp)
+		except lxml.etree.XMLSyntaxError:
+			return mentions
 	for document in collection.documents:
 		for passage in document.passages:
 			for annotation in passage.annotations:
@@ -54,11 +58,11 @@ if __name__ == "__main__":
 	if os.path.isdir(input_path):
 		print("Processing directory " + input_path)
 		# Process any xml files found
-		dir = os.listdir(input_path)
+		dir = tqdm(os.listdir(input_path))
 		for item in dir:
 			input_filename = input_path + "/" + item
 			if os.path.isfile(input_filename):
-				print("Processing file " + input_filename)
+				# print("Processing file " + input_filename)
 				mentions.update(process_file(input_filename))
 	elif os.path.isfile(input_path):
 		print("Processing file " + input_path)

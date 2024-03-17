@@ -3,7 +3,7 @@ import collections
 import datetime
 import os
 import sys
-
+from tqdm import tqdm
 from bioc import biocxml
 
 def read_normalized(input_filename):
@@ -92,12 +92,12 @@ if __name__ == "__main__":
 			raise RuntimeError("If input path is a directory then output path must be a directory: " + output_path)
 		print("Processing directory " + input_path)
 		# Process any xml files found
-		dir = os.listdir(input_path)
+		dir = tqdm(os.listdir(input_path))
 		for item in dir:
 			input_filename = input_path + "/" + item
 			output_filename = output_path + "/" + item
 			if os.path.isfile(input_filename):
-				print("Processing file " + input_filename + " to " + output_filename)
+				# print("Processing file " + input_filename + " to " + output_filename)
 				process_file(input_filename, output_filename, mention_key2identifier)
 	elif os.path.isfile(input_path):
 		if os.path.isdir(output_path):
