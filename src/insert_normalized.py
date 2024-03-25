@@ -5,13 +5,14 @@ import os
 import sys
 from tqdm import tqdm
 from bioc import biocxml
+import lxml
 
 def read_normalized(input_filename):
 	mention_key2identifier = dict()
 	if input_filename.endswith(".gz"):
-		file = gzip.open(input_filename, 'rt', encoding="utf-8") 
+		file = gzip.open(input_filename, 'rt', encoding="utf-8")
 	else:
-		file = codecs.open(input_filename, 'r', encoding="utf-8") 
+		file = codecs.open(input_filename, 'r', encoding="utf-8")
 	for line in file:
 		line = line.strip()
 		if len(line) > 0:
@@ -23,8 +24,8 @@ def read_normalized(input_filename):
 	return mention_key2identifier
 
 def process_PubTator(input_filename, output_filename, mention_key2identifier):
-	input_file = codecs.open(input_filename, 'r', encoding="utf-8") 
-	output_file = codecs.open(output_filename, 'w', encoding="utf-8") 
+	input_file = codecs.open(input_filename, 'r', encoding="utf-8")
+	output_file = codecs.open(output_filename, 'w', encoding="utf-8")
 	for line in input_file:
 		line = line.strip()
 		fields = line.split("\t")
@@ -48,7 +49,10 @@ def process_PubTator(input_filename, output_filename, mention_key2identifier):
 
 def process_BioCXML(input_filename, output_filename, mention_key2identifier):
 	with open(input_filename, "r") as fp:
-		collection = biocxml.load(fp)
+		try:
+			collection = biocxml.load(fp)
+		except lxml.etree.XMLSyntaxError:
+			return
 	for document in collection.documents:
 		for passage in document.passages:
 			annotations = passage.annotations.copy()
@@ -65,10 +69,10 @@ def process_BioCXML(input_filename, output_filename, mention_key2identifier):
 							del annotation.infons["identifier"]
 					else:
 						annotation.infons["identifier"] = identifier
-					passage.annotations.append(annotation)					
+					passage.annotations.append(annotation)
 	with open(output_filename, "w") as fp:
 		biocxml.dump(collection, fp)
-	
+
 if __name__ == "__main__":
 	start = datetime.datetime.now()
 	if len(sys.argv) != 5:
@@ -78,14 +82,14 @@ if __name__ == "__main__":
 	input_format = sys.argv[2].lower()
 	mention_key2identifier = read_normalized(sys.argv[3])
 	output_path = sys.argv[4]
-	
+
 	if input_format == "pubtator":
 		process_file = process_PubTator
 	elif input_format == "biocxml":
 		process_file = process_BioCXML
 	else:
 		raise ValueError("Unknown format: {}".format(input_format))
-	
+
 	start = datetime.datetime.now()
 	if os.path.isdir(input_path):
 		if not os.path.isdir(output_path):
@@ -105,8 +109,7 @@ if __name__ == "__main__":
 		print("Processing file " + input_path + " to " + output_path)
 		# Process directly
 		process_file(input_path, output_path, mention_key2identifier)
-	else:  
+	else:
 		raise RuntimeError("Path is not a directory or normal file: " + input_path)
 	print("Total processing time = " + str(datetime.datetime.now() - start))
 	print("Done.")
-

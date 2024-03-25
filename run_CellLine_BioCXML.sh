@@ -17,7 +17,7 @@ DATE=$(date "+%Y%m%d%H%M%S")
 RAND=${RANDOM}
 TEMP_DIR="${BASE_TEMP_DIR}/${HOST}_${DATE}_${RAND}"
 echo "TEMP_DIR=${TEMP_DIR}"
-mkdir ${TEMP_DIR}
+mkdir -p ${TEMP_DIR}
 
 # Extract mentions
 INPUT_MENTIONS="${TEMP_DIR}/mentions.tsv"
